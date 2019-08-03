@@ -6938,7 +6938,7 @@ contentedly on what looked like a human arm.
 "Very well. Tally ho!" He charged toward the building at top donkey
 speed.
 
-Malachai's Journal vol. 3
+# Malachai's Journal vol. 3
 
 Rivka and I parted company. I tried Bleys' Trump. Explaining that he was
 expecting another call he asked if he might call me later, in the

@@ -1,0 +1,228 @@
+Return-Path: mark.stein@circellar.com
+From: mark.stein@circellar.com
+Organization: Circuit Cellar, Inc.
+X-Mailer: TBBS/PIMP v3.34
+Date: Mon, 24 Apr 95 07:47:15 -0400
+Subject: Amber stuff
+To: dkap@sanctuary.haven.org
+                                                                                
+                                                                                
+Hey ho. Things have been busy and distracting around here, but I finally
+got around to dealing with Rhiannon. Here's what I've got on her thus
+far. Other details as I come up with them or you need them.
+                                                                                
+General descriptive:
+        Ht.: 5'2"       Hair: black, straight, short
+        Wt.: 105#       Eyes: brilliant green
+                                                                                
+        Heraldry: Quarterly gules and azure, on a fess argent three
+                  pheons gules.
+        Mode of dress: Prefers belted tunics and riding pants;
+                       cotehardie for formal occasions.
+                                                                                
+Stats:  Strength: Amber           0
+        Psyche: 3.5              25            [+4]
+        Warfare: Chaos          (10)
+        Endurance: 4.5           20
+                               -----
+                                 35         of 154
+                                                                                
+Powers: Advanced Pattern        75
+        Conjuration             15
+        Sorcery                 20  (or was Conjuration 10 and Sorcery 25?)
+                              -----
+                               110
+                                         =====
+                                          145 of 154
+ 
+Shadow:  Personal; content &
+          access controlled      4
+                                         =====
+                                          149
+ 
+Creatures & Artifacts:
+        Agents, environmental
+          (magic-heavy Shadow)   5
+        Trump deck               2
+                              -----
+                                 7
+                                         =====
+                                          156
+ 
+Contribution:  Diary           (10)
+                                         =====
+                                          146 of 154
+ 
+College fund for
+  listening posts (see below)    8
+                                         =====
+                                          154  (Zero Stuff)
+                                                                                
+Listening posts:  will report to Switchboard daemons at regular intervals
+and on demand, including changes in status of Pattern traces, Logrus
+traces, Trump use (if possible?), significant fluctuations in levels and
+types of magical energy, armed conflict, other trends as needed (we can
+discuss this).
+ 
+  Vitality - Amber                        4
+  Stamina - Eternal                       4
+  Damage resistance vs. guns              2
+  Speak/sing                              2
+  Psychic sensitivity - extraordinary     4
+  Psychic resistance - Chaos              1
+  Self heal                               1
+  Advanced Trump                          6
+                                        ----
+                                         24
+                x3 Horde quantity               ====
+                                                 72
+ 
+I'll concentrate my testing and early placement in the area where Allistair
+was last heard from (or where his itinerary left off). We'll discuss at
+some point what the final quantity on these things is going to be when
+the network is complete; it may well involve changing the modifier.
+ 
+For that matter, I'll be talking with Mom from time to time about the
+artifacts and how to improve their design, explaining that I'm using the
+working prototypes to try to track my missing cousin's movements -- and
+see if she wants to go in on the project with me and share access. Not
+quite the root password, though...
+
+Switchboard daemons will feed information to memory daemons, and my
+contact by trapped-Trump as discussed. Does it present a problem to enable
+the daemons to contact me on their own initiative, under pre-arranged
+circumstances?
+ 
+More details on the Shadow and whatever else you need as I come up with
+them.
+ 
+ 
+ 
+ 
+--
+     Mark Eric Stein, Esq. 169 Sisson Ave., Hartford, CT 06105-4009
+              203-232-2664  ***  mark.stein@circellar.com
+                    ---  =====  *******  =====  ---
+Then, Lady, I do what Kieron the Conqueror did upon the cliffs of Adrilankha.
+                          I await the morrow.
+
+From: mark.stein@circellar.com
+Organization: Circuit Cellar, Inc.
+X-Mailer: TBBS/TIGER v1.0
+Date: Fri, 05 Jan 96 12:00:33 -0500
+Subject: game.misc
+To: dkap@sanctuary.haven.org
+ 
+                                                                                     
+1. Things Rhiannon's doing after taking that trump call.
+        The agenda's pretty simple. I just spent a couple hours doing
+sorcerous
+manipulation and skullwork; I could use a snack. Off to the kitchen. I arrived
+at dinner after Rivka left and so didn't see her at high table; by force of
+habit I'd look for her there before realizing that she's acknonwledged
+Clarissa-spawn now and probably wouldn't be there. Sigh. There's a
+conversation
+I should run with her sometime (I need her e-mail address)...meanwhile I'll
+nibble at something. Not quite hungry enough for an Omelette Merlinnaise.
+        After that, I think I'll make the rounds of newcomers and see how
+they're settling in. In addition to making nice chat and offering whatever
+help
+I can provide with their adjustment, I want to take another look through the
+lens at them; only two of them left footprints in time, and that doesn't jibe
+with my memory of them.
+                                                                                     
+2. Things Orlando's doing after dinner and checking up on Jackie.
+        First to the training rooms (they're where I remember, right?). If
+somebody's handy who looks fun to spar with, I'll work some travel kinks out.
+Not for very long, maybe an hour give or take.
+        Next I want to go to the library and find a basic primer on the last
+500 - 1000 years of history. I'll also get a listing of everything Benedict
+has
+himself written in that time span; if it's more than a half dozen books, I'll
+check out four works that seem like they may be representative of the whole.
+In
+each case, I'm looking to track similarities, differences, divergences.
+ 
+There may be more, but not with my brain in its current state. Have fun.
+ 
+ 
+ 
+ 
+From mark.stein@circellar.com  Sun Feb  4 11:26:23 1996
+From: mark.stein@circellar.com
+Organization: Circuit Cellar, Inc.
+X-Mailer: TBBS/TIGER v1.0
+Date: Sun, 04 Feb 96 11:19:15 -0500
+Subject: Rhi's Time Off
+To: dkap@haven.org
+ 
+ 
+First, I will get a full briefing from Benedict if I have to CHOKE it
+out of him...
+ 
+Next I want to check on Malachai's condition and ask him quite frankly
+why he was being an idiot, gulping down that much energy from a hostile
+pattern. If he's doing less than well I'll do what I can to help. And
+I'll grab someone else I know was there -- maybe Flora can give me an
+introduction to this Katherine person -- and cross-check Benedict's
+account of events on as many levels as possible.
+ 
+Gee, does Mom being 10 years old mean I can *spank* her for all this?
+No? Damn. I'll help care for her as best I can, examine her quite
+thoroughly by all the means I have, and see whether her condition is
+reversible, her mind and memories are intact, &c.
+ 
+I still have a meeting to handle with Llewella. She told me to trump
+her; when I do I'll have all the defenses I can muster against being
+pulled through involuntarily in place. I trust her as far as I can spit
+a Panzer. I'll go through her position point by point and directly ask
+her to justify tearing apart the entire Golden Circle trade alliance
+over each. She probably can justify some of them, and I'm trying to be
+fair; this isn't a power play for me, I just want business back to
+normal in the city. I haven't had a decent day's shopping down there in
+ages.  :)  I'll give up what I'm authorized to give up (gradually) only
+if she's willing to give a little on her side, and if she's totally
+inflexible I'll petition Granddad to appoint an arbitrator now that he's
+back in town. For that matter, if Gerard or Caine is back in town (they
+were at the dustup at Corwin's pattern, right?) I'll get one or both of
+them online with this stuff.
+ 
+Rivka...dear gods, Rivka. <sigh> Added agenda item for our talk is
+whether she has a reliable means of contacting her mother. With Mom
+probably sidelined, Grandma needs to stop hiding the ball *now*. I'll
+trade my time-variance data and its implications for a *whole* *lot* of
+what she knows about what's been going on and the basis for her belief
+in some grand scheme to undermine reality itself. (But I won't release
+that data until I've had a chance to review the updates, especially when
+we've got some significant data from after the Gwen dustup.)
+ 
+On Rivka herself <ahem>...I'd love to have a better understanding of the
+basis of Clarissa's power, since it's a big chunk of my legacy too. I'll
+talk with Jen about how much Rivka is willing to let me find out about
+her...I suspect Rhi has the rhisources to learn more about Rivka through
+direct examination than Rivka knows about herself. That could take a
+while; one must be *quiite* thorough about these things.  :)
+ 
+Connor. Bleh. Something has pushed the field of his spell outward,
+presumably, while reeling back time inside it. Presumably that something
+is the hot-poured energy from Corwin's pattern. I want to take some time
+to study that effect, and if Bleys shows up I want to enlist his help.
+If Mom still has her mind all together, she'll want to see this too. For
+that matter, so might Corwin; he's the closest thing to an expert on how
+his pattern behaves.
+ 
+In my COPIOUS spare time I'll be helping Orlando get up to date on where
+history diverged, chatting with Ivy about why she's apparently cloaking
+her Pattern imprint if she wants to be trusted here (you're not? what
+happened to you in Faerie?), tinkering with my network, un-existing a
+Gwen statue or two when I think of it (maybe even by Shadow-editing that
+patch of ground into never-existedness), and planting rumors that Rivka
+is really Orlando's mother by Benedict. Those features with that
+coloring...It Could Be True.  :)
+ 
+There may be more. I can't think of it right at the moment.
+ 
+HAve fun..
+ 
+Mark
+

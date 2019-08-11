@@ -1,0 +1,4164 @@
+Strength         0 orig C
+Psyche          10 orig A
+Warfare          0 orig C
+Endurance        0 orig C
+                                                                                      
+Conjuration (+5) partial
+Logrus (70) 59 (discount) Advanced
+Shapeshifting (35) 31 (discount)
+Sorcery 15
+                                                                                      
+Shadow (3) 1.5 (shared)
+Chaos Friend 2
+College fund towards Endurance (6.5)
+                                                                                      
+Zero stuff
+
+Date: Tue, 7 May 1996 19:03:36 -0400
+From: dskern@ftp.com (David Kern)
+To: dkap@haven.org
+Subject: rough draft of char stuff
+ 
+ 
+Here are some rough ideas about the character from talking with you at
+the past two movie nights... I thought that I might as well get some
+feedback from you on it before fleshing anything out too thoroughly.
+ 
+dave
+ 
+ 
+ 
+Naturally, tell me that I'm being crazy if anything here clashes with
+common sense or pre-existing chunks of your universe.
+ 
+A decent chunk of this is invalid, in light of our conversation on
+Monday. However, I'll leave it in so you can laugh at it. :)
+ 
+>From what I can remember of what we talked about Monday, here's a more
+accurate description.
+ 
+<name>  (I'm lousy at coming up with character names)
+ 
+Cousin to the heirs of house Cara, wants to raise the status of his
+house and his own status within the house, culminating in his being the
+chief advisor to the head of the house. Good friends with one of his
+cousins (probably not the heir, but his younger brother) - they grew up
+together, explored shadow together, and customized their own shadow
+together. More about the shadow later. More recently, <name> has been
+teaching his cousin some of the more advanced portions of logrus
+mastery.   <name> is currently fairly young (300-700?)
+
+Studied the logrus under Suhey; worked his way up to journeyman, and
+then started learning magic. I'm not sure how many points I'll have
+-- I'd like him to start with sorcery and conjuration so he can
+have built a staff that he can hook spells on, but that will probably
+not happen.
+ 
+He is contemptuous of his father for not taking some form of action
+against his brother before the line of succession was firmly established
+down that path.
+ 
+He learned basic swordwork, like all members of the Courts, but usually
+carries a staff due to the defensive superiority of a staff, as well as
+the standard magely/sagely image associated with same.  Always dresses
+neatly and precisely. Will don a chainmail shirt (under the outermost
+layer, of course) when he is expecting a cross-shadow battle - otherwise
+he just pops off an "invulnerable to normal weapons" spell on his
+clothing when combat starts.
+ 
+Q for the GM: is it considered poor form for someone other than the
+ruler/heir of a house to wear the house colors? What are the colors of
+house Cara?
+ 
+Q for the GM: is it possible to spend part of the 10 points to upgrade
+>from chaos to amber level stats, in order to be between the two levels,
+like the half-ranks in the ladders?
+ 
+Talk about the shadow here.  <Shadow> definitely contains a power source
+that he commonly taps for his sorcery.  <name> keeps a self-teleport
+spell targeted on his keep in this shadow, for a get-away-quick spell
+(one lynchpin only (?) )
+ 
+When warring with his cousin, he tends to practice his heavy-firepower
+spells, hanging as many as he can fit the night before a battle then
+showing up and frying everything in sight (except for his cousin, of
+course) in interesting ways. His cousin tends to respond by entering the
+next battle himself and personally decimating <name's> army.
+ 
+Question for the GM: what titles are there in house Cara? Would a nephew
+to a head of house count as a noble? A Lord of Chaos? Pond scum?
+ 
+------------- old stuff -------
+ 
+ 
+Random assortment of ideas:
+ 
+Considers Mandor to be a role model. Doesn't want to rule - wants to
+tell the ruler what to do. Member of a minor house, one of the ones that
+is trying to become a major house. Not in the direct line of succession
+- possibly first cousin to the heir(s).  On good terms with them - since
+he was far below them in the order of succession and their father was
+still actively working on producing heirs, he was less mistrusted by
+them than each other. About the same age as the 2nd oldest cousin,
+fairly good friends w/ him.
+ 
+ 
+crude rep of possible family tree:
+ 
+              grandpa (dead)
+                  |
+                   |
+ +------------------------------+------------+--- (?)
+ |                              |            |
+ |                              |            |
+current head                    |            |
+   |                         his father      |
+   |                              |          |
+   |                              |         (?)
++-------+-----+                   |
+|       |     |                   |
+|       |     |                   |
+heir apparent |               +---------+
+        |     |               |         |
+        |     |               |         |
+    2nd son   |              him        |
+              |                         |
+              |                      (maybe a younger
+            yet another kid            sibling)
+            
+ 
+Wants to become indespensible to the future rulers, so is trying to gain
+powers of a miscellaneous or arcane nature. Fairly young, only a few
+hundred years old.  Possibly studied the logrus under Suhey (or someone
+wimpier), learned basic sorcery from his father, and is wandering shadow
+in order to broaden his experience. Hasn't wandered into the
+pattern-dominated areas yet. Tends to return home regularly, to touch
+base with his family.  Probably has trumps for his cousins and his
+father. Wants to become a powerful sorcerer - never was highly skilled
+with a blade, tended to concentrate on more defensive combat arts, like
+staff.  Possibly carries a staff.  Clothing varies, from robes through
+pants, but always dresses neatly and precisely. Almost never seen
+wearing armor, but might put on a light chainmail shirt under his outer
+layer of clothing if anticipating a major battle.
+
+------- end of old stuff ---------
+ 
+ 
+From dskern@ftp.com  Wed May 15 18:35:21 1996
+Date: Wed, 15 May 1996 18:38:31 -0400
+From: dskern@ftp.com (David Kern)
+To: dkap@haven.org
+Subject: amber questions
+ 
+ 
+Is it considered poor form for someone who is not the ruler/heir of a
+house to wear the house colors? What are house Cara's colors?
+ 
+You stated that you were going to send me more info about house cara...
+gimme gimme gimme. :-)
+ 
+More info on the way...
+ 
+dave
+
+Date: Thu, 20 Jun 1996 18:32:58 -0400
+From: dskern@ftp.com (David Kern)
+To: dkap@haven.org
+Subject: more amber stuff
+ 
+ 
+I decided that if I waited to finish all of the quizzes before sending
+anything to you, I'd be waiting forever. Here's one section...
+ 
+ 
+ 
+ 
+HYPOTHETICAL (30) Answer in character please.  Answer in full, feel free to
+                  take as many pages as you wish.
+ 
+1. If you were an object, you would be...
+ 
+Ygg. I'm not sure why, but it just feels right.
+ 
+2. How long do you expect to live?
+ 
+I have no intention of dying, so forever.
+ 
+3. Could you be successfully kidnapped?  How would you react to that?
+ 
+Yes, if faced with probable death, I'd allow myself to be kidnapped. I'd
+wait until the odd combination of circumstances that blocked my escape
+and their vigilance declined, and would then leave. Next, kill the
+kidnappers by any means necessary, up to and including nuking entire
+regions of shadows with primal chaos. Finally, I would find out who
+was behind the kidnapping and destroy them, in the most agonizing and
+humiliating means possible.
+ 
+4. What would you change about your parent if you could? Why?
+ 
+He was born a few decades too late, and never had the ambition necessary
+to become truly powerful. He's a competant swordsman, a decent psionic,
+a fairly good mage, and competant at manipulating logrus energies, but
+never excelled at anything. He's a nice, harmless, friendly person who
+didn't even try to become heir to our house. Now it's too late for that,
+so the best that I can do is try to raise our house's status and become
+indispensible to the current rulers.
+ 
+5. Plan your perfect funeral and wedding.  What would be different if you
+   were planning them for your best friend?
+ 
+The perfect funeral would definitely have to include the lack of a
+well-identified body, and a twinge of doubt on everyone's faces as to
+whether or not I was truly dead. If the funeral was for my best friend,
+then ideally I would know where he was actually hiding out, and I'd be
+using the funeral to try to help discover who was attacking or
+threatening him. Wedding? Hmm.... beats me.  I've never really groked
+the wedding thing.
+ 
+6. Do you think you would make a good parent and why?
+                                                                                      
+I have no desire to have children at this time - maybe in a thousand
+years or so.  Children occupy too much of one's time in order to raise
+properly, and if you're not going to do it right, why bother?
+ 
+7. What would be the worst tortures for you (physical and psychological)?
+ 
+Watching my family die slowly, one member at a time, and then being
+left alive and framed for the murders.  Physically, I'm not sure.
+Probably being cut off from the Logrus and any magical sources of power,
+and being given a link through which I could observer happenings in the
+outside world, but not affect them.  No, wait - that's psychological
+again.
+ 
+8. Under what circumstances would you consider torturing someone else?
+ 
+If they had done me some harm in the past, if I knew that they were
+planning harm on me in the future, if they had some information that I
+desperately needed, or if I felt like it at the time.  Of course, real
+people have a slightly higher standard of evidence.
+ 
+9. Describe who would be your perfect date?  What would you do?
+ 
+Since Dave has never been on a date (all of my relationships kinda
+skipped that stage -- traditional dating is very rare at MIT, people
+just go from "close friends" to "close friends who are sleeping
+together"), I have no idea what happens on them, so couldn't explore
+those possibilities in-character either.
+ 
+10. How much do you value human life?  Are chaosians "human"?  Are shadow
+    dwellers "human"?
+ 
+Real creatures are human, whether chaosian, amberite, demon, or other.
+Shadow critters, on the other hand, are another story entirely, unless
+they have some manner of cross-shadow power (magic, broken pattern,
+etc), or come from a primal plane, then aren't just shadow creatures.
+However, if they're just shadow creatures with some magical tricks, then
+who cares? I could probably build another one with the logrus.
+ 
+11. If you weren't caught up in current events, where would you be and what
+    would you be doing?
+ 
+Exploring shadow on the far edge of the influence of chaos, finding,
+challenging, and destroying shadow-mages in order to gain practice,
+continuing to play with my shadow to enhance my skill with the logrus
+and force of will, studying with Suhey occasionally, engaging in the
+occasional war or battle to gain skill in those areas, and learning as
+much as I could of the politics of chaos and amber.  Since House Cara
+has tied her destiny to the predominance of Amber, familiarity with the
+politics of Amber could become very useful.
+ 
+12. Under what conditions would you refuse a trump call? Which would you
+    forgo if they were pushing it?
+ 
+Since trumps are very rare on the chaos end of things, I haven't had to
+deal with this situation in the past. If I was in the middle of a duel
+that required my attention, or was busy swimming in the Sea of Chance,
+I'd be far less likely to answer than if I was staring at a wall, bored.
+ 
+Of course, that depends on who had trumps of me that I knew of. If the
+only trump was in the hands of my cousin, I'd be more likely to take an
+inconvenient trump contact than if the only trump was in the hands of my
+dad.
+ 
+13. If you were able to have any additional single power, item or ally,
+    what/who would it be and why?  What would you be willing to sacrifice
+    to get it?
+ 
+Possibly Corwin's pattern. Actually, it might be entertaining to start
+collecting the imprints of as many sources of power as I can find. Let's
+see... there's the Logrus, Amber's pattern, Corwin's pattern, Fairy,...
+What would I be willing to sacrifice for it? Well, certainly not any of
+my existing powers. I've never been the sacrificing sort.  I'd be
+willing to split my time farther to aid various people, since those
+contacts and powers will pay off for the House in the long run.
+ 
+ 
+14. Which of the family do you feel trusts you the most or is closest to
+    you?
+ 
+That would have to be the as of yet unnamed cousin with whom I am
+sharing Home. (hey dkap - I need a family tree for House Cara at some
+point)
+ 
+ 
+15. A film is being made about your life.  What genre would it be?  Who
+    would play the lead?  The chief supporting cast?  If there is a co-star
+    that stands out, who would it be?
+ 
+Genre, heroic fantasy/superhero/dangerous liasons. As to the actors,
+well, dave doesn't do the hollywood obsession thing. No clue...
+ 
+16. For several months now, you have had an uneasy feeling and last night's
+    murder confirms your suspicions.  Someone is after you and is not about
+    to let your friends or staff get in the way.  Unfortunately for you,
+    this person has been quite good at concealing their identity.  What is
+    your next move?
+ 
+Inform my cousin and possibly a few friends of the matter, and head Home
+to set an ambush for this assassin.  If anyone can take me out in Home
+when I'm fully prepared, well, there's not much that I can do about it.
+If no ambush happens within a reasonable period of time, I'll start
+using magic and logrus to search for the assassin, and assassinate them
+myself.
+ 
+17. It's a relatively calm, peaceful time and you decide to take the Royal
+    way for a shadow walk.  Describe the highlights of your journey.  (If
+    you are incapable of doing so, pretend you have found an item that
+    allows you to do so.)
+ 
+It would be a fairly jerky Royal way, with many radical swings in
+environment. A virgin forest, a giant museum filled with exquisite works
+of art, a medieval battlefield, a short stretch through outer space,
+perhaps a jaunt through Flatland,...
+ 
+18. A secret admirer has sent you a gift, you open the package to discover
+    a book.  What's the title?
+ 
+Finnigan's Wake
+ 
+19. You've just received word that, due to some dalliance in Shadow, you
+    are soon to be a parent.  How do you react to this news?  Aside from
+    the obvious problems this raises if you are the one that is pregnant,
+    how will this change the upcoming months/years?
+ 
+That would depend entirely on who the other parent is. If it's just some
+shadow creature, either ignore the whole matter or take her on a tour of
+shadow -- including a Pern-style ride on dragonback.
+ 
+If she was someone with whom having a child would be a valuable
+connection (Clarissa, Cassandra, Fiona, Dierdre, etc), I'd take a few
+decades off to help raise the kid, and probably tame down a section of
+Home for use as a playpen.
+ 
+20. It's been a miserable day; nothing has gone right, which has left you
+    in a really foul mood.  You need to blow off some major steam.  What do
+    you do?
+ 
+Find a nice little war somewhere in shadow and win it, utterly
+destroying both sides with a large number of seriously overpowered
+destruction spells (nuke, explode flesh/rock,...), and perhaps some raw
+chaos as well.  Toss in a bit of hand-to-hand in my chaos form for good
+measure, and I should be considerably calmer afterwards.
+ 
+21. Someone just pulled a practical joke on you and got you *good*.  What
+    did they do and how did you react?  How would you retaliate?
+ 
+Probably tampered with Home somehow. Since that is my only true
+possession, it would be the most likely target. Perhaps modifying Home
+such that my shifting is off, and I have to spend a while in a safe
+pocket restoring the sequence of shifting to one of my choosing.
+Retaliate by returning the favor a few years later. I like to think that
+I have a good sense of humor...
+ 
+22. You've just been ambushed and are barely holding your own.  Your Trumps
+    have been destroyed or knocked out of reach and you see no way to
+    escape.  Suddenly, you get a Trump call.  You answer desperately,
+    hoping for an ally, but it turns out to be someone you don't really
+    trust at all.  They offer to pull you out and give you safety if you
+    promise to do them a favor in the future.  Do you accept ?
+ 
+Yes, of course. Naturally, any favors that would hurt my house would be deemed
+imappropriate...  I'm hard enough to kill or pent and have enough ways
+to move through shadow that I'm not particularly worried about that - I
+should be able to *bamf* away from any ambush that doesn't instantly
+kill me.
+ 
+23. Describe your death, as you feel it will be.  Is there an 'afterlife'?
+    If so, what is it like?
+ 
+My death would probably involve a close encounter with the Pattern,
+which tends to be rather fatal. Then again, Merlin walked Amber's
+pattern after having navigated the Logrus, so that might not be the
+case. It would almost definitely be quick and messy.  I've never bought
+into the idea of religions, although it would be interesting to try to
+detect a person's spirit - perhaps by studying the resurrection
+techniques used in Drageara - and then attempt to use those same
+techniques in other shadows, and eventually on primal planes or on real
+people. Hmmm... I'll have to add another item to my To Do list.
+                                                                                      
+24. Is there anyone that you wish *didn't* have a Trump of you?  (This is
+    not necessarily only enemies; include people you would not have given
+    your Trump to, had you had the choice.)
+ 
+My father. I would rather not be easily contactably by him when I am not
+in the courts.  (of course, given chaosians' usual attitude towards
+trump, he probably doesn't have one anyway)
+ 
+25. If you had a pet, what would it be?
+ 
+The chaosian equivalent of a ferret, or possibly a wolf - except wolves
+make far better companions than pets.  One of these days I'll have to
+find and befriend a pack of wolves with some shifting ability - they
+tend to make good company.
+ 
+26. How would your father describe you when you were growing up?  and now?
+    What about your mother, then and now?
+ 
+dad:
+Serious, but with an odd sense of humor. Studied hard, played harder,
+and tried to combine the two whenever possible. Now, he never seems to
+be around when I look for him...
+ 
+mom:
+?
+ 
+ 
+27. Supposed you feel lonely for companionship.  Write up a personals ad.
+ 
+Lord of Chaos seeks lusty, well-connected babe for long, intimate
+travels through rapidly changing environs, midnight dips into pools of
+primal chaos, and all of the other joys that only shapeshi<lost>
+to one another. Pattern initiates need not apply.
+ 
+28. If there were scandalous rumors being told about you, how would you
+    cope?
+ 
+If they were being spread by shadow critters, destroy them. If they were
+being spread by real people, find out why they are spreading them,
+make the rumors appear foolish and absurd, and then over the course of
+the next several decades, either destroy those who started the rumors or
+return the favor, depending on whether or not the rumors were intended
+to be harmful, or merely amusing.
+ 
+29. If a police raid or an abduction (assuming it would succeed) broke into
+    to your sleeping quarters, how would they find you sleeping (prone,
+    supine, hanging like a bat :) How would you be dressed? Would you be
+    alone?  Do you have a Teddy bear?  What does the bed-chamber look like?
+ 
+They would find me floating in a zero-G pocket, in my chaos form. And
+then my wards and defenses would destroy them. The appearance of the
+bedchamber changes constantly - the only fixed feature is my bed, which
+changes appearance as well, but always acts like a zero-G pocket.
+ 
+30. If someone were to give you the perfect gift, what would it be?
+                                                                                      
+A power source of my very own (Pattern, Logrus, etc.)
+ 
+31. Do you believe in higher powers influencing you or other members of
+    your family?  If so, what are they and what are the influenced actions,
+    and if not, why not?
+ 
+Suhey counts as a higher power in my book, and he influences matters
+constantly.
+
+
+From dskern@ftp.com  Wed May 15 19:53:39 1996
+Date: Wed, 15 May 1996 19:57:11 -0400
+From: dskern@ftp.com (David Kern)
+To: dkap@haven.org
+Subject: some spells
+                                                                                
+                                                                                
+So, what kind of a description do you want for each spell?
+                                                                                
+Are any of these just too insane/powerful/silly?
+                                                                                
+dave
+                                                                                
+                                                                                
+Spell List, version 0.1  960515
+                                                                                
+                                                                                
+Index:
+                                                                                
+Defensive Spells
+Destruction Spells
+Boring Attack Spells
+Fun Attack Spells
+Miscellaneous Spells
+                                                                                
+---------------------
+Defensive spells:
+                                                                                
+Impact Armor
+  - make clothing impact-armor
+  - aka Dune shields
+ 
+Tough Cloth
+  - make clothing invulnerable to normal weapons
+  - Bruise-city
+ 
+Tough Impact Armor
+  - combines Impact Armor with Tough Cloth.
+ 
+Tornado
+  - create tornado, centered on self.
+  - self unaffected by updraft
+ 
+Shell Game
+  - a physical barrier composed of multiple transparent shells rotating
+    in different directions centered on self
+ 
+Nobody's Home
+  - raises psionic barrier that blocks psionic communication, attacks,
+    and probably trump contacts.
+ 
+Insulated Underwear
+  - Insulates target thermally and conductively
+  - no shock-em, no melt-em
+ 
+Aerial Ink Cloud
+  - Like a squid, but not really
+                                                                                
+Shadow Dancing
+  - shift a shadow over to the left, then two to the right, then a step
+    back, a hop forward...
+  - evasive maneuvering through local shadows
+ 
+Power Defense
+  - Channel raw power into a shell around self
+ 
+ 
+---------------------
+ 
+Destruction Spells:
+ 
+ 
+Explode Rock
+  - Makes a specified volume of rock go *boom*.
+  - Nice for starting landslides, making your own land mines, etc.
+ 
+Liquify Metal
+  - the metal retains its normal temperature, but melts.
+ 
+Explode Flesh
+  - This one is rather un-subtle, but could be effective if it works.
+ 
+Boil Blood
+  - Cook 'em from the inside out...
+ 
+ 
+---------------------
+---------------------
+                                                                                
+Boring Attack Spells:
+ 
+ 
+Electrify object in right hand
+  - normally used on staff
+  - only discharges through impact
+ 
+Ignite
+  - dial-a-yield, light a cigarette or a city. How much power do you
+    have to *burn*?
+ 
+Fire Blast
+  - Gesture dramatically with one or both hands, and you've got a
+    flamethrower or two for 15 seconds or so.
+ 
+Flashcube
+  - Smile! You're blinded!
+  - directional, to avoid blinding self or companions.
+ 
+Forest of Flying Pikes
+  - When an arrow storm just isn't enough...
+  
+Deaden Sound
+  - Keep that enemy mage from pronouncing those lynchpins.
+ 
+Nut Cracker
+  - Peel that warrior out of his/her shell. *crack* You didn't really
+    want that breastplate, did you?
+ 
+ 
+Heat Metal
+  - The old AD&D druid's favorite.
+ 
+Power Blast
+  - Channel raw power at the target
+ 
+ 
+--------------------
+ 
+Fun Attack Spells:
+ 
+ 
+Chaos Squirt Cannon
+  - Big squirt gun that shoots primal chaos
+ 
+Lethal Joy Buzzer
+  - touch-delivered electroshock
+ 
+Sebastian's Slam
+  - a dramatic knockback, like the one from _Comes the Inquisitor_
+ 
+Tunable Magnet
+  - TK object directly towards self, striking any target in the way
+ 
+Eat Foe
+  - a giant wolf's head appears, devours the target, and disappears
+ 
+Death of One Thousand Papercuts
+  - summons cloud of very sharp thin paper-like fragments, sets them to
+    whizzing around the target and causing thousands (okay, the name
+    isn't very accurate) of deep papercuts.
+  - doesn't work very well on armored targets, unless the armor is loose
+    enough for the paper to get inside, but it should be able to shred
+    normal clothing.
+ 
+A Very Close Shave
+  - summons a cloud of razor blades, which proceed to start shaving thin
+    layers off the target, and work their way inward until all that is
+    left is a pile of bloody ribbons of flesh.
+  - DoOTP's big brother
+ 
+Animate Corpse
+  - Rise Igor, Rise. Walk Igor, Walk. Kill Igor, Kill!
+  - probably summons a chaos-critter or spirit to animate the body and
+    just controls that
+ 
+Tim's Tap
+  - causes minor explosions and plumes of fire at a number of specified
+    locations
+  - modeled after _Monty Python's Holy Grail_
+ 
+Tim's Emphasis
+  - causes a flamethrower-like gout of flame to appear at the end of
+    one's staff (or other wielded object)
+  - modeled after _Monty Python's Holy Grail_
+ 
+--------------------
+ 
+Miscellaneous Spells:
+                                                                                
+Run Away!
+  - teleport, target self, destination <shadow>
+ 
+Teleport
+  - variable targets and destinations
+  - can be cast to either take clothing/possessions/bonds or not.
+ 
+Lemme Out!
+  - releases chains + bindings (includes gags)
+  - verbal linchpin
+ 
+Mmmmph!
+  - releases chains + bindings (includes gags)
+  - somatic linchpin
+ 
+Summon Staff
+  - Hey, where'd my <object> go?
+ 
+Detonate Staff
+  - If <object> goes more than 10-15 feet from me, *boom*
+ 
+Shrink/Enlarge Target
+  - variable degree of size change
+ 
+Levitate
+  - not much to say about this one
+ 
+Paint Target
+  - Let's paint the opposing general an interesting shade of puce...
+  - spraypaint "AMBER SUX -- CHAOS RULZ" on the side of Gerard's ship.
+ 
+Healing
+  - Can this be done magically?
+From dskern@ftp.com  Mon May 20 18:55:55 1996
+Date: Mon, 20 May 1996 18:59:44 -0400
+From: dskern@ftp.com (David Kern)
+To: dkap@haven.org
+Subject: amber spell list, version 0.2
+ 
+ 
+Spell List, version 0.2 960520
+            version 0.1 960515
+ 
+Index:
+ 
+Defensive Spells
+Destruction Spells
+Boring Attack Spells
+Fun Attack Spells
+Miscellaneous Spells
+ 
+---------------------
+ 
+Defensive spells:
+Impact Armor
+  - aka Dune shields
+  - actually, this one should do the actual dune shield shtick
+ 
+Tough Cloth
+  - make clothing invulnerable to normal weapons
+  - Bruise-city
+ 
+Tough Impact Armor
+  - combines Impact Armor with Tough Cloth
+ 
+Tornado
+  - create tornado, centered on self.
+  - self unaffected by updraft
+ 
+Shell Game
+  - a physical barrier composed of multiple transparent shells rotating
+    in different directions centered on self
+ 
+Nobody's Home
+  - raises psionic barrier that blocks psionic communication, attacks,
+    and probably trump contacts.
+ 
+Insulated Underwear
+  - Insulates target thermally and conductively
+  - no shock-em, no melt-em
+ 
+Aerial Ink Cloud
+  - Like a squid, but not really
+  - Bruise-city
+ 
+Tough Impact Armor
+  - combines Impact Armor with Tough Cloth
+ 
+Tornado
+  - create tornado, centered on self.
+  - self unaffected by updraft
+ 
+Shell Game
+  - a physical barrier composed of multiple transparent shells rotating
+    in different directions centered on self
+ 
+Nobody's Home
+  - raises psionic barrier that blocks psionic communication, attacks,
+    and probably trump contacts.
+ 
+Insulated Underwear
+  - Insulates target thermally and conductively
+  - no shock-em, no melt-em
+ 
+Aerial Ink Cloud
+  - Like a squid, but not really
+ 
+Shadow Dancing
+  - shift a shadow over to the left, then two to the right, then a step
+    back, a hop forward...
+  - evasive maneuvering through local shadows
+ 
+Range Zero Fireball
+  - *BOOM*. Everyone
+ 
+ 
+ 
+Wall of Force
+  - creates a translucent, shimmering barrier of the specified size in
+    the specified location.
+ 
+Topological Mirror
+  - Twists the fabric of space/shadow to cause a one-way reflection,
+    such that a straight path directly towards the mirror doubles back
+    on itself. Since this would effect everything, light included, one
+    could not see through it from behind.
+ 
+Power Defense
+  - Channel raw power into a shell around self
+ 
+ 
+---------------------
+ 
+Destruction Spells:
+ 
+ 
+Explode Rock
+  - Makes a specified volume of rock go *boom*.
+  - Nice for starting landslides, making your own land mines, etc.
+ 
+Liquify Metal
+  - the metal retains its normal temperature, but melts.
+                                                                                
+Explode Flesh
+  - This one is rather un-subtle, but could be effective if it works.
+ 
+Boil Blood
+  - Cook 'em from the inside out...
+ 
+ 
+---------------------
+ 
+Boring Attack Spells:
+ 
+ 
+Electrify object in right hand
+  - normally used on staff
+  - only discharges through impact
+ 
+Ignite
+  - dial-a-yield, light a cigarette or a city. How much power do you
+    have to *burn*?
+ 
+Fire Blast
+  - Gesture dramatically with one or both hands, and you've got a
+    flamethrower or two for 15 seconds or so.
+ 
+Flashcube
+  - Smile! You're blinded!
+  - directional, to avoid blinding self or companions.
+ 
+Forest of Flying Pikes
+  - When an arrow storm just isn't enough...
+  
+Deaden Sound
+  - Keep that enemy mage from pronouncing those lynchpins.
+ 
+Nut Cracker
+  - Peel that warrior out of his/her shell. *crack* You didn't really
+    want that breastplate, did you?
+ 
+Heat Metal
+  - The old AD&D druid's favorite.
+ 
+Lightning Bolt
+  - as listed in the book
+ 
+Forked Lightning
+  - Pick multiple targets, and spray zippy electrons at them,
+ 
+Flechette Gun
+  - pull sharp fragments off an object that you are holding and
+  - accellerate them to high speeds in the indicated direction.
+ 
+Cardiac Arrest
+  - as listed in the book
+ 
+Sleep
+  - 'quell' in the book
+ 
+Disarm
+  - remove target's weapon
+                                                                                
+Dismember
+  - remove target's specified limb
+ 
+Paralyse
+  - shut down nervous system
+ 
+Flesh to Stone (and the reverse)
+  - traditional usage
+ 
+Distraction from Behind
+  - Creates the sound of a sword being drawn originate from directly
+    behind the target.
+ 
+Blindside Attack
+  - Creates a fist of force behind the target, which attacks them and
+    then disappears.
+ 
+Power Blast
+  - Channel raw power at the target
+ 
+ 
+--------------------
+ 
+Fun Attack Spells:
+ 
+ 
+Chaos Squirt Cannon
+  - Big squirt gun that shoots primal chaos
+Lethal Joy Buzzer
+  - touch-delivered electroshock
+ 
+Sebastian's Slam
+  - a dramatic knockback, like the one from _Comes the Inquisitor_
+ 
+Sheridan's Binding
+  - same scene, a tad later. Creates very strong X-shaped cross, target
+    is chained to said cross.
+ 
+Tunable Magnet
+  - TK object directly towards self, striking any target in the way
+ 
+Eat Foe
+  - a giant wolf's head appears, devours the target, and disappears
+ 
+Death of One Thousand Papercuts
+  - summons cloud of very sharp thin paper-like fragments, sets them to
+    whizzing around the target and causing thousands (okay, the name
+    isn't very accurate) of deep papercuts.
+  - doesn't work very well on armored targets, unless the armor is loose
+    enough for the paper to get inside, but it should be able to shred
+    normal clothing.
+ 
+A Very Close Shave
+  - summons a cloud of razor blades, which proceed to start shaving thin
+    layers off the target, and work their way inward until all that is
+    left is a pile of bloody ribbons of flesh.
+  - DoOTP's big brother
+ 
+Animate Corpse
+  - Rise Igor, Rise. Walk Igor, Walk. Kill Igor, Kill!
+  - probably summons a chaos-critter or spirit to animate the body and
+    just controls that
+ 
+Tim's Tap
+  - causes minor explosions and plumes of fire at a number of specified
+    locations
+  - modeled after _Monty Python's Holy Grail_
+ 
+Tim's Emphasis
+  - causes a flamethrower-like gout of flame to appear at the end of
+    one's staff (or other wielded object)
+  - modeled after _Monty Python's Holy Grail_
+ 
+Giant Corkscrew
+  - A giant corkscrew appears above the target, and starts drilling its
+    way down.
+ 
+Fruit Salad
+  - Drops hundreds of pounds of fruit (watermelons, gourds, potatoes,
+    tomatoes, lettuce, ...) on the target.
+ 
+Hose
+  - Firehose. Lots of water, at high velocity. Not good for drinking.
+ 
+Cosmic Yo-yo
+  - Ball of plasma. "Throw" it in one direction, then it comes back, and
+    you throw it in another direction...
+   
+   
+Moebus's Trap
+  - Places the target on the surface of a giant Moebus strip, with their
+    personal gravity redirected appropriately.
+ 
+Happy Fun Ball
+  - It starts off as a marble, rolling in the indicated direction. Then
+    it starts growing rapidly as it continues rolling...
+ 
+Bounded Universe
+  - Twists shadow around the target, placing them into a tiny closed
+    universe, with all of the implications thereof.
+ 
+ 
+--------------------
+ 
+Miscellaneous Spells:
+ 
+ 
+Run Away!
+  - teleport, target self, destination <shadow>
+ 
+Teleport
+  - variable targets and destinations
+  - can be cast to either take clothing/possessions/bonds or not.
+ 
+Lemme Out!
+  - releases chains + bindings (includes gags)
+  - verbal linchpin
+ 
+Mmmmph!
+  - releases chains + bindings (includes gags)
+  - somatic linchpin
+ 
+Summon Staff
+  - Hey, where'd my <object> go?
+ 
+Detonate Staff
+  - If <object> goes more than 10-15 feet from me, *boom*
+ 
+Shrink/Enlarge Target
+  - variable degree of size change
+ 
+Levitate
+  - not much to say about this one
+ 
+Paint Target
+  - Let's paint the opposing general an interesting shade of puce...
+  - spraypaint "AMBER SUX -- CHAOS RULZ" on the side of Gerard's ship.
+ 
+Healing
+  - Can this be done magically?
+ 
+Shadow Tracking
+  - places an extremely fine logrus tenticle on the target, which can be
+    used to locate or spy on (?) the target.
+ 
+Restore Speech
+  - Attempts to restore the target's vocal capability by supplying air
+    to the appropriate air cavities, dispelling any sound-related
+    magical effects in the immediate vicinity, and
+    un-paralyzing/restoring the lungs, vocal cords, mouth, tongue, etc.
+  - no verbal linchpins
+ 
+Light
+  - creates a variable-intensity, variable-color room-temp glowing ball.
+ 
+Slow Time
+  - Makes the target's personal time slower than its surroundings.
+ 
+Hasten Time
+  - Makes the target's personal time faster than its surroundings.
+ 
+ 
+-----
+ 
+ 
+From dskern@ftp.com  Fri May 24 17:45:06 1996
+Date: Fri, 24 May 1996 17:48:41 -0400
+From: dskern@ftp.com (David Kern)
+To: dkap@haven.org
+Subject: spell list
+ 
+ 
+here's yet another version of the spell list... the power curve is
+somewhat higher this time.
+ 
+1       0
+2       0
+3       1
+4       1
+5       8
+6       2
+7       5
+8       6
+9       7
+10      9
+11      4
+12      6
+13      5
+14      6
+15      4
+16      4
+17      2
+18      1
+19      0
+20      0
+21      1
+22      0
+23      2
+24-29   0
+30      2
+ 
+ 
+ 
+Spell List, version 0.4 960524
+            version 0.3 960522
+            version 0.2 960520
+            version 0.1 960515
+ 
+Index:
+                                                                                
+D  Defensive Spells
+EX Destruction Spells
+BA Boring Attack Spells
+FA Fun Attack Spells
+W  Warding Spells
+M  Miscellaneous Spells
+ 
+---------------------
+ 
+Note: spell components are listed as A, B, C, and D, mapping to Shadow
+Opening, Shadow Manipulation, Magical Energy, and Mind Touch,
+respectively.
+ 
+---------------------
+ 
+Defensive spells: (D)
+ 
+D01 Dune Shielding
+  - This creates a field that acts like Dune shields -- anything
+    moving quickly is stopped, anything moving slowly can slip through
+    against great resistance.  It requires very little power to maintain
+    when it is being idle, and more when it is being used.
+  - The shield is centered on the target and moves with it.
+  - This would block or slow magical attacks as well, depending on the
+    nature of the spell in question
+  - lynchpin of Magic of Shadow (MoS), dispel word, target, radius
+  - B3 and C3
+  - complexity: 10
+ 
+                                                                                
+D02 Tough Cloth
+  - This makes the target substance (often an article of clothing, but
+    possibly a sail, door, or other device) invulnerable to normal
+    weapons (un-tearable, un-puncturable, etc.)
+  - lynchpins of MoS, target, dispel
+  - B2 and C1
+  - complexity: 6
+ 
+D03 Impact Armor
+  - This makes the target's clothing invulnerable to normal weapons
+    (un-tearable, un-puncturable)
+  - It also makes the clothing stiffen when impacted, so the force from
+    a blow would be spread out over a wide area.
+  - lynchpins of MoS, target, dispel
+  - B3 and C2
+  - complexity 8
+ 
+D04 Shell Game
+  - This makes a physical barrier consisting of multiple transparent
+    shells rotating rapidly in different directions.
+  - The shells are centered on the target and move with him.
+  - The shells are constructed of air hardened into a concrete-like
+    substance, raw force trek-style, magnetic force, a thick glue-like
+    substance, a rubbery substance, and another layer of hardened air.
+  - lynchpins of MoS, target, dispel word
+  - B5 and C5
+  - complexity 13
+ 
+D05 Aerial Ink Cloud
+  - Creates a shadow opening to a plane filled with an ultra-light,
+    non-sticky black fluid that floats in an 'normal' environment, and
+    sucks it through and into a rapidly expanding ball of inky black.
+  - Like a squid, but not really
+  - lynchpins of MoS, radius, target location, and dispel word
+  - A1, B1, and C1
+  - complexity 7
+ 
+D06 Shadow Dancing
+  - creates a series of eight shadow openings and sucks the caster
+    through the chain in rapid succession. The end point of the chain is
+    identical to the starting point.
+  - The seven intermediary shadows are scattered widely, and
+    uninhabited. The gate locations are known and fixed.
+  - lynchpin of MoS
+  - A8 and C1
+  - complexity 10
+ 
+D07 Range Zero Fireball
+  - Pushes the caster back a shadow via a shadow gate and then
+    channels large amounts of power into the recently evacuated area in
+    the form of a rapidly expanding fireball.
+  - *BOOM*. Everyone close gets singed...
+  - lynchpin of MoS and gate destination
+  - A1 and C12
+  - complexity 15
+ 
+D08 Nobody's Home
+  - raises psionic barrier that blocks psionic communication, attacks,
+    and trump contacts.
+  - lynchpins of MoS, target, and dispel word
+  - B1, C5, D1
+  - complexity 10
+ 
+D09 Wall of Force
+  - creates a translucent, shimmering barrier of the specified size in
+    the specified location.
+  - Blocks physical and magical attacks
+  - lynchpins of MoS, location, dimensions, and dispel word
+  - B2, C8
+  - complexity 14
+ 
+D10 Tornado
+  - creates a tornado, moving in a specified path
+  - lynchpins of MoS, starting location, path, dispel word
+  - B5, C7
+  - complexity 16
+ 
+D11 Insulated Underwear
+  - Insulates target thermally and conductively by raising the specific
+    heat and raising the impedance of the air within a one meter globe
+    surrounding the target. The effect moves with the target.
+  - lynchpins of MoS, target, and dispel word
+  - B1, C2
+  - complexity 6
+ 
+D12 Topological Mirror
+  - Twists the fabric of space/shadow to cause a one-way reflection,
+    such that a straight path directly towards the mirror doubles back
+    on itself. Since this would effect everything, light included, one
+    could not see through it from behind.
+  - lynchpins of MoS, location, dimensions, and dispel word
+  - B7, C2
+  - complexity 13
+ 
+D13 Douse Fire
+  - opens a 1' diameter gate into a shadow filled with cool water (about
+    60 F) for one minute
+  - lynchpins of MoS, location
+  - A1, B1, C1
+  - complexity 5
+ 
+DXX Power Defense
+  - Channel raw power into a shell or wall around self
+  - not hung, just tossed
+ 
+---------------------
+ 
+Destruction Spells:
+ 
+(should I toss local magic into more of these, or will that just make
+them too slow?)
+ 
+EX01 Explode Rock
+   - Makes a specified volume of rock go *boom*.
+   - Nice for starting landslides, making your own land mines, etc.
+   - lynchpins of MoS, target area, local magic
+   - B1, C10
+   - complexity 14
+ 
+EX02 Liquify Metal
+   - manipulates shadow to briefly force metal into a liquid state
+     without changing the temperature of the metal. After ~5 seconds,
+     the metal reverts to a solid.
+   - lynchpins of MoS, target region
+   - B10, C3
+   - complexity 15
+ 
+EX03 Explode Flesh
+   - This one is rather un-subtle, but could be effective if it works.
+   - this effects organic matter
+   - lynchpins of MoS, target, local magic
+   - B1, C9
+   - complexity 13
+ 
+EX04 Boil Blood
+   - Cook 'em from the inside out...
+   - raise the temperature of all fluid within the target dramatically
+   - lynchpins of MoS, target
+   - B1, C10
+   - complexity 13
+ 
+EX05 Incinerate
+   - Burn/Melt/Vaporize target, channelling gobs and gobs of power into
+     it.
+   - lynchpins of MoS, target, local magic
+   - B5, C15
+   - complexity 23
+ 
+EX06 Nuke 'Em
+   - opens a heat-proof gate into the core of a star, and lets superhot
+     starstuff expand outward. Only remains open for a fraction of a
+     second, in order to confine the radius of total destruction.
+   - Gate duration controls radius, duration to radius mapping has been
+     worked out by trial and error while in a primal form on an
+     uninhabited shadow.
+   - damage falls off as the inverse-cube of the radius, with terrain
+     causing constant modifiers.
+   - lynchpins of MoS, ground zero, radius, local magic
+   - A10, B7, C10
+   - complexity 30
+ 
+---------------------
+ 
+Boring Attack Spells:
+ 
+ 
+BA01 Burn, Baby, Burn!
+   - attempts to set the target on fire
+   - ignite the area around the target
+   - lynchpins of MoS, target
+   - B1, C6
+   - complexity 9
+ 
+BA02 Fire Blast
+   - Gesture dramatically with a hand, and that hand is a
+     flamethrower for 15 seconds or so, depending on the amount of power
+     being pumped in.
+   - lynchpins of MoS, local magic, dispel word (or gesture)
+   - B1, C10
+  - complexity 14
+ 
+BA03 Heat Metal
+   - The old AD&D druid's favorite.
+   - pump power into all of the metal in the target area, heating it
+   - lynchpins of MoS, target area
+   - B1, C5
+   - complexity 8
+ 
+BA04 Lightning Bolt
+   - creates a highly conductive path to the target, then opens up a
+     highly conductive shadow gate to a highly charged shadow at the
+     end of the path opposite the target.
+   - lynchpins of MoS, target
+   - A1, B2, C4
+   - complexity 9
+ 
+BA05 Forked Lightning
+   - Pick multiple targets, and spray zippy electrons at them,
+   - same process as Lightning Bolt, but more power, and multiple paths.
+   - lynchpins of MoS, number of targets, target, target, target,...
+   - A1, B3+targets, C5+targets
+   - complexity 11+3*targets
+ 
+BA06 Electrify object
+   - normally used on staff
+   - only discharges through impact
+   - affects object held in/touched by my right hand
+   - lynchpin of MoS
+   - B1, C8
+   - complexity 10
+ 
+BA07 Arrow Storm
+   - grabs ~50 arrows out of shadow with a shadow gate, sucks them
+     through, then propels them at high speed at the indicated target.
+   - lynchpins of MoS, target area
+   - A2, B1, C5
+   - complexity 10
+ 
+BA08 Forest of Flying Pikes
+   - When an arrow storm just isn't enough...
+   - grabs two dozen pikes with a shadow gate, sucks them through, then
+     propels them at high speed at the indicated target.
+   - lynchpins of MoS, target area
+   - A3, B1, C6
+   - complexity 12
+  
+BA09 Flechette Gun
+   - pulls sharp fragments off an object that he is touching and
+     accellerates them to high speeds in the indicated direction.
+   - effect continues until the ammo source is gone or dispelled.
+   - lynchpins of MoS, ammo source, aiming mechanism (usually point),
+     dispel word
+   - B3, C8
+   - complexity 15
+ 
+BA10 Flashcube
+   - Smile! You're blinded!
+   - directional, to avoid blinding self or companions.
+   - briefly opens a 1' diameter shadow gate to an extremely bright
+     place at the focus of a parabolic mirror, and closes it a second
+     later.
+   - lynchpins of MoS, target vector
+   - A1, B1, C1
+   - complexity 5
+ 
+BA11 Deaden Sound
+   - Keep that enemy mage from pronouncing those lynchpins.
+   - damp all vibrations in the air surrounding the target for up to one
+     hour.
+   - lynchpins of MoS, target, dispel word
+   - B2, C4
+   - complexity 9
+ 
+BA12 Nut Cracker
+   - Peel that warrior out of his/her shell. *crack* You didn't really
+     want that breastplate, did you?
+   - summons a giant pair of extremely sharp tin snips from shadow, then
+     proceeds to cut the target's armor into shreds.
+   - lynchpins of MoS, target
+   - A1, B3, C6
+   - complexity 12
+ 
+BA13 Cardiac Arrest
+   - Shorts large amounts of wattage across the target's heart, causing
+     nasty things.
+   - lynchpins of MoS, target
+   - B1, C8
+   - complexity 11
+ 
+BA14 Sleep
+   - psionically contacts the target, puts them to sleep, and keeps them
+     asleep for ~1 hour.
+   - lynchpins of MoS, target, dispel word
+   - C6, D1
+   - complexity 10
+ 
+BA15 Paralyze
+   - psionic contacts the target, shuts down their entire nervous system
+     for ~1 hour.
+   - lynchpins of MoS, target, dispel word
+   - C6, D1
+   - complexity 10
+ 
+BA16 Flesh to Stone
+   - transforms a contiguous mass of organic matter to stone, or stone to
+     flesh.
+   - lynchpins of MoS, target, direction (F->S vs S->V)
+   - B3, C4
+   - complexity 10
+ 
+BA17 Distraction from Behind
+   - Generates the sound of a sword being drawn originate from the target
+     location, usually directly behind the being-to-be-distracted.
+   - lynchpin of MoS, location
+   - B1
+   - complexity 3
+ 
+BA18 Blindside Attack
+   - Creates a fist of force behind the target, which attacks them once
+    and then disappears.
+   - lynchpins of MoS, target
+   - B3, C3
+   - complexity 8
+ 
+BAXX Power Blast
+   - Channel raw power at the target
+   - never hung, just hurled.
+ 
+ 
+--------------------
+ 
+Fun Attack Spells:
+ 
+ 
+FA01 Lethal Joy Buzzer
+   - touch-delivered electroshock
+   - insulates the right hand and charges it up with zippy electrons
+     from a highly charged shadow
+   - touch and release
+   - lynchpins of MoS, release word
+   - A1, B1, C7
+   - complexity 11
+ 
+FA02 Sebastian's Slam
+   - a dramatic knockback, like the one from _Comes the Inquisitor_
+   - lynchpins of MoS, target
+   - B5, C5
+   - complexity 12
+ 
+ 
+FA03 Sheridan's Binding
+   - same scene, a tad later. Creates very strong X-shaped cross, target
+     is chained to said cross.
+   - lynchpins of MoS, target, dispel
+   - B5, C5
+   - complexity 12
+ 
+FA04 Tunable Magnet
+   - TK object directly towards self, striking any target in the way,
+     aka Empire Strikes Back (Darth fights dirty)
+   - lynchpins of MoS, target object
+   - B2, C5
+   - complexity 9
+ 
+FA05 Eat Foe
+   - a giant wolf's head appears, devours the target, and disappears
+   - opens a head-sized gate to a shadow with a giant wolf, pulls the
+     wolf's head through the gate, psionically controls the wolf to eat
+     the target, then pushes the wolf back through and closes the gate.
+   - lynchpins of MoS, target
+   - A1, B2, C5, D1
+   - complexity 11
+ 
+FA06 Death of One Thousand Papercuts
+   - summons cloud of very sharp thin paper-like fragments, sets them to
+     whizzing around the target and causing thousands (okay, the name
+     isn't very accurate) of deep papercuts.
+   - doesn't work very well on armored targets, unless the armor is loose
+     enough for the paper to get inside, but it should be able to shred
+     normal clothing. Then again, most armor has joints, eye-slits, and
+     so on...
+   - opens gate to a shadow with the paper-like fragments, pulls them
+     through, and sets them to their task.
+   - lynchpins of MoS, target, dispel word
+   - A1, B5, C5
+   - complexity 14
+ 
+FA07 A Very Close Shave
+   - summons a cloud of razor blades, which proceed to start shaving thin
+     layers off the target, and work their way inward until all that is
+     left is a pile of bloody ribbons of flesh.
+   - DoOTP's big brother
+   - works similarly to DoOTP
+   - lynchpins of MoS, target, dispel word
+   - A1, B5, C7
+   - complexity 16
+ 
+FA08 Animate Corpse
+   - Rise Igor, Rise. Walk Igor, Walk. Kill Igor, Kill!
+   - summons a friendly demon through a gate and invites it to inhabit
+     the target corpse. Recompensation is by the standard scale...
+   - lynchpins of MoS, target
+   - A1, B1, C1
+   - complexity 5
+ 
+FA09 Tim's Tap
+   - causes minor explosions and plumes of fire at five specified
+     locations
+   - modeled after _Monty Python's Holy Grail_
+   - opens five gates to a shadow with plasma under high pressure, and
+    lets a decent amount out.
+   - lynchpins of MoS, target, target, target, target, target
+   - A5, B5, C1
+   - complexity 17
+ 
+FA10 Tim's Emphasis
+   - causes a flamethrower-like gout of flame to appear at the end of
+     the object wielded in my right hand.
+   - modeled after _Monty Python's Holy Grail_
+   - opens a gate to a shadow filled with plasma under high pressure, and
+     gives it an outlet and a turboboost
+   - lynchpins of MoS, local magic, dispel word
+   - A1, B3, C2
+   - complexity 8
+ 
+FA11 Giant Corkscrew
+   - A giant corkscrew appears above the target, and starts drilling its
+     way down.
+   - opens a gate, pulls a giant corkscrew through it, and starts
+     spinning it down and into whatever is beneath it.
+   - lynchpins of MoS, target
+   - A1, B2, C5
+   - complexity 10
+ 
+FA12 Fruit Salad
+   - Drops hundreds of pounds of fruit (watermelons, gourds, potatoes,
+     tomatoes, lettuce, ...) on the target.
+   - opens a large gate to a place with lots of fruit, and lets it fall
+     through.
+   - lynchpins of MoS, target
+   - A1, B1, C1
+   - complexity 5
+ 
+FA13 Hose
+   - Firehose. Lots of water, at high velocity. Not good for drinking.
+   - opens a gate to a shadow with water under high pressure,
+     heats/cools it appropriately, and fires it through.
+   - lynchpins of MoS, target, temperature
+   - A1, B3, C5
+   - complexity 12
+ 
+FA14 Cosmic Yo-yo
+   - Ball of plasma. "Throw" it in one direction, then it comes back, and
+     you throw it in another direction...
+   - gates in some plasma, confines it into a 1 meter diameter sphere,
+     heats it up even more, and flings it out and back in accordance
+     with the appropriate yo-yo gestures.
+   - I'm shielded against the effects, obviously.
+   - Lasts for 1 minute.
+   - lynchpins of MoS, local magic
+   - A1, B5, C10
+   - complexity 18
+   
+FA15 Happy Fun Ball
+   - It starts off as a marble, rolling in the indicated direction. Then
+     it starts growing rapidly as it continues rolling...
+   - gates in a marble from a place where marbles grow quickly, and
+     manipulates shadow to keep the marble growing, while propelling it
+     along the specified path/direction
+   - lynchpins of MoS, path, dispel word
+   - A1, B5, C7
+   - complexity 16
+ 
+FA16 Moebus's Trap
+   - twists shadow creating a moebus strip 1 meter wide, 5 meters in
+     diameter, parallel to the local ground. The target is placed on
+     that strip, and their personal gravity is modified to match the
+     strip.  If they "fall off" the strip, their gravity remains at the
+     orientation it was when they were last contacting the strip.
+   - lasts for 1 hour
+   - lynchpins of MoS, target, dispel word
+   - B10, C10
+   - complexity 23
+ 
+FA17 Bounded Universe
+   - gates the target into a form-fitting, dark, closed
+     universe that is blocked against trump contacts and pattern.
+   - lynchpins of MoS, target
+   - A1, B1, C10
+   - complexity 14
+ 
+FA18 Suck Vacuum, Pal!
+   - forms an air-tight, extremely hard bubble in a 2 meter radius bubble
+     around the target, and opens a gate to an airless shadow, sucks
+     all of the air inside that bubble out through the gate, then closes
+     the gate. The bubble remains up for one hour, and moves with the
+     target.
+   - lynchpins of MoS, target, dispel word
+   - A1, B7, C10
+   - complexity 21
+                                                                                
+FA19 Suck Vacuum, Buddy!
+   - creates a gate to a dark, airless planetoid, sucks the target
+     through, and chains it there.
+   - lynchpins of MoS, target
+   - A1, B5, C5
+   - complexity 13
+ 
+FA20 Squish
+   - increases the gravity affecting the target
+   - lynchpins of MoS and target
+   - B2, C10
+   - complexity 14
+ 
+ 
+--------------------
+ 
+ 
+Warding Spells:
+ 
+ 
+W01 Ward, Alarm
+  - If anything other than gas enters the warded area, the ward
+    contacts me psionically with a warning of the intrusion
+  - duration 24 hours
+  - lynchpins of MoS, ward location, dispel word, local magic
+  - B1, C1, D1
+  - complexity 7
+ 
+W02 Ward, Passive Defense
+  - Creates a sphere of force that prevents everything but the specified
+    mix of gasses from passing through it
+  - duration 24 hours
+  - lynchpins of MoS, ward location, dispel word, local magic, air mix
+  - B5, C1
+  - complexity 11
+ 
+W03 Ward, Psionic Defense
+  - Anything other than gas crossing the ward is psionically blasted in
+    an attempt to paralyze it.
+  - duration 24 hours
+  - lynchpins of MoS, ward location, dispel word, local magic
+  - B1, C2, D1
+  - complexity 8
+ 
+W04 Ward, GoAway Defense
+  - the first organic thing larger than one pound crossing the ward is
+    gated to a dark, closed, form-fitting bounded universe that is
+    shielded against trump contacts and pattern.
+  - duration 24 hours
+  - lynchpins of MoS, ward location, dispel word, local magic
+  - A1, B1, C1 (local power)
+  - complexity 7
+ 
+W05 Ward, Combined Defense
+  - Passive Defense outer shell, Alarm tied to the outer shell, and
+    GoAway and Psionic defense slightly inside, so the attack spells
+    aren't wasted on raindrops or stray animals.
+  - When the Passive Defense is taken down, the alarm portion of the
+    spell contacts me psionically.
+  - duration of 24 hours
+  - lynchpins of MoS, ward area, dispel word, local magic
+  - A1, B8, C1, D2
+  - complexity 15
+ 
+ 
+----------------
+ 
+ 
+Miscellaneous Spells:
+ 
+ 
+M01 Run Away!
+  - teleport, target self, destination is my home shadow
+  - lynchpin of MoS
+  - A1, B1, C1
+  - complexity 4
+ 
+M02 Teleport
+  - variable targets and destinations
+  - can be cast to either take clothing/possessions/bonds or not.
+  - opens a shadow gate to the destination, and sucks the target
+    through.
+  - lynchpins of MoS, target, destination, boolean possessions
+  - A1, B1, C1
+  - complexity 7
+ 
+M03 Multiple Teleport
+  - a teleport that can effect everything mobile within the specified
+    area with a very large shadow gate.
+  - lynchpins of MoS, local power, target area, destination.
+  - A5, B2, C1
+  - complexity 12
+ 
+M04 Lemme Out!
+  - releases chains + bindings (includes gags)
+  - target me
+  - verbal linchpin of MoS
+  - B2, C2
+  - complexity 5
+ 
+M05 Mmmmph!
+  - releases chains + bindings (includes gags)
+  - target me
+  - somatic linchpin, twiddling fingers - MoS
+  - B2, C2
+  - complexity 5
+ 
+M06 Ignite
+   - dial-a-yield, light a cigarette or a city. How much power do you
+     have to *burn*?
+   - lynchpins of MoS, target area, local magic
+   - B1, C1
+   - complexity 5
+ 
+M07 Translator
+  - makes a psionic connection to the target, and feeds them a
+    translation of everything spoken within 3 meters, acquired with
+    minor psionic contacts.
+  - lynchpins of MoS, target, dispel word
+  - C1, D4
+  - complexity 8
+ 
+M08 Summon Troops
+  - create a gate to a guard ready-room in my shadow and pull a squad of
+    troops through.
+  - lynchpin of MoS
+  - A5, C3
+  - complexity 9
+ 
+M09 Paint Target
+  - Let's paint the opposing general an interesting shade of puce...
+  - spraypaint "AMBER SUX -- CHAOS RULZ" on the side of Gerard's ship.
+  - I cast the spell, then paint on a canvas in front of me, and that
+    color/pattern paint appears on the target object, scaled
+    proportionately.
+  - opens a shadow gate to a place filled with paint, colors the paint
+    appropriately in a small container on this side of the gate, and
+    then releases the paint via a nozzle as indicated by the canvas.
+  - The nozzle's end on this shadow is specified by two things, the target
+    lynchpin and the canvas/brush (yet another lynchpin). The paint
+    emerging from the nozzle is colored identically to the paint that
+    was just placed onto the canvas, and the nozzle movement is
+    controlled by the brush's movements.
+  - max duration, 1 hour.
+  - lynchpins of MoS, target, canvas, dispel word
+  - A2, B2, C1
+  - complexity 9
+ 
+M10 Light
+  - creates a variable-intensity, variable-color room-temp glowing ball.
+  - creates a 1' diameter sphere, and pumps power into it to make it
+    glow. The sphere floats in place, and can be moved or destroyed
+    physically.
+  - max duration 24 hours
+  - lynchpins of MoS, location, dispel word, brightness+color
+  - B2, C1
+  - complexity 7
+ 
+M11 Scrying
+  - Opens a one-way shadow gate that admits only light and sound waves.
+    Only part of the light entering the area of the gate is sent through
+    the gate.
+  - lynchpins of MoS, target, dispel word, local magic, light %
+  - A2, B1, C1
+  - complexity 9
+ 
+M12 Healing
+  - lend energy towards strengthening the target body, mind touch to
+    dampen pain
+  - lynchpins of MoS, target
+  - B4, C10, D1
+  - complexity 17
+ 
+M13 Invisibility
+  - causes a percentage of the light contacting the target to pass
+    through instead of being absorbed or reflected.
+  - duration 1 hour
+  - lynchpins of MoS, target, light %, local magic, dispel word
+  - B10, C2
+  - complexity 16
+ 
+M14 Mass Invisibility
+  - same as Invisibility, but effects up to 6 targets within a three
+    meter radius.
+  - duration 1 hour
+  - lynchpins of MoS, target*6, light %, local magic, dispel word
+  - B19, C1
+  - complexity 30
+ 
+----------------
+ 
+Possibly Punted
+ 
+Restore Speech
+  - Attempts to restore the target's vocal capability by supplying air
+    to the appropriate air cavities, dispelling any sound-related
+    magical effects in the immediate vicinity, and
+    un-paralyzing/restoring the lungs, vocal cords, mouth, tongue, etc.
+  - no verbal linchpins
+ 
+M?? Shrink/Enlarge Target
+  - variable degree of size change
+ 
+M?? Levitate
+  - how _does_ this work, specifically the controls?
+  - I think that the logrus and shapeshifting are probably better for
+    this than magic.
+ 
+M?? Detonate Staff
+  - If <object> goes more than 10-15 feet from me, *boom*
+  - creates a linkage between the object and me, and if the linkage is
+    stretched too far, *boom*.
+  - lynchpins of ...MoS? Hmm. This would have to be cross-shadow to be
+    useful.  Punt?
+  - B2, C5
+  -
+ 
+--------------
+ 
+Punted Spells (Removed, or logrus)
+ 
+ 
+Slow Time
+Hasten Time
+Chaos Squirt Cannon
+Disarm
+ 
+Dismember
+  - remove target's specified limb
+  - punted, see Explode Flesh
+ 
+Should this one be punted, in favor of logrus seeking?
+Summon Staff
+  - Hey, where'd my <object> go?
+  - lynchpins of MoS, desired object
+  - A1, B1, C1
+  - complexity 5
+ 
+Shadow Tracking
+  - places an extremely fine logrus tenticle on the target, which can be
+    used to locate or spy on (?) the target.
+ 
+---
+ 
+ 
+From dskern@ftp.com  Wed May 22 17:10:07 1996
+Date: Wed, 22 May 1996 17:14:06 -0400
+From: dskern@ftp.com (David Kern)
+To: dkap@haven.org
+In-Reply-To: "A Page in the Life of ..."'s message of Wed, 22 May 1996 16:56:48
+-0400 <199605222056.QAA14965@sanctuary.haven.org>
+Subject: spells
+ 
+ 
+So, how much power would you recommend pumping into a damage-causing
+spell? (Magical Energy)? 5? 10? 20?
+ 
+I don't really have a good feel for the effectiveness of different
+levels of power, so it's hard for me to rate the spells properly.
+ 
+Just a vague rule of thumb... you said that I could keep up ~10 spells
+with ~10 minutes of maintenance per day. Is that ~150 total complexity?
+100? 300?
+ 
+dave
+ 
+--------------------
+ 
+ 
+From dskern@ftp.com  Tue May 28 18:06:42 1996
+Date: Tue, 28 May 1996 18:10:21 -0400
+From: dskern@ftp.com (David Kern)
+To: dkap@haven.org
+Subject: version 1.0...
+                                                                                
+                                                                                
+a printout will be arriving with me tonight, as well.
+                                                                                
+Very few changes from 0.5, actually. A few target+dimensions were
+compressed into a single lynchpin (target area), and a couple of new
+spells were added (D14, M15, M16)
+                                                                                
+The shadow manip lynchpin was added to everything with a shadow
+manipulation (B) greater than 5, and a couple of the 5s as well.
+                                                                                
+dave
+                                                                                
+                                                                                
+Spell List, version 1.0 960528
+            version 0.5 960526
+            version 0.4 960524
+            version 0.3 960522
+            version 0.2 960520
+            version 0.1 960515
+                                                                                
+Index:
+                                                                                
+D  Defensive Spells
+EX Destruction Spells
+BA Boring Attack Spells
+FA Fun Attack Spells
+W  Warding Spells
+M  Miscellaneous Spells
+ 
+---------------------
+ 
+Note: spell components are listed as A, B, C, and D, mapping to Shadow
+Opening, Shadow Manipulation, Magical Energy, and Mind Touch,
+respectively.
+ 
+---------------------
+ 
+Defensive spells: (D)
+ 
+D01 Dune Shielding
+  - This creates a field that acts like Dune shields -- anything
+    moving quickly is stopped, anything moving slowly can slip through
+    against great resistance.  It requires very little power to maintain
+    when it is being idle, and more when it is being used.
+  - The shield is centered on the target and moves with it.
+  - This would block or slow magical attacks as well, depending on the
+    nature of the spell in question
+  - lynchpin of Magic of Shadow (MoS), dispel word, target, radius
+  - B3 and C3
+  - complexity: 10
+ 
+ 
+ 
+D02 Tough Cloth
+  - This makes the target substance (often an article of clothing, but
+    possibly a sail, door, or other device) invulnerable to normal
+    weapons (un-tearable, un-puncturable, etc.)
+  - lynchpins of MoS, target, dispel
+  - B2 and C1
+  - complexity: 6
+ 
+D03 Impact Armor
+  - This makes the target's clothing invulnerable to normal weapons
+    (un-tearable, un-puncturable)
+  - It also makes the clothing stiffen when impacted, so the force from
+    a blow would be spread out over a wide area.
+  - lynchpins of MoS, target, dispel
+  - B3 and C2
+  - complexity 8
+ 
+D04 Shell Game
+  - This makes a physical barrier consisting of multiple transparent
+    shells rotating rapidly in different directions.
+  - The shells are centered on the target and move with him.
+  - The shells are constructed of air hardened into a concrete-like
+    substance, raw force trek-style, magnetic force, a thick glue-like
+    substance, a rubbery substance, and another layer of hardened air.
+  - lynchpins of MoS, target, dispel word
+  - B5 and C5
+  - complexity 13
+ 
+D05 Aerial Ink Cloud
+  - Creates a shadow opening to a plane filled with an ultra-light,
+    non-sticky black fluid that floats in an 'normal' environment, and
+    sucks it through and into a rapidly expanding ball of inky black.
+  - Like a squid, but not really
+  - lynchpins of MoS, target area, and dispel word
+  - A1, B1, and C1
+  - complexity 6
+ 
+D06 Shadow Dancing
+  - creates a series of eight shadow openings and sucks the caster
+    through the chain in rapid succession. The end point of the chain is
+    identical to the starting point.
+  - The seven intermediary shadows are scattered widely, and
+    mostly uninhabited, except for one which is a "hell". The gate
+    locations are known and fixed.
+  - lynchpin of MoS
+  - A8 and C1
+  - complexity 10
+ 
+D07 Range Zero Fireball
+  - Pushes the caster back a shadow via a shadow gate and then
+    channels large amounts of power into the recently evacuated area in
+    the form of a rapidly expanding fireball.
+  - *BOOM*. Everyone close gets singed...
+  - lynchpin of MoS and gate destination
+  - A1 and C12
+  - complexity 15
+ 
+D08 Nobody's Home
+  - raises psionic barrier that blocks psionic communication, attacks,
+    and trump contacts.
+  - lynchpins of MoS, target, and dispel word
+  - B1, C15, D1
+  - complexity 20
+ 
+D09 Wall of Force
+  - creates a translucent, shimmering barrier of the specified size in
+    the specified location.
+  - Blocks physical and magical attacks
+  - lynchpins of MoS, target area, and dispel word
+  - B2, C8
+  - complexity 13
+ 
+D10 Tornado
+  - creates a tornado, moving in a specified path
+  - lynchpins of MoS, path (including starting location), shadow manip,
+    dispel word
+  - B5, C7
+  - complexity 16
+ 
+D11 Insulated Underwear
+  - Insulates target thermally and conductively by raising the specific
+    heat and raising the impedance of the air within a one meter globe
+    surrounding the target. The effect moves with the target.
+  - lynchpins of MoS, target, and dispel word
+  - B1, C2
+  - complexity 6
+ 
+D12 Topological Mirror
+  - Twists the fabric of space/shadow to cause a one-way reflection,
+    such that a straight path directly towards the mirror doubles back
+    on itself. Since this would effect everything, light included, one
+    could not see through it from behind.
+  - lynchpins of MoS, target area, shadow manip, and dispel word
+  - B7, C2
+  - complexity 13
+ 
+D13 Douse Fire
+  - opens a 1' diameter gate into a shadow filled with cool water (about
+    60 F) for one minute
+  - lynchpins of MoS, location
+  - A1, B1, C1
+  - complexity 5
+ 
+D14 Cosmic Grounding
+  - creates a shell/wall which is highly conductive and highly massive
+    for electricity, heat, and magical energy.
+  - absorbs some power from what is being contained within it in order to
+    maintain its strength.
+  - normally grounded and initially powered up by the logrus
+  - duration 1 hour
+  - lynchpins of MoS, target area, dispel word, shadow manip
+  - B4, C5
+  - complexity 13
+ 
+DXX Power Defense
+  - Channel raw power into a shell or wall around self
+  - not hung, just tossed
+ 
+---------------------
+Destruction Spells:
+ 
+ 
+EX01 Explode Rock
+   - Makes a specified volume of rock go *boom*.
+   - Nice for starting landslides, making your own land mines, etc.
+   - lynchpins of MoS, target area, local magic
+   - B5, C10
+   - complexity 18
+ 
+EX02 Liquify Metal
+   - manipulates shadow to allow metal to exist in a liquid state at its
+     current temperature, and then briefly forces all metal in the
+     specified area into the liquid state. This does not change the
+     temperature of the metal. After ~5 seconds, the metal reverts to a
+     solid.
+   - lynchpins of MoS, target region, local magic, shadow manip
+   - B8, C5
+   - complexity 17
+ 
+EX03 Explode Flesh
+   - This one is rather un-subtle, but could be effective if it works.
+   - this effects organic matter
+   - lynchpins of MoS, target, local magic
+   - B3, C9
+   - complexity 15
+ 
+EX04 Boil Blood
+   - Cook 'em from the inside out...
+   - raise the temperature of the blood within the target dramatically
+   - lynchpins of MoS, target
+   - B3, C10
+   - complexity 15
+ 
+EX05 Incinerate
+   - Burn/Melt/Vaporize target, channelling gobs and gobs of power into
+     it.
+   - lynchpins of MoS, target, local magic
+   - B5, C15
+   - complexity 23
+ 
+EX06 Nuke 'Em
+   - opens a heat-proof gate into the core of a star, and lets superhot
+     starstuff expand outward. Only remains open for a fraction of a
+     second, in order to confine the radius of total destruction.
+   - Gate duration controls radius, duration to radius mapping has been
+     worked out by trial and error while in a primal form on an
+     uninhabited shadow.
+   - damage falls off as the inverse-cube of the radius, with terrain
+     causing constant modifiers.
+   - lynchpins of MoS, ground zero, radius, local magic
+   - A10, B7, C10
+   - complexity 30
+ 
+---------------------
+ 
+Boring Attack Spells:
+ 
+ 
+BA01 Burn, Baby, Burn!
+   - attempts to set the target on fire
+   - ignite the area around the target
+   - lynchpins of MoS, target
+   - B1, C6
+   - complexity 9
+ 
+BA02 Fire Blast
+   - Gesture dramatically with a hand, and that hand is a
+     flamethrower for 15 seconds or so, depending on the amount of power
+     being pumped in.
+   - lynchpins of MoS, local magic, dispel word (or gesture)
+   - B1, C10
+   - complexity 14
+ 
+BA03 Heat Metal
+   - The old AD&D druid's favorite.
+   - pump power into all of the metal in the target area, heating it
+   - lynchpins of MoS, target area
+   - B2, C8
+   - complexity 12
+ 
+BA04 Lightning Bolt
+   - creates a highly conductive path to the target, then opens up a
+     highly conductive shadow gate to a highly charged shadow at the
+     end of the path opposite the target.
+   - lynchpins of MoS, target
+   - A1, B2, C4
+   - complexity 9
+ 
+BA05 Forked Lightning
+   - Pick multiple targets, and spray zippy electrons at them,
+   - same process as Lightning Bolt, but more power, and multiple paths.
+   - lynchpins of MoS, number of targets, target, target, target,...
+   - A1, B3+targets, C5+targets
+   - complexity 11+3*targets
+ 
+BA06 Electrify object
+   - normally used on staff
+   - only discharges through impact
+   - affects object held in/touched by my right hand
+   - lynchpin of MoS
+   - B1, C8
+   - complexity 10
+ 
+BA07 Flashcube
+   - Smile! You're blinded!
+   - directional, to avoid blinding self or companions.
+   - briefly opens a 1' diameter shadow gate to an extremely bright
+     place at the focus of a parabolic mirror, and closes it a second
+     later.
+   - lynchpins of MoS, target vector
+   - A1, B1, C1
+   - complexity 5
+ 
+BA08 Deaden Sound
+   - Keep that enemy mage from pronouncing those lynchpins.
+   - damp all vibrations in the air surrounding the target for up to one
+     hour.
+   - lynchpins of MoS, target, dispel word
+   - B2, C4
+   - complexity 9
+ 
+BA09 Nut Cracker
+   - Peel that warrior out of his/her shell. *crack* You didn't really
+     want that breastplate, did you?
+   - summons a giant pair of extremely sharp tin snips from shadow, then
+     proceeds to cut the target's armor into shreds.
+   - lynchpins of MoS, target
+   - A1, B3, C6
+   - complexity 12
+ 
+BA10 Cardiac Arrest
+   - Shorts large amounts of wattage across the target's heart, causing
+     nasty things.
+   - lynchpins of MoS, target
+   - B1, C8
+   - complexity 11
+ 
+BA11 Sleep
+   - psionically contacts the target, puts them to sleep, and keeps them
+     asleep for ~1 hour.
+   - lynchpins of MoS, target, dispel word
+   - C10, D1
+   - complexity 14
+ 
+BA12 Paralyze
+   - psionic contacts the target, shuts down their entire motor-related
+     nervous system for ~1 hour.
+   - lynchpins of MoS, target, dispel word
+   - C10, D1
+   - complexity 14
+ 
+BA13 Flesh to Stone
+   - transforms a contiguous mass of organic matter to stone, or stone to
+     flesh.
+   - lynchpins of MoS, target, direction (F->S vs S->V)
+   - B4, C8
+   - complexity 15
+ 
+BA14 Distraction from Behind
+   - Generates the sound of a sword being drawn originate from the target
+     location, usually directly behind the being-to-be-distracted.
+   - lynchpin of MoS, location
+   - B1
+   - complexity 3
+ 
+BA15 Blindside Attack
+   - Creates a fist of force behind the target, which attacks them once
+     and then disappears.
+   - lynchpins of MoS, target
+   - B3, C3
+   - complexity 8
+ 
+BAXX Power Blast
+   - Channel raw power at the target
+   - never hung, just hurled.
+ 
+ 
+--------------------
+Fun Attack Spells:
+ 
+ 
+FA01 Lethal Joy Buzzer
+   - touch-delivered electroshock
+   - insulates the right hand and charges it up with zippy electrons
+     from a highly charged shadow
+   - touch and release
+   - lynchpins of MoS, release word
+   - A1, B1, C7
+   - complexity 11
+ 
+FA02 Sebastian's Slam
+   - a dramatic knockback, like the one from _Comes the Inquisitor_
+   - lynchpins of MoS, target
+   - B3, C7
+   - complexity 12
+ 
+FA03 Sheridan's Binding
+   - same scene, a tad later. Creates very strong X-shaped cross, target
+     is chained to said cross.
+   - lynchpins of MoS, target, dispel, shadow manip
+   - B3, C7
+   - complexity 14
+ 
+FA04 Eat Foe
+   - a giant wolf's head appears, devours the target, and disappears
+   - opens a head-sized gate to a shadow with a giant wolf, such that
+     the head is in my current shadow, psionically controls the wolf to
+     eat the target, then pushes the wolf back through and closes the
+     gate.
+   - lynchpins of MoS, target
+   - A3, B2, C5, D1
+   - complexity 13
+ 
+FA05 Death of One Thousand Papercuts
+   - summons cloud of very sharp thin paper-like fragments, sets them to
+     whizzing around the target and causing thousands (okay, the name
+     isn't very accurate) of deep papercuts.
+   - doesn't work very well on armored targets, unless the armor is loose
+     enough for the paper to get inside, but it should be able to shred
+     normal clothing. Then again, most armor has joints, eye-slits, and
+     so on...
+   - opens gate to a shadow with the paper-like fragments, pulls them
+     through, and sets them to their task.
+   - lynchpins of MoS, target, dispel word
+   - A2, B5, C5
+   - complexity 15
+ 
+FA06 A Very Close Shave
+   - summons a cloud of razor blades, which proceed to start shaving thin
+     layers off the target, and work their way inward until all that is
+     left is a pile of bloody ribbons of flesh.
+   - DoOTP's big brother
+   - works similarly to DoOTP
+   - lynchpins of MoS, target, dispel word
+   - A2, B5, C7
+   - complexity 17
+ 
+FA07 Animate Corpse
+   - Rise Igor, Rise. Walk Igor, Walk. Kill Igor, Kill!
+   - summons a friendly demon through a gate and invites it to inhabit
+     the target corpse. Recompensation is by the standard scale...
+   - lynchpins of MoS, target
+   - A1, B1, C1
+   - complexity 5
+ 
+FA08 Tim's Tap
+   - causes minor explosions and plumes of fire at five specified
+     locations
+   - modeled after _Monty Python's Holy Grail_
+   - opens five gates to a shadow with plasma under high pressure, and
+     lets a decent amount out.
+   - lynchpins of MoS, target, target, target, target, target
+   - A5, B5, C1
+   - complexity 17
+ 
+FA09 Tim's Emphasis
+   - causes a flamethrower-like gout of flame to appear at the end of
+     the object wielded in my right hand.
+   - modeled after _Monty Python's Holy Grail_
+   - opens a gate to a shadow filled with plasma under high pressure, and
+     gives it an outlet and a turboboost
+   - lynchpins of MoS, local magic, dispel word
+   - A1, B3, C2
+   - complexity 8
+ 
+FA10 Fruit Salad
+   - Drops hundreds of pounds of fruit (watermelons, gourds, potatoes,
+     tomatoes, lettuce, ...) on the target.
+   - opens a large gate to a place with lots of fruit, and lets it fall
+     through.
+   - lynchpins of MoS, target
+   - A2, B1, C1
+   - complexity 6
+ 
+FA11 Hose
+   - Firehose. Lots of water, at high velocity. Not good for drinking.
+   - opens a gate to a shadow with water under high pressure,
+     heats/cools it appropriately, and fires it through.
+   - lynchpins of MoS, target, temperature
+   - A1, B3, C5
+   - complexity 12
+ 
+FA12 Cosmic Yo-yo
+   - Ball of plasma. "Throw" it in one direction, then it comes back, and
+     you throw it in another direction...
+   - gates in some plasma, confines it into a 1 meter diameter sphere,
+     heats it up even more, and flings it out and back in accordance
+     with the appropriate yo-yo gestures.
+   - I'm shielded against the effects, obviously.
+   - Lasts for 1 minute.
+   - lynchpins of MoS, local magic
+   - A1, B4, C10
+   - complexity 17
+   
+FA13 Happy Fun Ball
+   - It starts off as a marble, rolling in the indicated direction. Then
+     it starts growing rapidly as it continues rolling...
+   - gates in a marble from a place where marbles grow quickly, and
+     manipulates shadow to keep the marble growing, while propelling it
+     along the specified path/direction
+   - lynchpins of MoS, path, dispel word, shadow manip
+   - A1, B5, C7
+   - complexity 16
+ 
+FA14 Moebus's Trap
+   - twists shadow creating a moebus strip 1 meter wide, 5 meters in
+     diameter, parallel to the local ground. The strip matches the
+     target's location, and their personal gravity is modified to match
+     the strip.  If they "fall off" the strip, their gravity remains at
+     the orientation it was when they were last contacting the strip.
+   - lasts for 1 hour
+   - lynchpins of MoS, target, dispel word, shadow manip
+   - B10, C10
+   - complexity 23
+ 
+FA15 Bounded Universe
+   - gates the target into a form-fitting, dark, closed
+     universe that is blocked against trump contacts.
+   - lynchpins of MoS, target
+   - A3, B1, C8
+   - complexity 14
+ 
+FA16 Suck Vacuum, Pal!
+   - forms an air-tight, extremely hard bubble in a 2 meter radius bubble
+     around the target, and opens a gate to an airless shadow, sucks
+     all of the air inside that bubble out through the gate, then closes
+     the gate. The bubble remains up for one hour, and moves with the
+     target.
+   - lynchpins of MoS, target, dispel word, shadow manip
+   - A1, B7, C10
+   - complexity 21
+ 
+FA17 Suck Vacuum, Buddy!
+   - creates a gate to a dark, airless planetoid that is covered by a
+     plant with long tendrils that actively seek out and grab everything
+     nearby (lunch!), and sucks the target through the gate.
+   - lynchpins of MoS, target
+   - A3, B2, C8
+   - complexity 15
+ 
+FA18 Squish
+   - alters the gravity in a specified area
+   - duration 1 hour
+   - lynchpins of MoS, target area, dispel word, intensity, local magic
+   - B2, C9
+   - complexity 16
+ 
+ 
+--------------------
+ 
+ 
+Warding Spells:
+ 
+ 
+W01 Ward, Alarm
+  - If anything other than gas enters the warded area, the ward
+    contacts me psionically with a warning of the intrusion
+  - duration 24 hours
+  - lynchpins of MoS, ward location, dispel word, local magic
+  - B1, C1, D1
+  - complexity 7
+ 
+W02 Ward, Passive Defense
+  - Creates a sphere of force that prevents everything but the specified
+    mix of gasses from passing through it
+  - duration 24 hours
+  - lynchpins of MoS, ward location, dispel word, local magic, air mix
+  - B5, C1
+  - complexity 11
+ 
+W03 Ward, Psionic Defense
+  - Anything other than gas crossing the ward is psionically blasted in
+    an attempt to paralyze it.
+  - duration 24 hours
+  - lynchpins of MoS, ward location, dispel word, local magic
+  - B1, C2, D1
+  - complexity 8
+ 
+W04 Ward, GoAway Defense
+  - the first organic thing larger than one pound crossing the ward is
+    gated to a dark, closed, form-fitting bounded universe that is
+    shielded against trump contacts and pattern.
+  - duration 24 hours
+  - lynchpins of MoS, ward location, dispel word, local magic
+  - A1, B1, C1 (local power)
+  - complexity 7
+ 
+W05 Ward, Combined Defense
+  - Passive Defense outer shell, Alarm tied to the outer shell, and
+    GoAway and Psionic defense slightly inside, so the attack spells
+    aren't wasted on raindrops or stray animals.
+  - When the Passive Defense is taken down, the alarm portion of the
+    spell contacts me psionically.
+  - duration of 24 hours
+  - lynchpins of MoS, ward area, dispel word, local magic
+  - A1, B8, C1, D2
+  - complexity 15
+ 
+ 
+----------------
+ 
+ 
+Miscellaneous Spells:
+ 
+ 
+M01 Run Away!
+  - teleport, target self, destination is my home shadow
+  - lynchpin of MoS
+  - A2, B1, C1
+  - complexity 5
+ 
+M02 Teleport
+  - variable targets and destinations
+  - can be cast to either take clothing/possessions/bonds or not.
+  - opens a shadow gate to the destination, and sucks the target
+    through.
+  - lynchpins of MoS, target, destination, boolean possessions
+  - A2, B1, C1
+  - A2, B1, C1
+  - complexity 8
+ 
+M03 Multiple Teleport
+  - a teleport that can effect everything mobile within the specified
+    area with a very large shadow gate.
+  - lynchpins of MoS, local power, target area, destination.
+  - A5, B2, C1
+  - complexity 12
+ 
+M04 Lemme Out!
+  - releases chains + bindings (includes gags)
+  - target me
+  - verbal linchpin of MoS
+  - B2, C2
+  - complexity 5
+ 
+M05 Mmmmph!
+  - releases chains + bindings (includes gags)
+  - target me
+  - somatic linchpin, twiddling fingers - MoS
+  - B2, C2
+  - complexity 5
+ 
+M06 Ignite
+   - dial-a-yield, light a cigarette or a city. How much power do you
+     have to *burn*?
+   - lynchpins of MoS, target area, local magic
+   - B1, C1
+   - complexity 5
+ 
+ 
+M07 Translator
+  - makes a psionic connection to the target, and feeds them a
+    translation of everything spoken within 3 meters, acquired with
+    minor psionic contacts.
+  - lynchpins of MoS, target, dispel word
+  - C1, D4
+  - complexity 8
+ 
+M08 Summon Troops
+  - create a gate to a guard ready-room in my shadow and pull a squad of
+    troops through.
+  - lynchpin of MoS
+  - A5, C3
+  - complexity 9
+ 
+M09 Paint Target
+  - Let's paint the opposing general an interesting shade of puce...
+  - spraypaint "AMBER SUX -- CHAOS RULZ" on the side of Gerard's ship.
+  - I cast the spell, then paint on a canvas in front of me, and that
+    color/pattern paint appears on the target object, scaled
+    proportionately.
+  - opens a shadow gate to a place filled with paint, colors the paint
+    appropriately in a small container on this side of the gate, and
+    then releases the paint via a nozzle as indicated by the canvas.
+  - The nozzle's end on this shadow is specified by two things, the target
+    lynchpin and the canvas/brush (yet another lynchpin). The paint
+    emerging from the nozzle is colored identically to the paint that
+    was just placed onto the canvas, and the nozzle movement is
+    controlled by the brush's movements.
+  - max duration, 1 hour.
+  - lynchpins of MoS, target, canvas, dispel word
+  - A2, B2, C1
+  - complexity 9
+ 
+M10 Light
+  - creates a variable-intensity, variable-color room-temp glowing ball.
+  - creates a 1' diameter sphere, and pumps power into it to make it
+    glow. The sphere floats in place, and can be moved or destroyed
+    physically.
+  - max duration 24 hours
+  - lynchpins of MoS, location, dispel word, brightness+color
+  - B2, C1
+  - complexity 7
+ 
+M11 Scrying
+  - Opens a one-way shadow gate that admits only light and sound waves.
+    Only part of the light entering the area of the gate is sent through
+    the gate.
+  - lynchpins of MoS, target, dispel word, local magic, light %
+  - A2, B1, C1
+  - complexity 9
+ 
+M12 Healing
+  - lend energy towards strengthening the target body, mind touch to
+    dampen pain
+  - lynchpins of MoS, target
+  - B4, C10, D1
+  - complexity 17
+ 
+M13 Invisibility
+  - causes a percentage of the light contacting the target to pass
+    through instead of being absorbed or reflected.
+  - duration 1 hour or more, depending on light % and local magic
+  - lynchpins of MoS, target, light %, local magic, dispel word, shadow
+    manip
+  - B10, C2
+  - complexity 17
+ 
+M14 Mass Invisibility
+  - same as Invisibility, but effects up to 6 targets within a three
+    meter radius.
+  - duration ~1 hour, dep on targets, light %, and local magic
+  - lynchpins of MoS, target*6, light %, local magic, dispel word,
+    shadow manip
+  - B18, C1
+  - complexity 30
+ 
+M15 Two Tin Cans
+  - manipulates shadow to make a shielded, invisible line that
+    transmits sound waves clearly from one end to the other.
+  - duration 1 hr
+  - lynchpins of MoS, endpoint 1, endpoint 2, dispel word
+  - B4, C2
+  - complexity 10
+   
+M16 Loudspeaker
+  - manipulates shadow to make a shielded, invisible line that transmits
+    sound waves clearly from the "microphone" end to the "speaker" end,
+    and magnifies the sound from the speaker end to the specified level.
+  - duration 1 hr
+  - lynchpins of MoS, speaker loc, mike loc, dispel word, amplification
+  - B4, C5
+  - complexity 14
+ 
+----------------
+ 
+Possibly Punted
+ 
+Restore Speech
+  - Attempts to restore the target's vocal capability by supplying air
+    to the appropriate air cavities, dispelling any sound-related
+    magical effects in the immediate vicinity, and
+    un-paralyzing/restoring the lungs, vocal cords, mouth, tongue, etc.
+  - no verbal linchpins
+ 
+M?? Shrink/Enlarge Target
+  - variable degree of size change
+ 
+M?? Levitate
+  - how _does_ this work, specifically the controls?
+  - I think that the logrus and shapeshifting are probably better for
+    this than magic.
+ 
+M?? Detonate Staff
+  - If <object> goes more than 10-15 feet from me, *boom*
+  - creates a linkage between the object and me, and if the linkage is
+    stretched too far, *boom*.
+  - lynchpins of ...MoS? Hmm. This would have to be cross-shadow to be
+    useful.  Punt?
+  - B2, C5
+  -
+ 
+--------------
+ 
+Punted Spells (Removed, or logrus)
+ 
+ 
+Slow Time
+Hasten Time
+Chaos Squirt Cannon
+Disarm
+ 
+Dismember
+  - remove target's specified limb
+  - punted, see Explode Flesh
+ 
+Should this one be punted, in favor of logrus seeking?
+Summon Staff
+  - Hey, where'd my <object> go?
+  - lynchpins of MoS, desired object
+  - A1, B1, C1
+  - Xcomplexity 5
+ 
+Shadow Tracking
+  - places an extremely fine logrus tenticle on the target, which can be
+    used to locate or spy on (?) the target.
+ 
+Arrow Storm
+   - grabs ~50 arrows out of shadow with a shadow gate, sucks them
+     through, then propels them at high speed at the indicated target.
+   - lynchpins of MoS, target area
+   - A2, B1, C5
+   - Xcomplexity 10
+ 
+Forest of Flying Pikes
+   - When an arrow storm just isn't enough...
+   - grabs two dozen pikes with a shadow gate, sucks them through, then
+     propels them at high speed at the indicated target.
+   - lynchpins of MoS, target area
+   - A3, B1, C6
+   - Xcomplexity 12
+  
+Flechette Gun
+   - pulls sharp fragments off an object that he is touching and
+     accellerates them to high speeds in the indicated direction.
+   - effect continues until the ammo source is gone or dispelled.
+   - lynchpins of MoS, ammo source, aiming mechanism (usually point),
+     dispel word
+   - B3, C8
+   - Xcomplexity 15
+ 
+Tunable Magnet
+   - TK object directly towards self, striking any target in the way,
+     aka Empire Strikes Back (Darth fights dirty)
+   - lynchpins of MoS, target object
+   - B2, C5
+   - Xcomplexity 9
+ 
+Giant Corkscrew
+   - A giant corkscrew appears above the target, and starts drilling its
+     way down.
+   - opens a gate, pulls a giant corkscrew through it, and starts
+     spinning it down and into whatever is beneath it.
+   - lynchpins of MoS, target
+   - A1, B2, C5
+   - Xcomplexity 10
+ 
+ 
+---
+ 
+ 
+ 
+ 
+ 
+From dkap Sun Jun 23 14:01:14 -0400 1996
+To: dskern@ftp.com
+In-reply-to: <9605291705.AA18550@ftp.com> (dskern@ftp.com)
+Subject: Re: more annoying questions...
+Return-Path: dkap@haven.org
+Reply-To: dkap@haven.org
+From: "A Page in the Life of ..." <dkap@haven.org>
+ 
+   From: dskern@ftp.com (David Kern)
+ 
+ 
+   Query for structure/reasonableness oh a couple of spells:
+ 
+   M12 Healing
+     - lend energy towards strengthening the target body, mind touch to
+       dampen pain
+     - lynchpins of MoS, target
+     - B4, C10, D1
+     - complexity 17
+ 
+Umm, you'd need advanced shape shifting our really huge endurance to do
+this one, otherwise you are just pouring energy into a body that is already
+trying to cope with something.
+ 
+<stamp> DENYED
+ 
+   M09 Paint Target
+     - Let's paint the opposing general an interesting shade of puce...
+     - spraypaint "AMBER SUX -- CHAOS RULZ" on the side of Gerard's ship.
+     - I cast the spell, then paint on a canvas in front of me, and that
+       color/pattern paint appears on the target object, scaled
+       proportionately.
+     - opens a shadow gate to a place filled with paint, colors the paint
+       appropriately in a small container on this side of the gate, and
+       then releases the paint via a nozzle as indicated by the canvas.
+     - The nozzle's end on this shadow is specified by two things, the target
+       lynchpin and the canvas/brush (yet another lynchpin). The paint
+       emerging from the nozzle is colored identically to the paint that
+       was just placed onto the canvas, and the nozzle movement is
+       controlled by the brush's movements.
+     - max duration, 1 hour.
+     - lynchpins of MoS, target, canvas, dispel word
+     - A2, B2, C1
+     - complexity 9
+ 
+Umm, simpler, just open a gate to a place swirling with colored paints, and
+use your logrus tendrils to direct and choose colors.
+ 
+Making the spell follow your painting is much to complex.
+ 
+   Also, I have a couple of spells that have multiple targets. How can this
+   be specified in terms of lynchpins? Is it one lynchpin per target? One
+   per plus one to specify the number of targets? Is the list of targets
+   null-terminated?   For example:
+ 
+N+1 lynchpins where the 1 is the count.
+ 
+   BA05 Forked Lightning
+      - Pick multiple targets, and spray zippy electrons at them,
+      - same process as Lightning Bolt, but more power, and multiple paths.
+      - lynchpins of MoS, number of targets, target, target, target,...
+      - A1, B3+targets, C5+targets
+      - complexity 11+3*targets
+ 
+   and
+ 
+   FA08 Tim's Tap
+      - causes minor explosions and plumes of fire at five specified
+        locations
+      - modeled after _Monty Python's Holy Grail_
+      - opens five gates to a shadow with plasma under high pressure, and
+        lets a decent amount out.
+      - lynchpins of MoS, target, target, target, target, target
+      - A5, B5, C1
+      - complexity 17
+Easier to just modify the shadow at those spots to be significantly hotter,
+rather than opening a gate.
+ 
+   On a different note,
+ 
+   Who is in House Cara? Do the various people have names yet? What are
+   House Cara's colors?  I've been considering using black, midnight blue,
+   and a deep green (almost aquamarine) for his colors - does that clash
+   with anything currently existing?
+ 
+Umm ... the house doesn't have specific colors (yet) if you and the other
+house members want to get together and do something about it, you can.
+ 
+REN is currently Cara (head of household) no current heir contenders
+besides yourself, now that your cousin is dead. (Or has that not happened
+yet?)
+ 
+Personal colors are personal choices, some of the amberite's colors
+clash/copy I don't see why Chaosian colors need to be fixed much less
+worried about matching/clashing.
+ 
+Dave K>
+
+From dskern@ftp.com  Wed Jun 19 17:13:36 1996
+Date: Wed, 19 Jun 1996 17:18:25 -0400
+From: dskern@ftp.com (David Kern)
+To: dkap@haven.org
+Subject: new spells
+                                                                                
+                                                                                
+Here are some new spells that I'm going to research ASAP. Three of them
+are standard (disarm, shatter weapon, and flight), but the rest are in a
+new category, Anti-Mikail. :-)
+                                                                                
+Basically, I now see the need for heavily overpowered spells to deal
+with people that I can't logrus-thwack. Almost all of them are
+complexity 30 so take 5 minutes to cast if I haven't hung them
+already, but...
+                                                                                
+All of the Anti-Mikail spells will be researched after I've done a bit
+of study into the Mikail simalcrums, the amulets on those simalcrums,
+and Mikail's demons, and will be tailored appropriately.
+                                                                                
+                                                                                
+A = shadow opening
+B = shadow manip
+C = magical energy
+D = mind touch
+                                                                                
+BA16 Disarm
+   - Designed for those pattern weenies that I can't easily disarm with
+     the logrus.
+   - slams the blade hard in one direction while slamming the weapon
+     hand in the other direction.
+   - lynchpins of MoS, target
+   - B5, C15
+   - complexity 22
+ 
+EX07 Shatter Blade
+   - Variant of Explode Rock, but makes a weapon go *BOOM* instead
+   - lynchpins of MoS, local magic, target
+   - B5, C15
+   - complexity 23
+ 
+M23 Flight
+  - Modifies shadow to allow the target to control the effect of gravity
+    on it
+  - stability could be maintained by causing a small pull equally in all
+    directions, and movement by increasing the pull in the desired
+    direction.
+  - lynchpins of MoS, target, dispel word, shadow manip
+  - B10, C10
+  - complexity 24
+ 
+ 
+----------------
+ 
+Anti-Mikail Spells:
+ 
+ 
+AM01 Enforced Binding
+  - creates a cross, as in Sheridan's Binding, but also attempts to
+    paralyze the target as well.
+  - lynchpins of MoS, target, local magic, dispel word, shadow manip
+  - B10, C15
+  - complexity 30
+ 
+AM02 UberSleep
+  - Sleep's big brother
+  - lynchpins of MoS, target, local magic, dispel word
+  - C20, D6
+  - complexity 30
+ 
+AM03 Coat Rack
+  - Everyone keeps commenting about turning people into coatracks, so I
+    might as well have a spell that does that as well...
+  - lynchpins of MoS, target, local magic, dispel word, shadow manip
+  - B10, C15
+  - complexity 30
+ 
+AM04 Harden Air
+  - causes the air in the target area to harden, forming a lattice
+    through which normal air can slowly diffuse (so the target doesn't
+    suffocate), but prevents all other movement. Does not effect air
+    inside the target's lungs.
+  - lynchpins of MoS, target area, shadow manip, local magic, dispel
+    word
+  - B10, C15
+  - complexity 30
+ 
+AM05 Negate Amulet
+  - cancels out the effect of one of his amulets, as determined by
+    studying one taken off one of his simalcrums.
+  - lynchpins of MoS, target amulet, local magic
+  - B12, C15
+  - complexity 30
+ 
+AM06 Demon Melt
+  - sends the demon's shapeshifting capability wild, infecting it with a
+    version of primal cancer and forcing it to concentrate on remaining
+    intact.
+  - tailored for demons of Swift Edges and Galleon's types.
+  - lynchpins of MoS, target area, local magic, dispel word
+  - B11, C15
+  - complexity 30
+ 
+AM07 Fry Magical Object
+  - attempts to dispel the magic on/in a magical object/item
+  - templates used: Mikail simalcrae and the associated amulets
+  - lynchpins of MoS, target area, local magic
+  - B12, C15
+  - complexity 30
+ 
+AM08 Leash
+  - places a magical tracer on a target, to aid in locating or tracking
+    it in the future.
+  - lynchpins of MoS, target, dispel word
+  - B5, C10
+  - complexity 18
+ 
+AM09 Mummify
+  - Wraps the target tightly in layers and layers of magical energy,
+    cocooning it entirely.
+  - lynchpins of MoS, target, dispel word, local magic, shadow manip
+  - B10, C15
+  - complexity 30
+ 
+AM10 Demon Freeze
+  - Blocks a demon's capability to travel through shadow by strongly
+    binding it to the current one.
+  - tailored for demons of Swift Edges and Galleon's types.
+  - lynchpins of MoS, target area, local magic, dispel word, shadow
+    manip
+  - B10, C15
+  - complexity 30
+ 
+ 
+-----------
+ 
+ 
+From dkap Mon Jun 24 13:04:36 -0400 1996
+To: dskern@ftp.com
+In-reply-to: <9606192118.AA13248@ftp.com> (dskern@ftp.com)
+Subject: Re: new spells
+Return-Path: dkap@haven.org
+Reply-To: dkap@haven.org
+From: "A Page in the Life of ..." <dkap@haven.org>
+ 
+   From: dskern@ftp.com (David Kern)
+ 
+ 
+   Here are some new spells that I'm going to research ASAP. Three of them
+   are standard (disarm, shatter weapon, and flight), but the rest are in a
+   new category, Anti-Mikail. :-)
+ 
+OOHHH, special.  He get's his own category ...
+ 
+   Basically, I now see the need for heavily overpowered spells to deal
+   with people that I can't logrus-thwack. Almost all of them are
+   complexity 30 so take 5 minutes to cast if I haven't hung them
+   already, but...
+ 
+But, you now have time, after your headache has passed, to hang them.
+ 
+   All of the Anti-Mikail spells will be researched after I've done a bit
+   of study into the Mikail simalcrums, the amulets on those simalcrums,
+   and Mikail's demons, and will be tailored appropriately.
+ 
+The amulets just basically stop them from being affected by non-point-value
+weapons.  Nothing special.  The simalcrums simply are animated dead flesh.
+Nothing special about them either, except that they have traces of pattern
+in them.
+ 
+   A = shadow opening
+   B = shadow manip
+   C = magical energy
+   D = mind touch
+ 
+   BA16 Disarm
+      - Designed for those pattern weenies that I can't easily disarm with
+        the logrus.
+      - slams the blade hard in one direction while slamming the weapon
+        hand in the other direction.
+      - lynchpins of MoS, target
+      - B5, C15
+      - complexity 22
+ 
+   EX07 Shatter Blade
+      - Variant of Explode Rock, but makes a weapon go *BOOM* instead
+      - lynchpins of MoS, local magic, target
+      - B5, C15
+      - complexity 23
+ 
+   M23 Flight
+     - Modifies shadow to allow the target to control the effect of gravity
+       on it
+     - stability could be maintained by causing a small pull equally in all
+       directions, and movement by increasing the pull in the desired
+       direction.
+     - lynchpins of MoS, target, dispel word, shadow manip
+     - B10, C10
+     - complexity 24
+ 
+Good.
+   ----------------
+ 
+   Anti-Mikail Spells:
+ 
+ 
+   AM01 Enforced Binding
+     - creates a cross, as in Sheridan's Binding, but also attempts to
+       paralyze the target as well.
+     - lynchpins of MoS, target, local magic, dispel word, shadow manip
+     - B10, C15
+     - complexity 30
+ 
+Won't work on him probably, being an amberite, you can't manipulate him as
+shadow.
+ 
+   AM02 UberSleep
+     - Sleep's big brother
+     - lynchpins of MoS, target, local magic, dispel word
+     - C20, D6
+     - complexity 30
+ 
+OK
+ 
+   AM03 Coat Rack
+     - Everyone keeps commenting about turning people into coatracks, so I
+       might as well have a spell that does that as well...
+     - lynchpins of MoS, target, local magic, dispel word, shadow manip
+     - B10, C15
+     - complexity 30
+ 
+You need advanced/exaulted shape shift to pull this one off on an amberite.
+ 
+   AM04 Harden Air
+     - causes the air in the target area to harden, forming a lattice
+       through which normal air can slowly diffuse (so the target doesn't
+       suffocate), but prevents all other movement. Does not effect air
+       inside the target's lungs.
+     - lynchpins of MoS, target area, shadow manip, local magic, dispel
+       word
+     - B10, C15
+     - complexity 30
+ 
+Good.
+ 
+   AM05 Negate Amulet
+     - cancels out the effect of one of his amulets, as determined by
+       studying one taken off one of his simalcrums.
+     - lynchpins of MoS, target amulet, local magic
+     - B12, C15
+     - complexity 30
+ 
+You can do so, but as a warning, you don't think that these amulets are
+what protects Mikail, that deamon was doing the job in the sky.
+ 
+   AM06 Demon Melt
+     - sends the demon's shapeshifting capability wild, infecting it with a
+       version of primal cancer and forcing it to concentrate on remaining
+       intact.
+     - tailored for demons of Swift Edges and Galleon's types.
+     - lynchpins of MoS, target area, local magic, dispel word
+     - B11, C15
+     - complexity 30
+ 
+Are you going to go and do the research on Galleon and Swift Edges?
+ 
+   AM07 Fry Magical Object
+     - attempts to dispel the magic on/in a magical object/item
+     - templates used: Mikail simalcrae and the associated amulets
+     - lynchpins of MoS, target area, local magic
+     - B12, C15
+     - complexity 30
+ 
+Pretty close to an unravel.
+ 
+   AM08 Leash
+     - places a magical tracer on a target, to aid in locating or tracking
+       it in the future.
+     - lynchpins of MoS, target, dispel word
+     - B5, C10
+     - complexity 18
+ 
+Good.
+ 
+   AM09 Mummify
+     - Wraps the target tightly in layers and layers of magical energy,
+       cocooning it entirely.
+     - lynchpins of MoS, target, dispel word, local magic, shadow manip
+     - B10, C15
+     - complexity 30
+ 
+Good.
+ 
+   AM10 Demon Freeze
+     - Blocks a demon's capability to travel through shadow by strongly
+       binding it to the current one.
+     - tailored for demons of Swift Edges and Galleon's types.
+     - lynchpins of MoS, target area, local magic, dispel word, shadow
+       manip
+     - B10, C15
+     - complexity 30
+ 
+Umm .. how?
+
+From dskern@ftp.com  Mon Jun 24 12:48:28 1996
+Date: Mon, 24 Jun 1996 12:53:17 -0400
+From: dskern@ftp.com (David Kern)
+To: dkap@haven.org
+In-Reply-To: "A Page in the Life of ..."'s message of Sun, 23 Jun 1996
+14:01:15 -0400 <199606231801.OAA04328@sanctuary.haven.org>
+Subject: Re: more annoying questions...
+ 
+ 
+So, are there any techniques that I can use for healing? The second
+amber series mentioned logrus healing techniques -- does my character
+know of any?
+ 
+Okay, I've modified those spells accordingly...
+ 
+> REN is currently Cara (head of household) no current heir contenders
+> besides yourself, now that your cousin is dead. (Or has that not happened
+> yet?)
+                                                                               
+No, my cousin is still in fine health. I'm not about to kick in the
+extra 1.5 points to maintain Home solo... Besides, I'm still not sure
+that ruling directly is the way to go, and as long as I'm not the first
+in line, I have the option of being the power behind the ruler, and I'm
+far enough down the line of assassination targets that I might actually
+survive a 'night of the long knives'.
+                                                                               
+For now at least, I'd rather be concentrating on improving Cara's
+status than maintaining my own.
+                                                                               
+                                                                               
+dave
+
+From dkap Mon Jun 24 13:13:08 -0400 1996
+To: dskern@ftp.com
+In-reply-to: <9606241653.AA27127@ftp.com> (dskern@ftp.com)
+Subject: Re: more annoying questions...
+Return-Path: dkap@haven.org
+Reply-To: dkap@haven.org
+From: "A Page in the Life of ..." <dkap@haven.org>
+ 
+   From: dskern@ftp.com (David Kern)
+ 
+   So, are there any techniques that I can use for healing? The second
+   amber series mentioned logrus healing techniques -- does my character
+   know of any?
+ 
+You aren't really versed in those arts.  And the second series isn't cannon
+(for example, as far as anyone knows there is no such thing as a broken
+pattern)
+ 
+   Okay, I've modified those spells accordingly...
+ 
+   > REN is currently Cara (head of household) no current heir contenders
+   > besides yourself, now that your cousin is dead. (Or has that not happened
+   > yet?)
+ 
+   No, my cousin is still in fine health.
+ 
+I'm glad to hear that.  My well wishes in his endevors.
+                                                                               
+   I'm not about to kick in the
+   extra 1.5 points to maintain Home solo...
+                                                                               
+You wouldn't have to, and technically couldn't, for it is part of his
+legend, and yours, and you couldn't write him out of it.
+ 
+   Besides, I'm still not sure
+   that ruling directly is the way to go, and as long as I'm not the first
+   in line, I have the option of being the power behind the ruler, and I'm
+   far enough down the line of assassination targets that I might actually
+   survive a 'night of the long knives'.
+ 
+Maybe, but in chaos, the long knives are usually provided by other houses,
+internally, they are much more aware of who to inhume, and the other houses
+usually aren't that particular.
+ 
+   For now at least, I'd rather be concentrating on improving Cara's
+   status than maintaining my own.
+ 
+Gotcha.
+ 
+Dave K>
+
+From dskern@ftp.com  Mon Jun 24 14:34:09 1996
+Date: Mon, 24 Jun 1996 14:39:08 -0400
+From: dskern@ftp.com (David Kern)
+To: dkap@haven.org
+Cc: dskern@ftp.com
+In-Reply-To: "A Page in the Life of ..."'s message of Mon, 24 Jun 1996
+13:04:39 -0400 <199606241704.NAA01788@crystalpalace.haven.org>
+Subject: Re: new spells
+ 
+ 
+My Things To Do list for the next run:
+ 
+1. Grab a mikail amulet/clone
+2. Dispel those teleport blocks, esp the one that could be contributing
+to that riot by not letting anyone escape by teleportation (at least
+chaos is generally faster than amber/drageara)
+3. Dissect a mikail amulet/clone.
+4. Research Mikail's demons
+5. Create/hang some anti-mikail spells
+6. Take Cathryn to a fast shadow and try to dump some quick defensive /
+target-finding techniques on her before her duel with julian.
+7. Go Mikail hunting w/ Cathryn
+ 
+Logrus Research:
+ 
+* Try to do what Cathryn did to repair that statue with the logrus
+* Experiment with Suhey's pixilated hologram technique
+                                                                               
+>   Here are some new spells that I'm going to research ASAP. Three of them
+>   are standard (disarm, shatter weapon, and flight), but the rest are in a
+>   new category, Anti-Mikail. :-)
+>
+> OOHHH, special.  He get's his own category ...
+ 
+Yup. Hey - he's the first truly worthy opponent I've had to play with in
+decades, ever since my cousin started spending more of his time in the
+Courts and less time playing war. I don't actually want to hurt him -
+just take him down and ask him how in the world he escaped that teleport
+block and knocked me back several shadows.
+ 
+> The amulets just basically stop them from being affected by non-point-value
+> weapons.  Nothing special.  The simalcrums simply are animated dead flesh.
+> Nothing special about them either, except that they have traces of pattern
+> in them.
+ 
+So, how much pattern will give me a nasty headache or bounce me across
+shadow? If an advanced logrus user thwacks a basic pattern user, what
+happens? Basic logrus vs advanced pattern? Logrus v pattern-tainted
+items? And when one becomes more skilled with the logrus, do the effects
+of pattern increase or decrease?
+ 
+> Won't work on him probably, being an amberite, you can't manipulate
+> him as shadow.
+ 
+For those effects, is it because he is an amberite, or because he is
+real? Are chaosians as hard to effect in that fashion as amberites? What
+about primal-plane dwellers?
+
+                                                                               
+> You need advanced/exaulted shape shift to pull this one off on an
+> amberite.
+ 
+Could I pull it off on a chaosian w/o high-powered shapeshifting
+ability? Mandor has apparently challenged Bleys to a duel because he
+turned Dara into a hat rack - would that imply that bleys can
+shapeshift, or just that he was using a different kind of / more
+powerful form of magic?
+ 
+>   AM05 Negate Amulet
+>     - cancels out the effect of one of his amulets, as determined by
+>       studying one taken off one of his simalcrums.
+>     - lynchpins of MoS, target amulet, local magic
+>     - B12, C15
+>     - complexity 30
+>
+> You can do so, but as a warning, you don't think that these amulets are
+> what protects Mikail, that deamon was doing the job in the sky.
+ 
+Okay - I'll nuke that spell from the list, then.
+ 
+Yes, I'll be doing research on Galleon and Swift Edges - see my TTD list
+at the top of this email message.
+ 
+>   AM07 Fry Magical Object
+>     - attempts to dispel the magic on/in a magical object/item
+>     - templates used: Mikail simalcrae and the associated amulets
+>     - lynchpins of MoS, target area, local magic
+>     - B12, C15
+>     - B12, C15
+>     - complexity 30
+>
+> Pretty close to an unravel.
+ 
+What's an unravel? :)
+ 
+>   AM10 Demon Freeze
+>     - Blocks a demon's capability to travel through shadow by strongly
+>       binding it to the current one.
+>     - tailored for demons of Swift Edges and Galleon's types.
+>     - lynchpins of MoS, target area, local magic, dispel word, shadow
+>       manip
+>     - B10, C15
+>     - complexity 30
+>
+> Umm .. how?
+ 
+I'm not sure how yet - hopefully after studying Swift Edges and
+Galleon-type demons, I can figure out a way to modify shadow to make
+them stuck, like anchoring a non-magical pattern-weenie's feet in
+concrete...
+ 
+ 
+dave
+ 
+From dkap Mon Jun 24 14:48:57 -0400 1996
+To: dskern@ftp.com
+In-reply-to: <9606241839.AA04742@ftp.com> (dskern@ftp.com)
+Subject: Re: new spells
+Return-Path: dkap@haven.org
+Reply-To: dkap@haven.org
+From: "A Page in the Life of ..." <dkap@haven.org>
+ 
+   From: dskern@ftp.com (David Kern)
+   My Things To Do list for the next run:
+ 
+Or so ... <G>
+ 
+ 
+   So, how much pattern will give me a nasty headache or bounce me across
+   shadow? If an advanced logrus user thwacks a basic pattern user, what
+   happens? Basic logrus vs advanced pattern? Logrus v pattern-tainted
+   items? And when one becomes more skilled with the logrus, do the effects
+   of pattern increase or decrease?
+ 
+The amount of pattern in the simulacrums just lead it as a tracer, nothing
+more (as in they will twig as containing pattern if one was to search for
+such, but not much more than that), so you still don't have a scale to
+measure that on.  This is something that you would probably have to resolve
+in play.
+ 
+   > Won't work on him probably, being an amberite, you can't manipulate
+   > him as shadow.
+ 
+   For those effects, is it because he is an amberite, or because he is
+   real? Are chaosians as hard to effect in that fashion as amberites? What
+   about primal-plane dwellers?
+ 
+Chaosians are easier to manipulate than amberites, chaosians are used to
+modifying themselves to match the enviornment that they are currently
+within.  Amberites tend to be immutable.  And it depends on the primal
+plane and its dwellers to answer for them.
+ 
+   > You need advanced/exaulted shape shift to pull this one off on an
+   > amberite.
+ 
+   Could I pull it off on a chaosian w/o high-powered shapeshifting
+   ability? Mandor has apparently challenged Bleys to a duel because he
+   turned Dara into a hat rack - would that imply that bleys can
+   shapeshift, or just that he was using a different kind of / more
+   powerful form of magic?
+ 
+More powerful magic than you have available to you. (He has pattern magic,
+and basically rewrote her.)
+ 
+   >   AM05 Negate Amulet
+   >     - cancels out the effect of one of his amulets, as determined by
+   >       studying one taken off one of his simalcrums.
+   >     - lynchpins of MoS, target amulet, local magic
+   >     - B12, C15
+   >     - complexity 30
+   >
+   > You can do so, but as a warning, you don't think that these amulets are
+   > what protects Mikail, that deamon was doing the job in the sky.
+ 
+   Okay - I'll nuke that spell from the list, then.
+ 
+No problem.
+ 
+   Yes, I'll be doing research on Galleon and Swift Edges - see my TTD list
+   at the top of this email message.
+ 
+Some interesting information will result.
+ 
+   >   AM07 Fry Magical Object
+   >     - attempts to dispel the magic on/in a magical object/item
+   >     - templates used: Mikail simalcrae and the associated amulets
+   >     - lynchpins of MoS, target area, local magic
+   >     - B12, C15
+   >     - complexity 30
+   >
+   > Pretty close to an unravel.
+ 
+   What's an unravel? :)
+ 
+Picture the spell as a carefully knitted sweater, and you just plucked one
+of the threads and started pulling ...
+ 
+   >   AM10 Demon Freeze
+   >     - Blocks a demon's capability to travel through shadow by strongly
+   >       binding it to the current one.
+   >     - tailored for demons of Swift Edges and Galleon's types.
+   >     - lynchpins of MoS, target area, local magic, dispel word, shadow
+   >       manip
+   >     - B10, C15
+   >     - complexity 30
+   >
+   > Umm .. how?
+ 
+   I'm not sure how yet - hopefully after studying Swift Edges and
+   Galleon-type demons, I can figure out a way to modify shadow to make
+   them stuck, like anchoring a non-magical pattern-weenie's feet in
+   concrete...
+ 
+Ahh, gotcha.  We'll deal with that from your research.
+ 
+Dave K>
+
+From dskern@ftp.com  Sun Jun 30 14:13:36 1996
+Date: Sun, 30 Jun 1996 14:18:33 -0400
+From: dskern@ftp.com (David Kern)
+To: dkap@haven.org
+Cc: dskern@ftp.com
+Subject: run tuesday
+ 
+ 
+I think that I'm going to be very late for the run this week - packet
+handout for an assassin game this coming weekend. How much detail should
+I give you for Ilk's actions?  I guess that he could spend most of this
+run doing research, but I really doubt that he's going to find out
+anything interesting, esp considering that any further info about the
+demons is probably going to have to come from scott. :)
+ 
+A few questions... those amulets protect the wearer from non-'point'
+weapons. Do 'point' weapons only include things that were bought for
+character points, or do they include things that were conjured or found,
+like the stuff mikail makes and ilk reaches out and grabs?
+ 
+More experiments w/ the mikail-clones: do the amulets only protect
+against direct physical attack? Will a logrus tendril effect the clone?
+A zot of magical energy?
+ 
+Some potential spell ideas...
+ 
+Wet Cement, a defensive spell that modifies a shell around the target
+point such that anything trying to move through it gets stuck.  Designed
+with the thought of not being perforated by Swift Edges in mind, but
+should also be usable in the more general case.
+
+                                                                               
+Nobody's Home II - a more pumped version of the psychic/trump blocker
+designed to protect against a pumped conjurer who is also one of
+clarissa's kids, and therefore probably a psyche monster.
+ 
+Swift Edges Hunter-Killer (SE H-K): creates a magical shaped charge that
+homes on the nearest/specified SE, and fries it on impact.
+ 
+Double-Barrel SE H-K - fires two SE H-Ks
+ 
+SE H-K Machine Gun - starts firing SE H-Ks and continues until dispelled
+or it runs out of magical power.
+ 
+Banish Demon(s) - teleports the specified/nearest demon to a drab shadow
+with very little logrus influence that by it's very nature makes it
+difficult for the demon to move out. Also 'covers it's tracks'
+afterwards by erasing the teleport trace. The 'demons' variant tries to
+banish all of the demons within the specified area; if no target area is
+specified, it takes the caster as the center and works its way outward
+>from that.
+ 
+Erase Teleport Trace - obvious
+ 
+Untraceable Teleport - ditto
+ 
+Raise Dead Shadow Dude - like the spell from That Other Game. Scans the
+required chunk of the critter's flesh, and clones it, then re-creates
+the psyche from impressions left in the flesh, or by reaching out and
+grabbing the 'soul' or 'spirit', if such things exist and are grabable
+in your universe.
+                                                                               
+Contingency - cast, then the next specified number of spells cast are
+effectively hung on the contingency spell itself, which fires off its
+spells according to algorithms specified when the contingency spell
+itself is cast.
+ 
+ 
+dave
+ 
+From dkap Tue Jul  9 16:50:10 -0400 1996
+To: dskern@ftp.com
+In-reply-to: <9606301818.AA23805@ftp.com> (dskern@ftp.com)
+Subject: Re: run tuesday
+Return-Path: dkap@haven.org
+Reply-To: dkap@haven.org
+From: "A Page in the Life of ..." <dkap@haven.org>
+ 
+   From: dskern@ftp.com (David Kern)
+ 
+   A few questions... those amulets protect the wearer from non-'point'
+   weapons. Do 'point' weapons only include things that were bought for
+   character points, or do they include things that were conjured or found,
+   like the stuff mikail makes and ilk reaches out and grabs?
+ 
+Same thing.
+ 
+   More experiments w/ the mikail-clones: do the amulets only protect
+   against direct physical attack? Will a logrus tendril effect the clone?
+   A zot of magical energy?
+ 
+Yes, yes, yes.
+ 
+   Wet Cement, a defensive spell that modifies a shell around the target
+   point such that anything trying to move through it gets stuck.  Designed
+   with the thought of not being perforated by Swift Edges in mind, but
+   should also be usable in the more general case.
+ 
+Hmm. interesting.
+ 
+   Nobody's Home II - a more pumped version of the psychic/trump blocker
+   designed to protect against a pumped conjurer who is also one of
+   clarissa's kids, and therefore probably a psyche monster.
+ 
+Don't have enough jets to do so.
+ 
+   Swift Edges Hunter-Killer (SE H-K): creates a magical shaped charge that
+   homes on the nearest/specified SE, and fries it on impact.
+ 
+Just make it there, rather than the complex homing.
+                                                                               
+   Double-Barrel SE H-K - fires two SE H-Ks
+   SE H-K Machine Gun - starts firing SE H-Ks and continues until dispelled
+   or it runs out of magical power.
+ 
+See above.
+ 
+   Banish Demon(s) - teleports the specified/nearest demon to a drab shadow
+   with very little logrus influence that by it's very nature makes it
+   difficult for the demon to move out. Also 'covers it's tracks'
+   afterwards by erasing the teleport trace. The 'demons' variant tries to
+   banish all of the demons within the specified area; if no target area is
+   specified, it takes the caster as the center and works its way outward
+   from that.
+ 
+You would have to do a demon summoning to do a banish.  Since you didn't
+summon these, you can't banish these.
+ 
+   Erase Teleport Trace - obvious
+ 
+How?  You don't know of any way.
+ 
+   Untraceable Teleport - ditto
+ 
+Again, how?
+ 
+   Raise Dead Shadow Dude - like the spell from That Other Game. Scans the
+   required chunk of the critter's flesh, and clones it, then re-creates
+   the psyche from impressions left in the flesh, or by reaching out and
+   grabbing the 'soul' or 'spirit', if such things exist and are grabable
+   in your universe.
+ 
+You don't have the jets to swing it (advanced conjouration/high compelling)
+ 
+   Contingency - cast, then the next specified number of spells cast are
+   effectively hung on the contingency spell itself, which fires off its
+   spells according to algorithms specified when the contingency spell
+   itself is cast.
+ 
+Nope.
+ 
+Dave K>
+
+From dskern@chainsaw.shore.net  Wed Jul 16 18:26:45 1997
+Return-Path: <dskern@chainsaw.shore.net>
+Date: Wed, 16 Jul 1997 18:29:23 -0400
+From: David Kern <dskern@shore.net>
+To: dkap@haven.org
+cc: dskern@shore.net
+Subject: some more questions...
+                                                                               
+                                                                               
+Does Ilk think that a shadow storm would be more effective against
+combat-s<lost>
+
+Date: Wed, 14 Aug 1996 17:03:00 -0400
+From: dskern@ftp.com (David Kern)
+To: dkap@haven.org
+Cc: dskern@ftp.com
+Subject: Stupid Logrus Tricks
+ 
+ 
+Bear with me if the train of logic derails or appears to be heading off
+a cliff, I'm looking for general info about the nature of what you can
+do with the logrus (hey, for 70 points there's got to be something
+worthwhile to do with the thing) as well as hunting for stupid logrus
+tricks.
+ 
+All of my "is it possible to X" questions have the implied follow-up of
+"Can I do X, and if not, how far beyond my grasp is it?"
+ 
+------- Stoopid Logrus Trick #1 ----------
+ 
+When pulling onself through/across shadow using the logrus, the first
+step is to reach to the destination and 'latch on', right?
+ 
+Is it possible to translate onself contiguously within a shadow with the
+logrus in that fashion, reaching out, say, 50 feet up, and then reel
+yourself in?
+ 
+Is it possible to reach out with the logrus and grab your present
+location and hold yourself in that location, to provide for a form of
+levitation?
+                                                                                     
+Another question: Is it possible to move the tip of a logrus tendril?
+For example, dip the end of a tendril into a lake, then spray water
+around with another end of that tendril or another tendril connected to
+it?
+ 
+Can one then reach out with the logrus and grab your present location
+and then change the point that you are grabbing contiguously to simulate
+flight?
+ 
+How about reaching out with the logrus one foot ahead of your current
+direction and pulling yourself contiguously through space along the
+tendril, while moving and growing the tendril in the direction that you
+want to go, such that you are effectively continously laying track in
+front of the train in your intended direction, and then re-absorbing it
+into the train as you pass over it?
+ 
+-------- Stoopid Logrus Trick #2 ---------
+ 
+Is it possible to link tendrils? For example, could I dip one tendril
+into a lake to provide input (and pumping pressure, temp control, etc)
+and then have 20 tendrils playing firehose?
+ 
+Is it possible to use the logrus to project or throw something else into
+close proximity of a pattern-weenie? For example, throwing rocks or
+flechette-gun style rock chips, or directly throwing bullets?
+  
+How about doing the above firehose imitation, but with the 20 firehoses
+at the vertices of a 20-sided regular 3-d solid (like a d20) spraying
+inward, with a pattern weenie at the center?  How about piping lava or
+molten metal through the tendrils instead of water?  What about piping
+primal chaos instead of water?
+                                                                                     
+-------- Stoopid Logrus Trick #3 ---------
+ 
+Is it possible to create a self-contained bundle of logrus energy with a
+program controlling it? Is that logrus magic?  Can I do it?
+ 
+Example: set up a series of hard, heavy, sharp, or otherwise physically
+manifested logrus tendrils spinning or moving rapidly to block the path
+of or strike a pattern weenie, but having the effect of logrus v pattern
+contained to that logrus manifestation, quite possibly dispelling it,
+but not causing feedback damage to myself?
+ 
+Example: Soften an area of rock using the logrus, and then stick a sword
+into it. Set up a few logrus tendrils to anchor the sword into the rock,
+and that chunk of rock to the fabric of shadow, such that the sword
+cannot be pulled from the stone, the stone cannot be moved, and if the
+stone is chipped away, the sword remains hanging in mid-air?
+ 
+Mod to above example: Set up a tendril with orders to block any attempts
+to chip away the stone, so it would either wrap itself around the stone,
+or move to block any attempts to do stonemason tricks. ?
+ 
+Ditto: Weave a logrus tendril through the rock, such that even if the
+rock is smashed into powder, the powder is held in place by the tendril?
+ 
+Ditto: Add an end condition to the setup, such that the specified end
+condition (the right person touching the handle?) results in the spell
+softening the stone, releasing the sword, restoring the stone, and then
+going away?
+ 
+Example: Wrap a message in a logrus-envelope that will only open when
+touched by the logrus-"signature" of a specified person?
+ 
+All of these would be spoofable by someone with more logrus than myself,
+of course...
+ 
+-------- Stoopid Logrus Trick #4 ---------
+ 
+How precisely can physically-manifested logrus tendrils be shaped? For
+example, can I create a nice blunt tendril to straightarm or clothesline
+someone charging at me? Can I create a nice sharp tendril to run someone
+through?  I know that I cannot easily pull or push Real people or
+objects across shadow with the logrus, but can I whack at them with
+physical tendrils?
+ 
+Can I pick up a Real person/object with a logrus tendril and physically
+translate them, w/ no shadow movement?
+ 
+Can I reach into a Real person with a logrus tendril and solidify the
+tip of it inside their heart? Their brain?
+ 
+Reach inside someone, grab their heart with a physical tendril, and
+rotate it 90 degrees?
+ 
+-------- Stoopid Logrus Trick #5 ----------
+ 
+Is it possible to use logrus to modify shadow?
+ 
+To modify shadow in such a way that the molecular bonds between
+molecules in the effected area become weak or dissolve, effectively
+disintegrating the substance?
+ 
+To raise or lower the freezing/boiling point of substances?
+ 
+To raise or lower the conductivity of a substance, creating an
+electrical superconductor or insulator? A thermal superconductor or
+insulator?
+ 
+To pinch off a section of shadow, creating a pocket shadow containing
+whatever was in that section?
+ 
+Could I pinch off a section of shadow, and then carry that pocket shadow
+around with me, like a bag of holding?
+ 
+Could I create more rooms in a house that wouldn't fit there by opening
+up a mini-shadow and setting up a quasi-permanent opening to that shadow
+in an otherwise blank wall?
+ 
+-------- Stoopid Logrus Trick #6 -----------
+ 
+You mentioned when I generated my character, that he had enough logrus
+power to create/control primal chaos and survive in the Sea of Chance.
+ 
+How well/how long could I survive in the Sea of Chance?  Navigate in the
+Sea of Chance?
+ 
+Is magic operational in the sea of chance? Can I do other logrus stuff
+while in the sea of chance, or am I too busy keeping myself intact?
+ 
+How much Primal Chaos could I create? Enough to melt a person?  A city?
+An entire shadow?
+ 
+How much Primal Chaos could I suck from the Sea of Chance/other sources?
+Enough to melt a person?  A city?  An entire shadow?
+ 
+If Ilk was splattered with Primal Chaos, would he melt, spend lots of
+effort protecting himself, spend lots of effort destroying it, or
+merilly suck power out of it until it was used up?
+ 
+To what extent can Ilk destroy primal chaos?
+ 
+To what extent can Ilk control primal chaos? Can he shape it? Move it?
+Form it into a ball and go bowling? Swallow it? Gain nutrition from it?
+Convince part of it to form into something and remain stable as that
+something?
+ 
+--------- Stoopid Logrus Trick #7 ------------
+ 
+A initiate of the logrus can reach through shadow and grab stuff. What
+are the limits on this? I know that sending out for a pizza, or for a
+4-point sword is fairly standard. What about...
+ 
+Sending out for a car?
+ 
+Sending out for a house or a tower?
+   (separate the foundation from the surrounding rock and pull...)
+ 
+Sending out for a castle?
+ 
+Sending out for a city?
+   (grab the bedrock, slice it away from the surrounding rock, and
+    pull...)
+ 
+Sending out for a moon?
+   (I don't like the color of this one, I want a moon made ouf of green
+    cheese...)
+ 
+Sending out for a planet?
+   (I wonder what would happen if I put Jupiter _there_ ?)
+ 
+Sending out for a star?
+   (I'm cold...)
+ 
+Sending out for a black hole?
+   (I'm suicidal...)
+ 
+----------- Stoopid Logrus Trick #8 -----------
+ 
+Can one protect oneself against involuntary teleportation or trump
+gating by anchoring onself into their current place with the logrus?
+ 
+----------- Stoopid Logrus Trick #9 -----------
+ 
+Can I cause a tendril to have a physical end that picks up vibrations
+in the surrounding medium and transmit them back as sound?
+ 
+How about picking up light and transmitting that back?
+ 
+Picking up pheremones and other scents?
+ 
+Can I cast a magical spell through a logrus tendril?
+ 
+------------
+ 
+Hmm... well, this message is getting a bit long, so I'll chop it off
+here.  More to come later, but probably not today.
+ 
+dave
+
+--------------------<lost>
+
+   ----------- Stoopid Logrus Trick #8 -----------
+ 
+   Can one protect oneself against involuntary teleportation or trump
+   gating by anchoring onself into their current place with the logrus?
+ 
+Perhaps.
+ 
+   ----------- Stoopid Logrus Trick #9 -----------
+ 
+   Can I cause a tendril to have a physical end that picks up vibrations
+   in the surrounding medium and transmit them back as sound?
+ 
+No.
+ 
+   How about picking up light and transmitting that back?
+ 
+No.
+ 
+  Picking up pheremones and other scents?
+ 
+No.
+ 
+   Can I cast a magical spell through a logrus tendril?
+ 
+Perhaps.
+ 
+   ------------
+ 
+   Hmm... well, this message is getting a bit long, so I'll chop it off
+   here.  More to come later, but probably not today.
+ 
+And it took me a while to answer.  Sorry.  I'm slowly catching up.
+ 
+Dave K>
+
+Date: Thu, 14 Nov 1996 15:33:27 -0500
+From: dskern@ftp.com (David Kern)
+To: dkap@haven.org
+Cc: dskern@ftp.com
+Subject: wish list, v1.0
+ 
+ 
+Does this look reasonable?
+ 
+Ilkandacian's Wish List v1.0; Nov 1996
+ 
+                                                                                     
+Wish list:
+-----------
+                                                                                     
+Zero Stuff
+                                                                                     
+Raise Endurance to Amber level (using college fund to help)
+                                                                                     
+Raise Psyche to bottom rung (5 pts?)
+                                                                                     
+More Magic:
+                                                                                     
+ - meta-spells (unracking, anti-unracking, spell traps, spell chaining,
+               spell contingency, spell catchers, reverse lynchpins,etc)
+ - Logrus-magic
+ - more magical power
+ - faster execution of lynchpins
+ - possibly a bit more conjuration
+ 
+ 
+Worked on List:
+---------------
+ 
+Magic.
+ - anti-mikail spells
+ - the mikail demon hosing spell
+ - magical experimentation in Dragaera
+ - magical experimentation w/ badgers
+ - inevitable magical practice while stuck in places with an unfriendly
+   logrus
+   
+Shapeshifting?
+ - surviving the *BOOM*
+ - multi-homed/un-homed consciousness
+ 
+Probably no Logrus - he's done Logrus stuff and trained Cathryn, but
+hasn't really done anything new, unless you count keeping the Logrus up
+in the Mazelands, fetching pieces of himself with the Logrus, and almost
+getting eaten by an unfriendly Logrus.
+ 
+ 
+ 
+ 
+From dkap@sanctuary.haven.org  Tue Nov 19 02:32:28 1996
+Date: Tue, 19 Nov 1996 02:32:27 -0500
+To: dskern@ftp.com, dkap@haven.org
+In-reply-to: <9611142033.AA07117@ftp.com> (dskern@ftp.com)
+Subject: Re: wish list, v1.0
+Reply-To: dkap@haven.org
+From: "A Page in the Life of ..." <dkap@haven.org>
+ 
+   Does this look reasonable?
+ 
+Mostly.
+ 
+   Ilkandacian's Wish List v1.0; Nov 1996
+ 
+ 
+   Wish list:
+   -----------
+ 
+   Zero Stuff
+ 
+Ok.
+ 
+   Raise Endurance to Amber level (using college fund to help)
+ 
+Just say "Raise Endurance one level." For you can only go up one level at a
+time, and might not be sure which level it is you are going up (to).
+ 
+   Raise Psyche to bottom rung (5 pts?)
+ 
+Sam Ting.  Psyche up a level.
+ 
+   More Magic:
+ 
+How many points are you willing to spend on this?
+ 
+    - meta-spells (unracking, anti-unracking, spell traps, spell chaining,
+                  spell contingency, spell catchers, reverse lynchpins,etc)
+    - Logrus-magic
+    - more magical power
+    - faster execution of lynchpins
+    - possibly a bit more conjuration
+ 
+Couple of other things would be nice (perhaps some work on "home", maybe
+some other shadows you wish to take under your wing, perhaps pay for some
+of those allies that you are trying to subvert?)
+ 
+   Worked on List:
+   ---------------
+ 
+   Magic.
+    - anti-mikail spells
+    - the mikail demon hosing spell
+    - magical experimentation in Dragaera
+    - magical experimentation w/ badgers
+    - inevitable magical practice while stuck in places with an unfriendly
+      logrus
+ 
+   Shapeshifting?
+    - surviving the *BOOM*
+    - multi-homed/un-homed consciousness
+ 
+   Probably no Logrus - he's done Logrus stuff and trained Cathryn, but
+   hasn't really done anything new, unless you count keeping the Logrus up
+   in the Mazelands, fetching pieces of himself with the Logrus, and almost
+   getting eaten by an unfriendly Logrus.
+ 
+That looks about right.
+ 
+Dave K>
+From dskern@ftp.com  Thu Nov 21 14:29:58 1996
+Date: Thu, 21 Nov 1996 14:34:41 -0500
+From: dskern@ftp.com (David Kern)
+To: dkap@haven.org
+Subject: wish list, v1.1
+ 
+ 
+Ilkandacian's Wish List v1.1; Nov 1996
+ 
+ 
+Wish list:
+-----------
+ 
+Zero Stuff
+ 
+Raise Endurance one level (with help of college fund)
+Raise Psyche one level
+ 
+Advanced Sorcery:
+ 
+ - Meta-spells (unracking, anti-unracking, spell traps, spell chaining,
+               spell contingency, spell catchers, reverse lynchpins,etc)
+ - Logrus-magic
+ - Tech-magic (powering technology with magic)
+ - more magical power
+ - faster execution of lynchpins
+ 
+Add 1 point into Home shadow, details TBD
+Purchase allies in Amber (1-2 pts?)
+Purchase badger shadow (1 pt)
+ 
+Ubiquitous Logrus:
+ 
+  Buy off other Logrus so he can use the Logrus in other realities, much
+  as Amberites seem to be able to use the Pattern anywhere. Since at
+  this point I doubt that there are enough points left to buy the whole
+  thing, a partial would probably be good. (only a few Logrum? They
+  merely whack him over the head with a 2x4 repeatedly while he's
+  using/trying to use the Logrus, instead of trying to eat him, etc)
+ 
+ 
+ 
+ 
+Worked on List:
+---------------
+Magic.
+ - anti-mikail spells
+ - the mikail demon hosing spell
+ - magical experimentation in Dragaera
+ - magical experimentation w/ badgers
+ - inevitable magical practice while stuck in places with an unfriendly
+   logrus
+   
+Shapeshifting?
+ - surviving the *BOOM*
+ - multi-homed/un-homed consciousness
+ 
+Probably little Logrus - he's done Logrus stuff and trained Cathryn, but
+hasn't really done anything new, unless you count keeping the Logrus up
+in the Mazelands, fetching pieces of himself with the Logrus, and almost
+getting eaten by and coping with an (multiple?) unfriendly Logrus.
+ 
+ 
+ 
+ 
+ 
+From dskern@ftp.com  Wed Dec  4 17:36:42 1996
+Return-Path: dskern@ftp.com
+Date: Wed, 4 Dec 1996 17:42:00 -0500
+From: dskern@ftp.com (David Kern)
+To: dkap@haven.org
+Cc: dskern@ftp.com
+Subject: amber stuff
+ 
+So, I've been kicking around ideas for the next wishlist, even though
+I'll end up completely changing my mind over the next 6-12 months. It's
+up to 130 points for an ideal wishlist, which raises damn near
+everything. It's somewhat gratuitous - raise all stats, exalted Logrus,
+exalted Sorcery, full Conjuration, fully ubiquitous Logrus, including
+cross-reality navigation (To the Bob Logrus, James...) and possible
+movement, advanced Shapeshifting, lots of points towards generic Allies
+in Chaos, Amber, Faerie, and Clarissa, and lots of points into several
+shadows.
+ 
+Upon expanding out the run log and thinking over the situation when
+fully awake, I've come up with more questions to pose to my copy of the
+badger brain: When did you acquire the artifact? Who gave it to you, and
+under what circumstances? Do you have or know of any plans that will be
+happening during the next day or two? What's the deal with those boxes?
+Do you leave the artifact behind when you invade? Why? Will you or one
+of your buddies notice the lack of the artifact? How often do you check
+on the lab? Why don't you not check on it for the next couple of days?
+ 
+Speculation - so these (partially?) Logrus-powered rings are
+mind-controlling badgers into taking over a Primal shadow in which
+Logrus doesn't work.  24 chaos artifacts strikes me as a major effort
+just to conquer a shadow, even if it is a Primal fairly close to Amber.
+Who had the rings made, and who gave them to these badgers?  Why? Why
+not just take it over themselves?  Whose stomping ground am I playing on
+now? Are the rings sending off distress calls to their true owner, who
+will show up and be Unhappy RSN?
+ 
+Future lines of investigation - study the rings and the hooks, and see
+if the rings can be controlled via the hooks, and, if so, can a hook can be
+faked? Ideally, I'd like to neutralize the controlling aspect of the
+artifact(s), and use their Logrus around here, since that would
+hopefully give me a greater degree of control.  Can these rings be
+disabled and stored safely somewhere where the Logrus is blocked, like
+in the Primal badger shadow?
+ 
+Other generic questions for da GM:
+ 
+I know that the Sea of Chance is dangerous, but can Ilk (with full
+Logrus) navigate and move through Chaos Storms and Shadow Storms that
+are happening in shadow, since he can access the Logrus from there?
+ 
+What is the second rung on the Psyche ladder? Since that's the next one
+for Ilk to hit, knowing if it costs 5 or 25 points would greatly help
+future wish list development. :)
+ 
+ 
+dave
+
+From dskern@ftp.com  Tue Nov 19 15:19:21 1996
+Date: Tue, 19 Nov 1996 15:24:10 -0500
+From: dskern@ftp.com (David Kern)
+To: dkap@haven.org
+Cc: dskern@ftp.com
+In-Reply-To: "A Page in the Life of ..."'s message of Tue, 19 Nov 1996
+02:32:27 -0500 <199611190732.CAA18573@sanctuary.haven.org>
+Subject: Re: wish list, v1.0
+ 
+Hmm. I didn't really define a number of points for magic, thinking to
+dump whatever was left over into it. Hrm. I'm not sure how many points I
+want to put in, because I'm not sure how many points are needed for
+various things. I don't know if logrus-magic costs 5, 15, or 150.
+ 
+There are a number of other frobs that I'd be interested in (pumping
+Home, possibly acquiring another shadow or two, possibly sticking a
+limited number of points into a replacement staff to possibly make it
+less likely to explode, and so on, if I expected to return to the proper
+reality any time soon. However, since you seem to have more-or-less
+permanently split your run into (our) Amber and (other) Ambers halves,
+and Corwin has pulled the ejection cord on Perl, I'm not sure what good
+that would accomplish.
+ 
+I don't even know if I can work on Home from here. If I was going to
+stay in the reality where Ilk is currently, he'd want to acquire a
+shadow or three, but why spend points on a shadow he may never visit
+again?
+ 
+Would it be appropriate to spend a point on some of my power depots?
+Northern Power Depot A should be fairly powerful at this point,
+considering that it absorbed a decent portion of a de-rack via the
+Cosmic Grounding. And it also might be nice to have a staging ground...
+err... waystation... a bit closer to Amber, as well.
+ 
+WRT allies -- I had thought that the 5-6 points for Suhey covered pretty
+much everything in Chaos. Should I be planning on expending more for,
+say, connections to house Jesby (we did seem to get along during C's
+duel), or for demons that I've associated with in the past?
+Additionally, it seems that the only allies that he could acquire
+currently are mostly shadow-lame, with one (somewhat amorous)
+exception.
+ 
+Oops - I forgot a category of magic. Tech-magic; magically powering
+technology that would otherwise not work there. After dealing with this
+badger plague problem, he'd like to spend a while in that shadow with
+the space battles and investigate their technology and how to
+exploit/use it or similar technology in other shadows.
+ 
+Also, would it be possibly to buy off unfriendly logruses, allowing him
+to actually use logrus in realities that aren't his own without getting
+munched?
+ 
+ 
+dave
+ 
+From dkap@fringe.haven.org  Fri Jul 18 14:29:11 1997
+Return-Path: <dkap@fringe.haven.org>
+Date: Fri, 18 Jul 1997 14:28:56 -0400
+To: dkap@fringe.haven.org
+In-reply-to: <199707162229.SAA00344@chainsaw.shore.net> (message from David
+        Kern on Wed, 16 Jul 1997 18:29:23 -0400)
+Subject: Re: some more questions...
+Reply-To: dkap@haven.org
+From: "A Page in the Life of ..." <dkap@haven.org>
+X-Microsoft: Just say perl -MIO::Socket -e
+'IO::Socket::INET->new(PeerAddr=>"ftp.microsoft.com:139",Proto=>'tcp')->send("Die
+sucker", MSG_OOB)'
+ 
+-=> Does Ilk think that a shadow storm would be more effective against
+-=> combat-shifter types, or magical types? (which target is the most worthy
+-=> of being smacked with the storm, basically)
+ 
+Shifters, Mages could escape much more easily, so it would be a waste.
+ 
+-=> Rainbow appears a bit sensitive about his trap at present... Ilk is
+-=> considering asking his permission before dropping any members of House
+-=> Helgram into it. Something suitably flattering, like....
+ 
+-=> Lord Rainbow; I was wondering if you might have any objections to one
+-=> attempting to demonstrate the lethal nature of that trap you mentioned
+-=> by dropping a few members of House Helgram into it.
+                                                                                    
+-=> Good? Bad? Fix the wording?
+                                                                                    
+Interesting ... if you wished to go forward with it, that would be good
+wording ... but remember, it is primed for Darkstar ...
+                                                                                    
+-=> I'll email you and tia the log tonight - I missed some of the things
+-=> that were happening in the trap due to the confusion near the abyss,
+-=> especially the part where zack went into the trap, contacted ingold,
+-=> then apparently norton pulled the four of them out. Or did cassandra
+-=> leave when zack entered?
+                                                                                    
+Cas, and Cel left when Zach entered.
+                                                                                    
+-=> Also, when I got the status report from the House member, he mentioned
+-=> lists of houses that we have alliances with/are opposed to/might be
+-=> swayable either way. Since it's actually relevant now... Reproduced
+-=> below is the list, for your convenience:
+ 
+Thanks, you know I would have gotten distracted when I tried to pull it up...
+ 
+Us              Unknown         Them            Missing/unalied
+-------------------------------------------------------
+                Sawall(<-)
+Jesby
+                                                Pharaban
+                                Swayville
+                                                Xartys
+                Chanicut(??)
+Felicity
+                Corona(<-)
+Trantor
+                Ganda(??)
+                Darbin(->)
+                                Yigrin
+                                Helgram
+                                Arantantic (Is that right?)
+                                                Holtiharna
+Cara
+Barimen
+ 
+Though I can't seem to find my list of those houses that seem to have
+... had problems.  If you run across it, I'd appreciate the update.
+ 
+-=> I'd assume that since we have lots of amberites on our side, Barimen
+-=> would be assumed to be on our side as well - I really doubt that they
+-=> would take an opposing position to their main power base.
+ 
+Well ... actually they are going to use this opertunity to try and
+reconnect with the cadet branch ...
+ 
+Dave K>
+--
+
+

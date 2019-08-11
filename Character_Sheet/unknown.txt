@@ -1,0 +1,14 @@
+ H617/286-2595
+Strength        19 orig 1.5
+Psyche           A
+Warfare          5 orig 7.5
+Endurance       26 orig 1.5
+                                                                                
+45 logrus
+35 shape shifting
+ 2 amber ally
+ 3 house support
+ 0 stuff
+--
+85
+

@@ -1,0 +1,27 @@
+Strength        -10 orig C
+Psyche            5 orig 7.5
+Warfare           5 orig 7.5
+Endurance        21 orig 3.5
+                                                                                
++1 Good Stuff
+                                                                                
+Pattern 50 pts
+                                                                                
+Shape Shifting 35
+                                                                                
+4 Named & Numberd shadows.
+                                                                                
+Gargoyle
+ 1 Animal Vitality
+ 1 Combat Training
+ 4 Invunlerable Armor
+ 2 Doubling Damage
+ 4 Tounges Communications
+ 2 Danger Sense
+ 2 Psychic Neutral
+ 1 Follow Shadow Trail
+ 1 Self Healing
++1 Contains Trump Image
+--
+19
+

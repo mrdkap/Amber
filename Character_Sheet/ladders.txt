@@ -1,0 +1,38 @@
+Str   Psyche  Warfare  Endur    Rungs
+43                              1cth
+34              61      48      1bth
+25      61      50      34      1ath
+19      49      43      26      1st
+16      46      42      25      2nd
+15      25      40      21      3rd
+11      24      39      20      4th
+ 3      23      21      17      5th
+ 1      21       6      15      6th
+         5       5      11      7th
+                 1              8th
+------------------------------------------
+ A      21      42       A      Alistair
+11       A      43      26      Cassandra
+ A      49       A      15      Connor
+19      23      40      26      Karin
+                                Key
+11       5      39      15      Malachai
+15      25      21      20      Mikail
+ A      25       C      20      Rhiannon
+11      21      21      25      Rivka
+ 3      46       6      11      Velaria
+ 3      24       5      17      Zacharias
+-----------------------------------------
+15       A      50      26      Cassandra
+ A      49       1      11      Ivy
+19       5      39      25      Jacqueline
+34      24      43      34      Karin
+11       5      50      15      Malachai
+25      25      39      20      Mikail
+11       A      50      17      Orlando
+ A      25       C      20      Rhiannon *
+11      21      21      25      Rivka
+ 3      46       6      15      Velaria
+ 3      24       6      17      Zacharias
+
+------------------------------------------

@@ -1,0 +1,32 @@
+Captain Sir Malachai
+
+Strength        11 orig 4               (10/1)
+Psyche           5 orig 7
+Warfare         43 orig 1.5     50 1a.5 (10/1)
+Endurance       15 orig 6               (6/1)
+ 
+Pattern 50 pts
+ 
+Galantine (saber)               4
+ deadly damage 4 points
+Bucephalus (horse)              10
+ amber stamina
+ double speed
+ seek in shadow
+ danger sense
+ 
+Power words             10
+shiver
+defensive luck
+dazzle
+disrupt magic
+deflect projectile
+ 
+Good stuff=3
+First update:
+Ally, Serena                             cost 1
+Improve Bucephalus                       cost 8
+ (double speed, seek in shadow, danger sense)
+Rank 1a.5 in Warfare 7 point (total 50)  cost 6 (10/1)
+                                             --
+                                             15

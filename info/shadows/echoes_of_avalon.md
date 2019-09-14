@@ -475,6 +475,6 @@ The blast site of New Amsterdam is now a hole two miles deep: the Pit.
 There are numerous theories, many involving alien technology and secret
 government deals.
 
-![alt text](avalon-east.png "The eastern part of the world")
 ![alt text](avalon-west.png "The western part of the world")
+![alt text](avalon-east.png "The eastern part of the world")
 

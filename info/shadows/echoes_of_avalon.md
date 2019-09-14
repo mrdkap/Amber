@@ -1,12 +1,12 @@
 Echoes of Avalon (Corwin's Empire, 1500 years later)
 ====================================================
 
-Last Updated: 6 May 2007\
+Last Updated: 6 May 2007
 
 The Inner World
 ---------------
 
-The Earth-that-was, a Shadow of Avalon skinned like a grape and
+The Earth-that-was, a Shadow of Avalon skinned like a orange and
 moved to Darkover to avoid the ShadowPurge. 
 The center of the Inner World is the Central Sea.
 
@@ -474,3 +474,7 @@ keep out most of the heat from the three suns, and keep the moisture in.
 The blast site of New Amsterdam is now a hole two miles deep: the Pit.
 There are numerous theories, many involving alien technology and secret
 government deals.
+
+![alt text](avalon-east.png "The eastern part of the world")
+![alt text](avalon-west.png "The western part of the world")
+

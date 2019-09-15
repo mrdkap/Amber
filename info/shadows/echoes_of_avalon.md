@@ -90,8 +90,12 @@ Seeds from the ashes of Corwin's Empire of the Keltoi-
     on olive trees, an ancient cradle of civilization and philosophy
     whose time has come and gone.
 
--   **Cagliostro** – a minor country the size of a postage stamp,
+-   **Cagliostro** – a minor country not much larger than a single mountain valley,
     located in the mountains on the border of Latia, Emhain, and Volun.
+    The historical castle that acts as a capital has recently been discovered
+    to be located around older ruins, but is not open for tourism because
+    of potential environmental impacts.
+![alt text](https://images.squarespace-cdn.com/content/v1/54fc8146e4b02a22841f4df7/1519140314515-6CKJVGDXS6EWDWC2HUFG/ke17ZwdGBToddI8pDm48kMcFgU3gAmAWGYCWHq7bIP0UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc5xavSHiiPmiCNBJXmYAXHPbupZmAk2kuFmeh77NDt-gEOAHtjAT0QrIdnuqmGDxb/castle-of-cagliostro-clock-tower.jpg?format=2500w "the Castle of Cagliostro")
 
 -   **Folkvang** – remote Nordic country, famed for fjords and reindeer
 

@@ -8,13 +8,18 @@ The Inner World
 ---------------
 
 The Earth-that-was, a Shadow of Avalon skinned like a orange and
-moved to Darkover to avoid the ShadowPurge. 
-The center of the Inner World is the Central Sea.
+moved to Darkover to avoid the ShadowPurge.  Magma was brought along
+to shape basalt walls to keep the water from spilling out.
 
 The Inner World is on planetary crust two miles high above the desert floor and separated from the Outer World by
 a black energy wall high enough to trap in water vapor. There is a gap
-in the wall in the Great Anvil that opens to a twelve-mile long ramp
+in the wall in the desert that opens to a twelve-mile long ramp
 down to the desert of the Outer World.
+
+### The Inner World as it is now
+
+![alt text](avalon-dynamaxion-climate-bands.png "the surface of the new inner world")
+
 
 ### Geography:
 
@@ -475,10 +480,6 @@ keep out most of the heat from the three suns, and keep the moisture in.
 The blast site of New Amsterdam is now a hole two miles deep: the Pit.
 There are numerous theories, many involving alien technology and secret
 government deals.
-
-### The Inner World as it is now
-
-![alt text](avalon-dynamaxion-climate-bands.png "the surface of the new inner world")
 
 ### Geographical map of the World-that-Was
 

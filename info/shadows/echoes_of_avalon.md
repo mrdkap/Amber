@@ -482,6 +482,6 @@ government deals.
 
 ### Geographical map of the World-that-Was
 
-![alt text](avalon-east.png "The eastern part of the world")
 ![alt text](avalon-west.png "The western part of the world")
+![alt text](avalon-east.png "The eastern part of the world")
 

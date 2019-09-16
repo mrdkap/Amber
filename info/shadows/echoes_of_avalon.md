@@ -1,8 +1,7 @@
 Echoes of Avalon (Corwin's Empire, 1500 years later)
 ====================================================
 
-Last Updated: 9 September 2019
-* Added maps
+Last updated: 16 September 2019
 
 The Inner World
 ---------------
@@ -20,6 +19,13 @@ down to the desert of the Outer World.
 
 ![alt text](avalon-dynamaxion-climate-bands.png "the surface of the new inner world")
 
+
+### The World compared to Shadow Earth
+- More magic, but it's still unreliable and only moderately powerful
+- Less colonialism, but still quite a bit
+    - Limited European flavored colonies on islands and the eastern coast of the Americas
+    - No transatlantic slave trade
+- Similar but slightly different continental outlines
 
 ### Geography:
 
@@ -48,8 +54,8 @@ There are four major land divisions, two oceans, and one inland sea:
 
 The northern part is European, but less Roman and more Celtic and Norse.
 In contrast to Shadow Earth, there is still more of an oral tradition,
-with particular emphasis on mysteries, myths, and secret lore.\
-\
+with particular emphasis on mysteries, myths, and secret lore.
+
 Seeds from the ashes of Corwin's Empire of the Keltoi-
 
 -   **Albu** (Avalon's Island), northwest of the continental
@@ -61,9 +67,9 @@ Seeds from the ashes of Corwin's Empire of the Keltoi-
 -   **Caledon** – an island of rugged highlands and lochs, a fierce and
     insular people.
 
--   <span style="font-weight: medium">the continental kingdoms, starting
-    with </span>**Emhain** – a peninsula stretching into the Western
-    Ocean south of Albu,  once home to the druids.
+The continental kingdoms, starting with:
+ -  **Emhain** – a peninsula stretching into the Western 
+ Ocean south of Albu,  once home to the druids.
 
 -   **Edeyrnion** – A thousand years ago, its rolling hills were covered
     with trees. In present days, it is a source of coal and metals for
@@ -74,7 +80,7 @@ Seeds from the ashes of Corwin's Empire of the Keltoi-
     borders Emhain to the southwest, Caledon to the north, Hvergelmer to
     the east, Latia to the southeast, and Cagliostro nestled between
     Latia and Emhain. The Volunti calendar and measuring system have
-    replaced older, more arbitrary systems.\
+    replaced older, more arbitrary systems.
     Napoleon Bonaparte once ruled Volun and almost the world...
 
 -   **Zeeland** – A nation of traders, famous for its seafaring and
@@ -143,9 +149,11 @@ from the Central Sea.
     between the countries tied to the Central Sea and the Countries
     of Gold.
 
--   **The Countries of Gold** - Strange countries as well as remote
-    jungle, still mysterious, little explored, with strange beasts. The
-    three best known are Kush, Ophir, and the coastal kingdom
+-   **The Countries of Gold** - South of the Anvil, strange countries as well as remotest
+    jungle. These countries often hold themselves aloof from the rest
+    of the world.  They are still little explored by outsiders, but the strange
+    beasts native to the lands have been exported for zoos and private collections.
+    The three best known countries of gold are Kush, Ophir, and the coastal kingdom
     of Zingara.
 
 ### East of the Central Sea
@@ -185,6 +193,9 @@ from the Central Sea.
     Western culture, ruled by the eccentric King Louis from his capital
     at Red River. The kingdom of the Manitou contains both prairies
     and mountains.
+    
+-   the **United Séliš Republics** - a mostly-communal collection of states
+    centered on the northwest coast of the Western Lands.
 
 ### The Eastern Lands
 
@@ -489,4 +500,5 @@ government deals.
 
 ![alt text](avalon-west.png "The western part of the world")
 ![alt text](avalon-east.png "The eastern part of the world")
+
 

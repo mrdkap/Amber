@@ -26,6 +26,7 @@ down to the desert of the Outer World.
     - Limited European flavored colonies on islands and the eastern coast of the Americas
     - No transatlantic slave trade
 - Similar but slightly different continental outlines
+- Technology is a 1970s vision of the near future
 
 ### Geography:
 

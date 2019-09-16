@@ -259,7 +259,12 @@ Far to the east are the Silk Kingdoms
     the seven major and countless minor Phoenix Kingdoms are on the
     coasts of peninsulas and islands in the Jacinth Sea - rulership
     frequently changes hands, and they are considered backwards
-    and fractious.
+    and fractious by the Celestial Empire. The Kingdoms reciprocate this
+    ill will.
+
+-   **The Million Islands** - vary hugely in size and stretch 
+    south and east of the Phoenix
+    Kingdoms and contain many cultures, ethnicities, and unique creatures.
 
 The Outer World:
 ----------------

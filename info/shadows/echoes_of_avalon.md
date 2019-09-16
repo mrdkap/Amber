@@ -145,8 +145,8 @@ from the Central Sea.
 
 -   **The Countries of Gold** - Strange countries as well as remote
     jungle, still mysterious, little explored, with strange beasts. The
-    three best known are Kush, Ophir, and the coastal kingdom
-    of Zingara.
+    three best known are Kush, Ophir, and the coastal kingdoms
+    of Punt and Zingara.
 
 ### East of the Central Sea
 

@@ -96,6 +96,10 @@ The continental kingdoms, starting with:
 -   **Selucia** – Mountainous lands with an agricultural economy based
     on olive trees, an ancient cradle of civilization and philosophy
     whose time has come and gone.
+    
+    **Illyria** - Another ancient land east of Selucia across a narrow strait,
+    often a nexus of trade routes and a mosiac of different civilizations. 
+    Its capital city is fabled Ilium.
 
 -   **Cagliostro** – a minor country not much larger than a single mountain valley,
     located in the mountains on the border of Latia, Emhain, and Volun.

@@ -159,8 +159,9 @@ from the Central Sea.
     of the world.  They are still little explored by outsiders, but the strange
     beasts native to the lands have been exported for zoos and private collections.
     The best known countries of gold are Kush, Ophir, and the coastal kingdoms
-    of Punt and Zingara. The country of Lesotho is at the southern tip of the continent and
-    is more open to traders visiting this crossroads of the world.
+    of Punt and Zingara. Some of the countries of gold are more open to outside trade,
+    particuarly the country of Lesotho is at the southern tip of the continent and the Sokoto Caliphate
+    along the western coast south of the Anvil.
 
 ### East of the Central Sea
 

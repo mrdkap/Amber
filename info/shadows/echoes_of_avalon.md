@@ -154,12 +154,13 @@ from the Central Sea.
     between the countries tied to the Central Sea and the Countries
     of Gold.
 
--   **The Countries of Gold** - South of the Anvil, strange countries as well as remotest
+-   **The Countries of Gold** - South of the Anvil, strange civilizations as well as remotest
     jungle. These countries often hold themselves aloof from the rest
     of the world.  They are still little explored by outsiders, but the strange
     beasts native to the lands have been exported for zoos and private collections.
-    The three best known countries of gold are Kush, Ophir, and the coastal kingdoms
-    of Punt and Zingara.
+    The best known countries of gold are Kush, Ophir, and the coastal kingdoms
+    of Punt and Zingara. The country of Lesotho is at the southern tip of the continent and
+    is more open to traders visiting this crossroads of the world.
 
 ### East of the Central Sea
 

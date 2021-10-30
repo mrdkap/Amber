@@ -1,0 +1,148 @@
+(14:44:00) GM: Just as a quick check ... your have someone watching the cameras in the area that the folks disappeared from, right, so if someone appeared, left something behind and dissapeard again, you would be notified at once, correct?
+
+(14:44:14) Cagliostro: yep
+
+(14:44:40) Cagliostro: I didn't seal off the area, but it was (no doubt) searched and the camera are watched - I figure that's going to be their avenue of return
+
+(14:44:47) Cagliostro: (if they decide to return & invade)
+
+(14:45:09) GM: And, being that the "package" is not really recognizable, you would send in one of the demons to pick it up, investigate, and then bring it to you?
+
+(14:45:28) Cagliostro: pick it up, investigate, report back.
+
+(14:45:46) Cagliostro: and I'd check the demon to be sure nothing was wrong with him before investigating it myself. ;)
+
+(14:45:56) Cagliostro: or more accurately, have -another- demon check out that demon.
+
+(14:46:01) Cagliostro: (as well as myself)
+
+(14:46:05) GM: Yep ... good good.
+
+(14:46:25) Cagliostro: it's either a bomb, a trap, or a spy device.
+
+(14:46:33) Cagliostro: and 2/3 of those possibilities I don't want to be near.
+
+(14:46:40) GM: So when it goes boom, the demon can contain it, and not cause much damage, either to itself or to the surrounding environment.
+
+(14:47:02) Cagliostro: it does go boom I take it?
+
+(14:47:12) GM: Oh yes.
+
+(14:47:18) Cagliostro: well, _that_ is just... rude.
+
+(14:47:28) Cagliostro: how impressive would the boom have been, uncontained?
+
+(14:47:52) GM: Demon reports that it had enough force, that did he not shield it, it would have taken out a significant portion of your castle.
+
+(14:48:07) GM: He mentions that it was both alchemic and chemical in nature.
+
+(14:48:17) Cagliostro: how interesting.
+
+(14:48:26) Cagliostro: collect samples, if possible. ;)
+
+(14:48:40) Cagliostro: significant as in 1/10, 1/2, or 'structurally unsound from here on out'?
+
+(14:48:52) GM: Structurally unsound.
+
+(14:48:56) Cagliostro: hm.
+
+(14:49:07) Cagliostro: was the explosion noticeable to the rank and file?
+
+(14:49:08) GM: Raize and build anew, should you have survived it.
+
+(14:49:21) GM: Nope ... the demon ate it nicely.
+
+(14:49:21) Cagliostro: well, that's -quite- impressive.
+
+(14:49:28) Cagliostro: K.  time to fake my own death.
+
+(14:49:41) Cagliostro: Talk to Jodo, work it out in advance.
+
+(14:49:56) Cagliostro: What will have happened is that the Count took a strange device to a secret laboratory to examine...
+
+(14:50:14) Cagliostro: there was an explosion, he was killed, there should be a noticeable quake or jolt in the area...
+
+(14:50:43) Cagliostro: and, sadly, an heir is going to have to be found to replace the count, since he was lost in the explosion.  Day of mourning, lots of press coverage, black bunting on the castle.
+
+(14:51:02) Cagliostro: and I am going to need to hide for a while. ;)
+
+(14:51:11) GM: Hrm ... perhaps your warfare would recomend not even noticing it, as opposed to being public about it?
+
+(14:51:45) Cagliostro: well, let's put it this way.
+
+(14:51:45) GM: If it was "a nothing" then perhaps he will not bother you, for you are more powerful than he thought, and perhaps he will be the one running.
+
+(14:52:01) Cagliostro: the bomb went off when picked up or examined?
+
+(14:52:12) GM: And maybe he doesn't even have spies here (as in, he didn't know that much about you to begin with) so ... the show for the locals might just confuse them.
+
+(14:52:45) GM: When examined.  By a demon.
+
+(14:53:01) Cagliostro: probably set up so that some testing trigger set it off.
+
+(14:53:26) Cagliostro: What _I_ would have done with a bomb of that magnitude was wait until the Count was known to be in residence, and then push in two or three of them on a timer.
+
+(14:53:38) Cagliostro: (using spies to confirm presence)
+
+(14:54:00) Cagliostro: hmm...
+
+(14:54:07) Cagliostro: but this guy does indeed err towards the subtle and paranoid.
+
+(14:54:14) GM: Indeed.  He seems to be a sloppy adversary.
+
+(14:55:04) Cagliostro: hm.
+
+(14:55:15) Cagliostro: it's tough; I mean, I could figure out how to kill someone like me with a bomb like that.
+
+(14:55:18) Cagliostro: but _I_ am someone like me.
+
+(14:55:35) GM: Indeed.
+
+(14:55:39) GM: And apparently he is not.
+
+(14:55:43) Cagliostro: the trick would be to detect the presence of a bomb like that without setting up the bomb.
+
+(14:55:47) Cagliostro: er, setting off.
+
+(14:58:08) Cagliostro: Well, I do have time...
+
+(14:58:14) Cagliostro: he probably doesn't know about the cameras.
+
+(14:58:16) GM: Oh ... detecting it would have been easy.
+
+(14:58:31) Cagliostro: Really?  I did want to talk to the demons about that...
+
+(14:58:34) GM: It wasn't set to go off unless probed, so if you saw the bomb, and ran, you would have been just fine.
+
+(14:58:40) Cagliostro: well, yes.
+
+(14:58:44) Cagliostro: but that's a moronic way to set up the bomb.
+
+(14:59:15) Cagliostro: if the next one comes through on a 10-second timer _or_ set up to blow up if probed, I would like to know about it as soon as it's in the castle area
+
+(14:59:38) Cagliostro: without setting it off by using the probe ....
+
+(14:59:44) Cagliostro: actually, that's the flip side. ;)
+
+(15:00:04) Cagliostro: 1) Can I detect it without setting off the 'if probed, boom' clause
+
+(15:00:32) GM: The demon mentions that it didn't go off until he tried to discover what it was.
+
+(15:00:37) Cagliostro: and 2) can I create a remote prober - so that if there are, say, any of these in someone's castle, I can make a clicker that will trigger them.
+
+(15:00:44) GM: He didn't find a timer, but ... he might not have recognized one.
+
+(15:01:18) Cagliostro: is there a characteristic of the bomb (alchemic or chemical part) that can be automatically detected at a simpler level than whatever triggered the bomb?
+
+(15:08:44) GM: Sorry ... I had to check.
+
+(15:10:01) GM: Yes,  the demons can detect it, so therefore, with their assistance, you can build a tool ... approximate range ... wherever smell can waft from the device (the longer it is in somewhere, the farther the smell will pervade, and the greater the range of dectection.
+
+(15:29:01) Cagliostro: hm, k.  tool has more or less sensitivity than the demons, or it depends on the demon?
+
+(15:33:02) GM: More sensitivity, they have to pick it up (and envelop it).
+
+(15:33:11) Cagliostro: ah, good good.
+
+(15:38:16) GM: right then ... I'm going to have another little lie-down ... I'll be back later.
+

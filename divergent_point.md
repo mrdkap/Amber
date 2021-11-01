@@ -18,7 +18,7 @@ Later Corwin informed the people outside his tent when Deirdre died and then he 
  + Eric: dead
  + Corwin: gone off to his own reality to mourn for Deirdre
  + Caine: looking for Dworkin (with Fiona) as per order of Oberon
- + Deirdre: dead
+ + Deirdre: dead (later discovered to be a lie, as Corwin had smuggled Dierdre into Pearl)
  + Fiona: looking for Dworkin (with Caine) as per order of Oberon
  + Bleys: living it up in Amber
  + Llewella: back in Rebma

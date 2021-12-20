@@ -22,18 +22,16 @@ This page is primarily for players to keep track of PC and NPC locations. The pl
 
 ## The included sections:
 
-<details><summary>Cobaltians</summary>
+<details><summary>Cobalteans</summary>
 
-{% capture cobalteans_include %}{% include WhoIsWhereCobalteans.md %}{% endcapture %}
-{{ cobalteans_include | markdownify }}
+{% capture my_include %}{% include WhoIsWhereCobalteans.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
 </details>
 
 
 <details><summary>Amberites</summary>
 
-Some random text here.
+% include_relative WhoIsWhereAmberites.md %}
 
 </details>
-
-{% include_relative WhoIsWhereAmberites.md %}

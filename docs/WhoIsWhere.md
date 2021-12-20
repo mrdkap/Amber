@@ -30,10 +30,3 @@ This page is primarily for players to keep track of PC and NPC locations. The pl
 </p>
 </details>
 
-<details><summary>Chaosians</summary>
-<p>
-
-{% include_relative WhoIsWhereChaosians.md %}
-
-</p>
-</details>

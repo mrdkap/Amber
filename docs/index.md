@@ -1,30 +1,14 @@
+Welcome to the Amber wiki!
+
+Probably the best place to start is the [Who is Where](WhoIsWhere), the [Powers, Balances, and Opposites](PowersBalancesAndOpposites), or the [Places to Go](PlacesToGo) pages.  Or use the "Search" with &amp;type=Wikis above or the "Find a Page ..." to the right.
+
+More historically minded folks might want to start with the [Before Times](BeforeTime), [overview timeline](Timeline) or the logs/journals from Malachai's Journals [1](//plan-b.org/~dkap/Amber/logs/malachai_journal_1.txt) [2a](//plan-b.org/~dkap/Amber/logs/malachai_journal_2a.txt) [2](//plan-b.org/~dkap/Amber/logs/malachai_journal_2.txt) [3](//plan-b.org/~dkap/Amber/logs/malachai_journal_3.txt) [4](//plan-b.org/~dkap/Amber/logs/malachai_journal_4.txt), the most impressive [run log archive](//web.mit.edu/~dskern/www/amber/), or the later [run logs](//plan-b.org/~dkap/Amber/logs).
+
+More hysterically minded folks might want to start with the [game quotes](//web.mit.edu/~dskern/www/amber/quotes.html)
+
+![Logo](serpent-unicorn.jpg "Logo")
+
 ## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/mrdkap/Amber/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 

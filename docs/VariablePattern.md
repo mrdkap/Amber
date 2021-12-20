@@ -1,0 +1,2 @@
+This N-dimensional Pattern was drawn by the [Hillbilly Suhuy](GentlemanSuhuy) as an experiment around the re-understanding of the [Logrus](TheLogrus) as order and chaos working hand-in-hand.  This is the Pattern for [Hillbilly Amber](HillbillyAmber).  All other known patterns are basically flat (two dimensional) in nature, even if they are wrapped into three dimensions (like, say, on a bottle), whereas this most definitely is not.  The death (and subsequent ghosting, and possible resurrection) of it's [author](GentlemanSuhuy) allows for the speculation that it still exists.
+

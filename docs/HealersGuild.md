@@ -1,0 +1,5 @@
+Rumor has it that [Snarsht](SnarshtOfBeastmasters) formed the Healers [Guild](ChaosGuilds#healers).
+
+The Healers [Guild](ChaosGuilds#healers) was fairly completely subverted by the Poisoners [Guild](ChaosGuilds#poisoners), and <a href="http://web.mit.edu/~dskern/www/amber/log020903.html#sect1">destroyed by the PCs</a>.  As part of their subversion, the Healers [Guild](ChaosGuilds#healers) substituted a disguised [Bronelle](BronelleOfPoisoners) for an unconscious [Natasha](CobalteanRoyalFamily#natasha).  Much wackiness ensued, especially when [Caelin](CaelinOfLaetatio) unintentionally proposed to [Bronelle](BronelleOfPoisoners), [his grandmother's](PrincessChandraOfAssassins) greatest philosophical opposite and political opponent.
+
+The Healers [Guild](ChaosGuilds#healers) was re-founded under [Snarsht's](SnarshtOfBeastmasters) tutelage, by ten members of [House Chanicut](HouseChanicut) chosen by [King](KingOfChaos) [Osric](OsricOfChanicut).  The Healers [Guild](ChaosGuilds#healers) is currently missing, as is the [Beastmasters](BeastmastersGuild) [Guild](ChaosGuilds#beastmasters).  They are presumed to be in the same place.

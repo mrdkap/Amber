@@ -31,6 +31,7 @@ This page is primarily for players to keep track of PC and NPC locations. The pl
 
 <details><summary>Amberites</summary>
 
-{% include_relative WhoIsWhereAmberites.md %}
+{% capture my_include %}{% include_relative WhoIsWhereAmberites.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
 </details>

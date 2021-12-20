@@ -23,10 +23,8 @@ This page is primarily for players to keep track of PC and NPC locations. The pl
 ## The included sections:
 
 <details><summary>Amberites</summary>
-<p>
 
 {% include_relative WhoIsWhereAmberites.md %}
 
-</p>
 </details>
 

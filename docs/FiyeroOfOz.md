@@ -1,0 +1,5 @@
+Fiyero Tigelaar is [Elphaba's](ElphabaOfOz) love interest. He is an Arjiki prince from the Vinkus (or Winkie Country), who attends Shiz University.
+
+He was engaged (rather reluctantly) to Glinda.
+
+He started life first as a careless, happy-go-lucky, kid who cared little about school and was involved in a romantic relationship with Glinda Upland. However, when he met [Elphaba](ElphabaOfOz), he began to understand that there is more to life than having fun and never thinking. With this discovery, he realized his true feelings for [Elphaba](ElphabaOfOz), and saved her from the Wizard's Gaurds. He was held hostage and tortured to death, because he refued to give [Elphaba](ElphabaOfOz) up. In an effort to save him, Fiyero was then transformed into the Scarecrow by [Elphaba](ElphabaOfOz) while she was trying to save his life.  She continues to seek to remedy his current body, as she learns more from [Grimm](ElphabaOfOz). He helped [Elphaba](ElphabaOfOz) stage her death and runs away with her out of Oz (the city) and Oz (the Shadow) to start a new life, and accompanies her to this day.

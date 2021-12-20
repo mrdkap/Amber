@@ -1,0 +1,11 @@
+The King of Chaos rules the [Courts](CourtsOfChaos), but not as an absolute ruler.  The King is advised by the five [Realms Lords](RealmsLords):  Logrus Master, Realms Mage, Realms Master, Time Lord, and Warlord.
+
+The seventeen major [Council of Houses](ChaosHouses) in [Chaos](CourtsOfChaos) elects the King from a list of nominees.  Nominees are traditionally the Guild Second in one of the [Guilds](ChaosGuilds).  The houses vote in order from lowest to highest; the 17th house gets one vote and the first house gets 17 votes.
+
+The known Kings of Chaos have been:
+ + [Borel](BorelOfHendrake), Guild Second of the [Warriors](WarriorsGuild) [Guild](ChaosGuilds), head of [House Hendrake](HouseHendrake).  [Borel](BorelOfHendrake) was a driving force in the [Pattern Fall](PatternFall) war against [Amber](ShadowKolvir), and was killed by [Corwin](CorwinOfOberon) at the end of that war.
+ + [Jance](JanceOfPhilosophers), Guild second of the [Philosophers](PhilosophersGuild) [Guild](ChaosGuilds).  [Jance](JanceOfPhilosophers) was elected as a peacemaker king after [Pattern Fall](PatternFall).
+ + [Silver Lyra](SilverLyra), guild second of the [Dancers](DancersGuild) [Guild](ChaosGuilds).  [Silver Lyra](SilverLyra) was elected to replace the long-missing [Jance](JanceOfPhilosophers) after his body was discovered in [Ferethynways](FerethynWays).
+ + [Corwin](CorwinOfOberon), guild second of the [Warriors](WarriorsGuild) [Guild](ChaosGuilds).  [Corwin](CorwinOfOberon) was elected as a wartime king when [Chaos](CourtsOfChaos) declared war on [Gwen](GwenOfDworkin).
+ + [Caine](CaineOfOberon), guild second of the [Warriors](WarriorsGuild) [Guild](ChaosGuilds) (after [Corwin](CorwinOfOberon) became guildmaster when [Benedict](BenedictOfOberon) left the local universe). [Caine](CaineOfOberon) was elected to deal with [Dara](DaraOfOfOfBenedict) when [Corwin](CorwinOfOberon) declared himself unable.
+ + [Osric](OsricOfChanicut), [Hero of Chanicut](HouseChanicut) and a member of the [Rimfishers Guild](ChaosGuilds#rimfishers), was asked by [Shiryu](RealmsMasterShiryu) to replace [Caine](CaineOfOberon) after the latter was found unworthy (and [Silver Lyra](SilverLyra) was still poisoned).  After announcing this in council at [Thelbane](CastleThelbane), [Osric](OsricOfChanicut) was easily elected.

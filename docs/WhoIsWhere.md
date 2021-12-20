@@ -22,6 +22,20 @@ This page is primarily for players to keep track of PC and NPC locations. The pl
 
 ## The included sections:
 
+<details><summary>Amberites</summary>
+
+{% capture my_include %}{% include_relative WhoIsWhereAmberites.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
+</details>
+
+<details><summary>Hamsterites</summary>
+
+{% capture my_include %}{% include_relative WhoIsWhereHamsterites.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
+</details>
+
 <details><summary>Cobalteans</summary>
 
 {% capture my_include %}{% include_relative WhoIsWhereCobalteans.md %}{% endcapture %}
@@ -29,9 +43,3 @@ This page is primarily for players to keep track of PC and NPC locations. The pl
 
 </details>
 
-<details><summary>Amberites</summary>
-
-{% capture my_include %}{% include_relative WhoIsWhereAmberites.md %}{% endcapture %}
-{{ my_include | markdownify }}
-
-</details>

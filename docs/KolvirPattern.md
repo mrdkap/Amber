@@ -1,1 +1,0 @@
-This pattern, with it's speed-bump, was pulled out from the castle to be used by [Oberon](OberonOfDworkin) as a power source, and to keep his relatives from using it against him.  It was the last of the reflections of the [Primal Pattern](PrimalPattern).

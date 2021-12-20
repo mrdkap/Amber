@@ -22,7 +22,7 @@ This page is primarily for players to keep track of PC and NPC locations. The pl
 
 ## Everything included:
 
- include_relative WhoIsWhereAmberites %}
+{% include_relative WhoIsWhereAmberites %}
 
 ## Or This way:
 

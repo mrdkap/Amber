@@ -20,14 +20,6 @@ This page is primarily for players to keep track of PC and NPC locations. The pl
  + [Superhero Group](WhoIsWhereSuperheroGroup)
  + [Dead](WhoIsWhereDead)
 
-## Everything included:
-
- include_relative WhoIsWhereAmberites %}
-
-## Or This way:
+## The included sections:
 
 {% include_relative WhoIsWhereAmberites.md %}
-
-## Or this way:
-
-WhoIsWhereAmberites](WhoIsWhereAmberites)

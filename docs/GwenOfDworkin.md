@@ -6,7 +6,7 @@ Gwen acted as [Brand's](BrandOfOberon) tutor, and placed control mechanisms in h
 
 Fun facts about Gwen:
  + She stole Dalkantyr from her [mother](ClarissaOfDarkover)
- + She had the highest known access to the [[RealityEngine]]
+ + She had the highest known access to the [Reality Engine](RealityEngine)
  + She managed to set up reality so that anytime someone said her name, white dust dropped in, calcifying the [shadow](ShadowPlaces).
 
 Gwen was defeated multiple times, and recovered from all but the last one:

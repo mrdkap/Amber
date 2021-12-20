@@ -1,7 +1,7 @@
 The Early Days of the Game.  The surviving documentation of this age is [Captain Sir Malachai's](MalachiOfCorwin) [journals](https://github.com/mrdkap/Amber/blob/master/Malachais_journals.md).
 
 The early game includes:
-+ Rebuilding from [[PatternFall]]. 
++ Rebuilding from [Pattern Fall](PatternFall). 
 + House Hendrake is demoted to commoner status, so the surviving House members invade Amber for one final chance at glory.
 + [White statues of a winged woman wearing sunglasses](GwenOfDworkin) appear across reality, driving people Golden Circle shadows insane and triggering rains of white dust when challenged
 + [Toram](ToramOfMages) tries to take over Chaos with uncountable Logrus wielders. 

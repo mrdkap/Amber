@@ -10,11 +10,11 @@ Dworkinetics is a whole new way of looking at an individuals place in the univer
 
 All of the Hamsterites rank as Child Of [Dworkin](DworkinOfAmber) level ([Oberon](OberonOfDworkin), basically) in general stats, with individuated talents as per the moulding and storytelling of [Jean](JeanOfFlorimel).  And yet, the Hamsterites are quite compassionate, and are often willing to help those who have befrended them.
 
- + <a name="dworkin">Dworkin</a>: in the [[BadgerVerse]] with other Dworkins.  Creator of Dworkinetics, a hunchbacked shape-shifting hamster, and the wielder of the Hamster [Jewel of Judgement](JewelOfJudgement).
+ + <a name="dworkin">Dworkin</a>: in the [Badgerverse](BadgerVerse) with other Dworkins.  Creator of Dworkinetics, a hunchbacked shape-shifting hamster, and the wielder of the Hamster [Jewel of Judgement](JewelOfJudgement).
  + <a name="oberon">Oberon</a>: [Forest of Arden](ForestOfArden).  Hamster Oberon was responsible for recruiting an army of woodland creatures to recapture [Amber](KolvirPromontory#shadowkolvir), who are still in service to the [Amberite King](KingOfAmber). He is hanging out with whomever is the acting [Warden of Arden](ForestOfArden).
  + <a name="finndo">Finndo</a>: Usually helping defend [House Swayvill](HouseSwayvill) in [Chaos](CourtsOfChaos), but sometimes in the [Hamsterverse](HamsterVerse). In rotation with Osric.
  + <a name="osric">Osric</a>: Usually helping defend [House Swayvill](HouseSwayvill) in [Chaos](CourtsOfChaos), but sometimes in the [Hamsterverse](HamsterVerse). In rotation with Finndo.
- + <a name="benedict">Benedict</a>: The [Hamsterverse](HamsterVerse), with a hamster-scale [[PatternBlade]].
+ + <a name="benedict">Benedict</a>: The [Hamsterverse](HamsterVerse), with a hamster-scale [Pattern Blade](PatternBlade).
  + <a name="eric">Eric</a>: Hanging out with, and helping the Serenity crew, in the [Count's](CountCagliostro) area of [Darkover](DarkoverPromontory).
  + <a name="corwin">Corwin</a>: Working with Finndo and Osric to defend [House Swayvill](HouseSwayvill) in [Chaos](CourtsOfChaos).  Has a hamster-scale [Greyswandir](PatternBlade).
  + <a name="caine">Caine</a>: The [Hamsterverse](HamsterVerse), trying to learn how to navigate the Nebula Logrus.

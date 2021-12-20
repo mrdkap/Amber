@@ -24,10 +24,10 @@ This page is primarily for players to keep track of PC and NPC locations. The pl
 
 <details><summary>Cobalteans</summary>
 
-{% include_relative WhoIsWhereCobalteans.md | markdownify %}
+{% capture my_include %}{% include_relative WhoIsWhereCobalteans.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
 </details>
-
 
 <details><summary>Amberites</summary>
 

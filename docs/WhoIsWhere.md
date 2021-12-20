@@ -24,7 +24,8 @@ This page is primarily for players to keep track of PC and NPC locations. The pl
 
 <details><summary>Cobaltians</summary>
 
-{% include WhoIsWhereCobalteans.md %}
+{% capture cobalteans_include %}{% include_relative WhoIsWhereCobalteans.md %}{% endcapture %}
+{{ cobalteans_include | markdownify }}
 
 </details>
 

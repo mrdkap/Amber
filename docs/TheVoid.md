@@ -1,4 +1,4 @@
-The Void is a cross-shadow (possibly cross promentory) connecting power.
+The Void is a cross-shadow (possibly cross-promontory) connecting power.
 
 Those who seem to have mastered it:
  + [Ingold](IngoldOfBenedict)

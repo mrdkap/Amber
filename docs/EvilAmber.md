@@ -2,15 +2,15 @@ A bad, bad place. (<a href="http://www.haven.org/~dskern/www/amber/log970812.txt
 
 In the Evil Amber: 
  + [Oberon](EvilOberon) assumed the power of [Dworkin](EvilDworkin).
- + [Oberon](EvilOberon) chained [Eric](EvilEric) and [Flora](EvilFlora) to a wall for centuries to punish them for the birth of their (forbidden) [child](EvilMelvin) who's bones they are forced to look at for all eternity.
+ + [Oberon](EvilOberon) chained Eric and Flora to a wall for centuries to punish them for the birth of their (forbidden) child (Melvin) who's bones they are forced to look at for all eternity.
  + [Oberon](EvilOberon) escaped to [Hillbilly Amber](HillbillyAmber) where he ultimately lost his life to that local [Dworkin](HillbillyDworkin). 
- + The redheads merged into one group mind, with [Bleys](EvilBleys) usually in charge unless [Brand](EvilBrand)'s madness emerged, and [Fiona](EvilFiona) acting as a power source.
- + [Benedict](EvilBenedict) conquered the local [Courts of Chaos](CourtsOfChaos), relegating the local [Toram](EvilToram) to running a bar since he refused to help.
+ + The redheads merged into one group mind, with Bleys usually in charge unless Brand's madness emerged, and Fiona acting as a power source.
+ + [Benedict](EvilBenedict) conquered the local [Courts of Chaos](CourtsOfChaos), relegating the local Toram to running a bar since he refused to help.
  + [Benedict](EvilBenedict) escaped to [Hillbilly Amber](HillbillyAmber) and thence to our reality, where he ultimately lost his life, trying to take over the local [Courts of Chaos](CourtsOfChaos).
- + [Gerard](EvilGerard) was apparently the only other Amberite left in the Evil Amber, when [Benedict](EvilBenedict) destroyed it.  His whereabots are unknown.
+ + Gerard was apparently the only other Amberite left in the Evil Amber, when [Benedict](EvilBenedict) destroyed it.  His whereabots are unknown.
  + [Titania](EvilTitania) was, for a while [Benedict's](EvilBenedict) Steed.  Otherwise known as the Bunny of Nightmares.
- + [Eric](EvilEric) apparently was allergic to sunlight, at least the [Hilbilly Amber's](HillbillyAmber) sunlight.  As he burned to ash under it.
- + [Flora](EvilFlora) managed to make it to [Hillbilly Amber](HillbillyAmber) as well, and even managed to kill that local [Brand](HillbillyBrand).
+ + Eric apparently was allergic to sunlight, at least the [Hilbilly Amber's](HillbillyAmber) sunlight.  As he burned to ash under it.
+ + Flora managed to make it to [Hillbilly Amber](HillbillyAmber) as well, and even managed to kill that local [Brand](HillbillyBrand).
 
 After [Ferro](FerroOfDworkin) tricked the local [Oberon](EvilOberon) into coming to [Hillbilly Amber](HillbillyAmber), [Benedict](EvilBenedict) destroyed the Evil Amber entirely (it is currently unknown how, but ... it's gone) and followed his [Oberon's](EvilOberon) path, eventually arriving in our local reality.
 

@@ -52,7 +52,7 @@ Summary of the [divergence](http://plan-b.org/~dkap/Amber/divergent_point.html) 
  + [Cathryn](CathrynOfRandom) falls through a crack in reality and ends up in an alternate universe, where she is rescued from a trap by an alternate [Rainbow](RainbowOfDancers).
     + In this reality, [Merlin](MerlinOfCorwin) is [King of Chaos](KingOfChaos), [Random](RandomOfOberon) is [King of Amber](KingOfAmber) (with one son, [Martin](MartinOfRandom)) and [Cathryne](CathryneOfRandom)'s grandmother is the childless (and ruthless) head of [House Jesby](ChaosHouses).  It is later mentioned that in this reality (I believe) that [Llewella](LlewellaOfOberon) is the new [Faerie Queen](TitaniaOfFaerie), as of six hundred years ago.
     + After re-coalessing, [Ilk](IlkandacianOfCara) also falls through the crack into this same alternate reality.
-       + [Ilk](IlkandacianOfCara) befriends [Ilaryn the "Badger Babe"](BadgerBabeIlaryn), and this reality will be christened the [Badger Verse](BadgerVerse)
+       + [Ilk](IlkandacianOfCara) befriends [Ilaryn the "Badger Babe"](Ilaryn), and this reality will be christened the [Badger Verse](BadgerVerse)
  + Two alternate (non-local) [Oberons](OberonOfDworkin) argue (violently) in [Amber](ShadowKolvir), but trump home with help from the local [Dworkin](DworkinOfAmber)
  + A delegation from [Cobalt](CobaltPromontory), searching for missing relatives is recieved.
  + [Cathryne](CathryneOfRandom), [Theraat](TheraatOfVale), a [Benedict](BenedictOfOberon), and a [Flora](FlorimelOfOberon) arrive in [Omega](http://www.omega16.org)

@@ -2,18 +2,18 @@
  + The "AD&D" run from [Cobalt](CobaltPromontory) arrives at the [Abyss](TheAbyss), guided by [Ingold](IngoldOfBenedict).
  + [Ingold](IngoldOfBenedict) uses [Pattern](PrimalPattern) to bind every [demon](ChaosDemon) within two miles of the [Abyss](TheAbyss) with pattern chains.
  + Stormy rescues [Ilk](IlkandacianOfCara), who finds out his cousin [Vlad](HouseCara) is presumed dead (several witnesses) and [Ilk](IlkandacianOfCara) is now head of [House Cara](HouseCara)
- + [Cathryn](CathrynOfJesby) returns, and fights with a redheaded, Pattern-wielding imposter to [Jesby](HouseJesby) in the council chamber in [Thelbane](CastleThelbane). [Dara](DaraOfOfOfBenedict) assists the imposter.  A pile of white dust is left behind.
+ + [Cathryn](CathrynOfJesby) returns, and fights with a redheaded, Pattern-wielding imposter to [Jesby](ChaosHouses) in the council chamber in [Thelbane](CastleThelbane). [Dara](DaraOfOfOfBenedict) assists the imposter.  A pile of white dust is left behind.
  + [Houses Major and minor Houses](ChaosHouses) in [Chaos](CourtsOfChaos) are attacked.
    + Several House heads are missing.
    + [House Cara](HouseCara) is infested with small black demons that appear from corners and multiply in the presence of the [Logrus](TheLogrus).  [Vlad](HouseCara), the House Second to [REN](House Cara) and titualur house head, is showing up in small pieces pattern-stapled to things around [Chaos](CourtsOfChaos) and the [Black Zone](BlackZone).
-   + [House Jesby](HouseJesby) and its ways are "no longer contiguous with the [Courts](CourtsOfChaos)"
+   + [House Jesby](ChaosHouses#jesby) and its ways are "no longer contiguous with the [Courts](CourtsOfChaos)"
    + [House Sawall](HouseSawall) and its holdings are set on fire.
  + [Damia](CobalteanRoyalFamily#damiana) introduces herself to [Random](RandomOfOberon) as "Paulette", his mother (and technically [Queen in Amber](KingOfAmber)).
  + "rioting" demons begin to appear in the [Courts of Chaos](CourtsOfChaos), followed by a massive invasion of heavily armored blue demons.
  + [Malachai](MalachaiOfCorwin) acts as Regent of [Amber](KolvirPromontory#shadowkolvir), and proposes to Serena.
  + [Zach](ZachariasOfJulian), [Auricle](AuricleOfTir), and [Theraat](TheraatOfVale) loot [Rhiannon](RhiannonOfFiona)'s magical laboratory and home, then travel to [Amber](KolvirPromontory#shadowkolvir).
    + [Zach](ZachariasOfJulian) and [Auricle](AuricleOfTir) encounter white dust, and hear of its effects on people, and hear that it is similar to the dust associated with [Gwen](GwenOfDworkin) statues.
- + [Cathryne](CathryneOfRandom) finds the (real) heads of [House Jesby](HouseJesby) and [House Cara](HouseCara) in [the Egg-Place](EggPromontory).  (The people who run the house, not just their detached heads.)
+ + [Cathryne](CathryneOfRandom) finds the (real) heads of [House Jesby](ChaosHouses) and [House Cara](HouseCara) in [the Egg-Place](EggPromontory).  (The people who run the house, not just their detached heads.)
  + [Clarissa](ClarissaOfDarkover) arrives in [Amber](KolvirPromontory#shadowkolvir) with [Celeste](CelesteOfBleys), to pack up [Brand](BrandOfOberon)'s room.
    + [Clarissa](ClarissaOfDarkover) accidentally brings [Ingold](IngoldOfBenedict)'s pattern binding stone, dragging along thousands of demons.  Many melt, others die, none are happy. The "invasion" is repelled.
  + The crew from [Cobalt](CobaltPromontory), along with [Benedict](BenedictOfOberon), inflict great umbrage upon the [Shifters Guild](ChaosGuilds#shifters) looking for the missing (abducted?) [Carleton](CobalteanRoyalFamily$carleton).  [Carleton](CobalteanRoyalFamily#carleton) is recovered, and returns to [Cobalt](CobaltPromontory) via a 'mandrake backpack'.
@@ -26,8 +26,8 @@
 
 ## Cathryne's Pattern party
  + [Cathryne](CathryneOfRandom) and [Jesby](BellahquistOfJesby) return to the [Courts](CourtsOfChaos).
-   + There is a question as to the House-status of [House Jesby](HouseJesby), because the physical House is missing.  As are the remaining House members.
-   + [Benedict](BenedictOfOberon) reports that, according to a now-unavailable mage, [House Jesby](HouseJesby) was kicked ahead in time
+   + There is a question as to the House-status of [House Jesby](ChaosHouses#jesby), because the physical House is missing.  As are the remaining House members.
+   + [Benedict](BenedictOfOberon) reports that, according to a now-unavailable mage, [House Jesby](ChaosHouses#jesby) was kicked ahead in time
  + For the first (but not the last) time, [Ilk](IlkandacianOfCara) uses a barge to cross the new sea of demons pooling in [Chaos](CourtsOfChaos).
  + [Snarsht](SnarshtOfBeastmasters), head of the [Beastmasters Guild](BeastmastersGuild), identifies [Norton](NortonOfBeastmasters) as his "lost apprentice"
  + [Cathryne](CathryneOfRandom) prepares to walk the [Rebma Pattern](RembaPattern), and [Random](RandomOfOberon) invites "everyone" to her pattern party.
@@ -45,7 +45,7 @@
    + [Ilk](IlkandacianOfCara) is later threatened by [Rainbow](RainbowOfDancers) for escaping, and cowers. [Rainbow's](RainbowOfDancers) revenge will be subtle and effective.
  + [Norton](NortonOfBeastmasters) and [Ilk](IlkandacianOfCara) are attacked by a major force of [House Helgram](HouseHelgram) in the [Courts](CourtsOfChaos); while fighting them, [Norton](NortonOfBeastmasters) beastmasters many demons into vampires, Godzillas, Mothras, Snarshts, Triallas, Erics, etc.
    + Many other reinforcements arrive, including [Cathryne](CathryneOfRandom)'s pattern party. [Cathryne](CatheryneOfRandom) returns her [Jewel of Judgement](JewelOfJudgement) to [Dworkin](DworkinOfAmber).
-   + [Ferro](FerroOfDworkin) has carried the new [House Jesby](HouseJesby) out of chaos and into [Shadow](ShadowPlaces).  [Bella](BellahquistOfJesby), the house head of [Jesby](HouseJesby), convinces him to bring it back, although the sea of demons has taken up that place so [Ferro](FerroOfDworkin) sets it on top of the demons.
+   + [Ferro](FerroOfDworkin) has carried the new [House Jesby](ChaosHouses#jesby) out of chaos and into [Shadow](ShadowPlaces).  [Bella](BellahquistOfJesby), the house head of [Jesby](ChaosHouses#jesby), convinces him to bring it back, although the sea of demons has taken up that place so [Ferro](FerroOfDworkin) sets it on top of the demons.
  + [Osric](OsricOfChanicut) leaves the [Fringe](PowersBalancesAndOpposites) to look for [Merlin](MerlinOfCorwin), and meets [Ilk](IlkandacianOfCara).
  + A patternless [Flora](FlorimelOfOberon) arrives at [Castle Amber](KolvirPromontory#castleamber), somewhat confused.  She brings with her [Gerard](GerardOfOberon)'s arm and threats from [Oberon](OberonOfDworkin).
    + [Benedict](BenedictOfOberon), supported by [Corwin](CorwinOfOberon), declares himself in rebellion against [Oberon](OberonOfDworkin).  [Benedict](BenedictOfOberon) says that he would consider it a personal slight if any of his relatives failed to support his rebellion. [Benedict](BenedictOfOberon) gets widespread, if lukewarm, support.
@@ -56,7 +56,7 @@
    + [Ferro](FerroOfDworkin), [Gentleman Suhuy](GentlemanSuhuy), and [Hillbilly Deirdre](HillbillyDeirdre) travel to local reality.
  + [Caine](CaineOfOberon) is fighting an endless stream of locusts.
  + A [Flora](FlorimelOfOberon) walks the [Pattern in Rebma](RebmaPattern), which rips out that which she was (with [Dworkin](DwrokinOfAmber)'s help) and makes her more [Flora](FlorimelOfOberon). [Corwin](CorwinOfOberon) suspects this [Flora](FlorimelOfOberon) is really [Dara](DaraOfOfOfBenedict).
- + [Bellaquist](BellahquistOfJesby) ([Cathryne](CathryneOfRandom)'s mother, and the house head of [House Jesby](HouseJesby)) requests extreme sanctuary from [House Cara](HouseCara), after being threatened by the enemy and presented with Mandor's arm ([House Sawall](HouseSawall) ring attached).
+ + [Bellaquist](BellahquistOfJesby) ([Cathryne](CathryneOfRandom)'s mother, and the house head of [House Jesby](ChaosHouses#jesby)) requests extreme sanctuary from [House Cara](HouseCara), after being threatened by the enemy and presented with Mandor's arm ([House Sawall](HouseSawall) ring attached).
    + The enemy houses are:  [Swayvill](HouseSwayvill), [Chanicut](HouseChanicut), [Ganda](HouseGanda), [Darbin](HouseDarbin), [Yigrin](HouseYigrin), [Helgram](HouseHelgram), [Arantantic](HouseArantantic).
 
 ## [Jenoir's](JenoirOfMages) Elevation (vs Toram)

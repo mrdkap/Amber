@@ -1,4 +1,7 @@
 
+## Promontories
+A 'promontory' is what we've chosen to call a stable place in the endless primal chaos.  Imagine a mountain rising out of the sea of Primal Chaos - that's why it's called a promontory.  That endless primal chaos is called the [Sea of Chance](SeaOfChance).
+
 ## Grand Unified Theories
 There are many ways to look at the universe, and all of them are right and all of them are wrong. Here are
 some speculations based on various things learned (both truth and lies) around these views.

@@ -46,22 +46,23 @@ There are many more minor houses, including [Demon](ChaosDemon) Houses.  There w
  + <a name="jesby"></a>Jesby, time-jumped ahead and subsumed into [Cara](HouseCara), after which the two remaining members of the house (Bellahquist knows as Jesby) and [Cathryn](CathrynOfRandom)) died.
  + <a name="barimen"></a>[Barimen](HouseBarimen) - banned as a house by [Realms Master Shiryu](RealmsMasterShiryu). It happened recently, because of a power grab - this isn't a pre-Pattern thing.
 
-## <A NAME="moreinfo"></A>More information on certain houses:  (More is always welcome.)
+---
+<A NAME="moreinfo"></A>More information on certain houses:  (More is always welcome.)
 
-### Barimen
+## Barimen
 {% include_relative HouseBarimen.md %}
 
-### Cara
+## Cara
 {% include_relative HouseCara.md %}
 
-### Helgram
+## Helgram
 {% include_relative HouseHelgram.md %}
 
-### Hendrake
+## Hendrake
 {% include_relative HouseHendrake.md %}
 
-### Moonlight
+## Moonlight
 {% include_relative HouseMoonlight.md %}
 
-### Swayvill
+## Swayvill
 {% include_relative HouseSwayvill.md %}

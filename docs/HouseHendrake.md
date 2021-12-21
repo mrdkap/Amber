@@ -8,7 +8,7 @@ Claimed by [Norton](NortonOfBeastmasters) by "Right of Conquest", after he took 
 
 All of these activities had the house reduced from a [Major House](ChaosHouses) to a completely empty Minor House thus, proving the prophesy.
 
-## Notable Members:
+### Notable Members:
  + [Borel](BorelOfHendrake) - [King of Chaos](KingOfChaos), guild second of the [Warriors](WarriorsGuild) [Guild](ChaosGuilds), Head of [House](ChaosHouses), and author of it's lowest point in it's history.
  + [Lintra the Hellmaid of Chaos](LintraOfHendrake) - One of the most successful generals for [Chaos](CourtsOfChaos) in the [Pattern Fall War](PatternFall), Mother of [Triumph](TriumphOfBenedict), great-grandmother of [Dara](DaraOfOfOfBenedict), mastermind behind the (failed) plot to subvert [Malachai](MalachaiOfCorwin) to the House's needs.
  + [Triumph](TriumphOfBenedict) - The first in a series of decendents scheduled to try and take the [throne of Amber](ShadowKolvir).  Ultimately failed to evidence the necessary (first and foremost lack of [Pattern](PrimalPattern) allergy) traits.

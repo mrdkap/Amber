@@ -1,0 +1,1 @@
+rsync -avur --exclude-from .gitignore . ../../wiki/

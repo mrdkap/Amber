@@ -10,13 +10,12 @@ This page is primarily for players to keep track of PC and NPC locations. The pl
  + [Amberites](WhoIsWhereAmberites)
  + [Chaosians](WhoIsWhereChaosians)
  + [Hamsterites](WhoIsWhereHamsterites)
- + [Hamsterites - More](WhoIsWhereHamsteritesMore)
  + [Dragons](WhoIsWhereDragons)
  + [Cobalteans](WhoIsWhereCobalteans)
  + [Full Cobalt Royal family](CobalteanRoyalFamily)
- + [Other](WhoIsWhereOther)
- + [Wargaming Group](WhoIsWhereWargamingGroup)
- + [Vamp/Wolf Group](WhoIsWhereVampWolfGroup)
+ + [Other Folks outside of the above](WhoIsWhereOther)
+ + [War gaming Group](WhoIsWhereWargamingGroup)
+ + [Vampire and Werewolf Group](WhoIsWhereVampWolfGroup)
  + [Superhero Group](WhoIsWhereSuperheroGroup)
  + [Dead](WhoIsWhereDead)
 
@@ -29,10 +28,22 @@ This page is primarily for players to keep track of PC and NPC locations. The pl
 
 </details>
 
+<details><summary>Chaosians</summary>
+
+Not migrated yet
+
+</details>
+
 <details><summary>Hamsterites</summary>
 
 {% capture my_include %}{% include_relative WhoIsWhereHamsterites.md %}{% endcapture %}
 {{ my_include | markdownify }}
+
+</details>
+
+<details><summary>Dragons</summary>
+
+Not migrated yet
 
 </details>
 
@@ -43,3 +54,40 @@ This page is primarily for players to keep track of PC and NPC locations. The pl
 
 </details>
 
+<details><summary>Full Cobaltean Royal Family</summary>
+
+{% capture my_include %}{% include_relative CobalteanRoyalFamily.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
+</details>
+
+<details><summary>Other folks outside of the above</summary>
+
+Not migrated yet
+
+</details>
+
+<details><summary>War Gaming Group</summary>
+
+Not migrated yet
+
+</details>
+
+<details><summary>Vampire and Werewolf Group</summary>
+
+Not migrated yet
+
+</details>
+
+<details><summary>Superhero Group</summary>
+
+Not migrated yet
+
+</details>
+
+<details><summary>Dead</summary>
+
+{% capture my_include %}{% include_relative WhoIsWhereDead.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
+</details>

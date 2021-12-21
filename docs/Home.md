@@ -6,4 +6,4 @@ More historically minded folks might want to start with the [Before Times](Befor
 
 More hysterically minded folks might want to start with the [game quotes](//web.mit.edu/~dskern/www/amber/quotes.html)
 
-![Logo](serpent-unicorn.jpg "Logo")
+(Logo is now to the left)

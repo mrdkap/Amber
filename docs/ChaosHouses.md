@@ -34,7 +34,7 @@ The [last recorded](http://web.mit.edu/~dskern/www/amber/log020709.html#sect1) l
 1. Timbal
 1. Minoby
  
-## <A NAME="minor">Notable former/monor houses include</A>:
+## <A NAME="minor">Notable former/minor houses include</A>:
  + [Hendrake](HouseHendrake) - once a major house, then demoted, then annihilated.  Claimed by [Norton](NortonOfBeastmasters) by right of conquest, but neglected after its desecration by enemies of [Snarsht](SnarshtOfBeastmasters).
  + Arantantic - once a major house, but now demoted
  + Mousferatu - A minor house, on the rise, by squeek.
@@ -42,6 +42,6 @@ The [last recorded](http://web.mit.edu/~dskern/www/amber/log020709.html#sect1) l
 
 There are many more minor houses, including [Demon](ChaosDemon) Houses.  There were more [Demon](ChaosDemon) Houses before [Ilk](IlkandacianOfCara)'s [Demon Melt](DemonMelt) spell became widely known. There were also many more [Demon](ChaosDemon) Houses before the [Abyss](TheAbyss) and the [Grey Zone](GreyZone) both went away, during the cataclysmic event.
 
-## <A NAME="deadhouses">Defunct Houses Of CourtsOfChaos</A>:
+## <A NAME="deadhouses">Defunct Chaosian Houses</A>:
  + Jesby, time-jumped ahead and subsumed into [Cara](HouseCara), after which the two remaining members of the house ([Bella](BellahquistOfJesby) and [Cathryn](CathrynOfRandom)) died.
- + [Barimen](HouseBarimen) - banned as a house by (Realms Master Shiryu)[RealmsMasterShiryu]
+ + [Barimen](HouseBarimen) - banned as a house by [Realms Master Shiryu](RealmsMasterShiryu).  It happened recently, because of a power grab - this isn't a pre-Pattern thing.

@@ -1,4 +1,4 @@
-The Void is a cross-shadow (possibly cross-promontory) connecting power.
+The Void is a cross-shadow (possibly [cross-promontory](Cosmology)) connecting power.
 
 [Fiona](FionaOfOberon) is believed to have used Void when transporting [Corwin](CorwinOfOberon) to the [Primal Pattern](PrimalPattern) in _Hand of Oberon_:
 

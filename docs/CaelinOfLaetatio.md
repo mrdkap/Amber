@@ -8,6 +8,6 @@ Most notably, Caelin is one of the most powerful mages in existence.
 Caelin's magical power is often measured by how many multiples of
 the entire magical potential of Shadow he has contained inside him.
 
-Caelin's beloved is [Natasha of Cobalt](NatashaOfCobalt).
+Caelin's beloved is [Natasha of Cobalt](CobalteanRoyalFamily#natasha).
 
 Caelin has secretly acted as [Zorro's](ZorroOfAssassins) apprentice/sidekick.

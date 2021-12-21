@@ -1,5 +1,5 @@
 ## <A NAME="promontories">Promontories</A>
-A promontory is a solid bit in the [Sea Of Chance](SeaOfChance).
+A promontory is a solid bit in the [Sea Of Chance](SeaOfChance) - think of it as a mountain rising up out of primal Chaos and a safer place to build than the Sea itself.  A promontory is not shadow but a power located on a promontory may cast shadow.  See the [Cosmology discussion](Cosmology) for more theories.
 * [Kolvir](KolvirPromontory), Now mostly [Greater Arden](GreaterArden) (formerly known as Amber), and what was left of the [Golden Circle Kingdoms](GoldenCircleKingdoms) but also includes [Primal Amber](PrimalAmber) where the [Primal Pattern](Primal Pattern) sits
 * [Pearl](CorwinPromontory) - Which might not be reachable through Shadow again
 * [Ygg](YggPromontory) - [Oberon](OberonOfDworkin)'s first and only attempt at farming

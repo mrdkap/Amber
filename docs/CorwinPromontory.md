@@ -1,6 +1,6 @@
 ## Argent
 
-The promontory that all that [Corwin's Pattern](CorwinPattern) effects.
+The [promontory](Cosmology) that all that [Corwin's Pattern](CorwinPattern) effects.
 
 ## Pearl
 

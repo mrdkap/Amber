@@ -1,4 +1,4 @@
-The area lumped together as "Amber" rests on the Kolvir Promontory (which in turn is supported by a 'kraken', not a Serpent.)
+The area lumped together as "Amber" rests on the Kolvir [Promontory](Cosmology) (which in turn is supported by a 'kraken', not a Serpent.)
 
 ## Amber-that-is
 
@@ -15,12 +15,11 @@ Auricle's new [Primal Pattern](NevilleAuriclePattern) is still protected by the 
 
 ## Amber-that-was
 
-Before the original Primal Pattern was erased, 
+Before the original Primal Pattern was erased, "Amber" included:
 
-On this promontory are:
 + <a name="primalkolvir">Primal Kolvir</a>
   + The location of the [Primal Pattern](PrimalPattern), a slow and primal location where few powers work.  The true underpinning of this side of reality, and not well known at all.
-  + The [Primal Pattern](PrimalPattern) was protected by the replacement Wixer, after the original Wixer was slain by Brand during Patternfall.
+  + The [Primal Pattern](PrimalPattern), protected by the replacement Wixer after the original Wixer was slain by Brand during Patternfall.
 + <a name="shadowkolvir">Shadow Kolvir</a>
 : "One shadow over", what most people mean when they say "Amber".
   + <a name="castleamber">Castle Amber</a>
@@ -43,6 +42,6 @@ The paths into Shadow Kolvir included the sea lanes and the [Forest of Arden](Fo
 
 Most of the [Golden Circle Kingdoms](GoldenCircleKingdoms) fell to the shores of Kolvir Promontory after the [Shadow Purge](ShadowPurge), and were helped by [Neville](NevilleOfEric), when he was [Amber's king](KingOfAmber).
 
-The [Golden Circle Kingdoms](GoldenCircleKingdoms) were essentially depopulated by [Gwen's](GwenOfDworkin) madness-inducing white dust, and were repopulated by [Neville](NevilleOfEric) during [Evil Benedict's](EvilBenedict) reign. [Neville](NevilleOfEric) tried to massage the kingdoms to be part of the Amber "shadow", since it's all the same promontory.
+The [Golden Circle Kingdoms](GoldenCircleKingdoms) were essentially depopulated by [Gwen's](GwenOfDworkin) madness-inducing white dust, and were repopulated by [Neville](NevilleOfEric) during [Evil Benedict's](EvilBenedict) reign. [Neville](NevilleOfEric) tried to massage the kingdoms to be part of the Amber "shadow", since it's all the same [promontory](Cosmology).
 
 When the Pattern was redrawn, the new Pattern and its reflection(s?) is on Kolvir but the former City and surrounding area were pushed some distance away.

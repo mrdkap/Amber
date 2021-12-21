@@ -16,7 +16,7 @@ All of the Hamsterites rank as Child Of [Dworkin](DworkinOfAmber) level ([Oberon
  + <a name="osric">Osric</a>: Usually helping defend [House Swayvill](HouseSwayvill) in [Chaos](CourtsOfChaos), but sometimes in the [Hamsterverse](HamsterVerse). In rotation with Finndo.
  + <a name="benedict">Benedict</a>: The [Hamsterverse](HamsterVerse), with a hamster-scale [Pattern Blade](PatternBlade).
  + <a name="eric">Eric</a>: Hanging out with, and helping the Serenity crew, (especially in being able to traverse shadow) in the [Courts](CourtsOfChaos) (last seen in the [Assassins](AssassinsGuild) [Guild](ChaosGuilds) with Malcom Reynolds, researching his ancestry.
- + <a name="corwin">Corwin</a>: Working with Finndo and Osric to defend [House Swayvill](HouseSwayvill) in [Chaos](CourtsOfChaos).  Has a hamster-scale [Greyswandir](PatternBlade).
+ + <a name="corwin">Corwin</a>: Working with Johnny Mnemonic(s) on the [Fringe](PowersBalancesAndOpposites).  Has a hamster-scale [Greyswandir](PatternBlade).
  + <a name="caine">Caine</a>: The [Hamsterverse](HamsterVerse), trying to learn how to navigate the Nebula Logrus.
  + <a name="deirdre">Deirdre</a>: in [Darkover](DarkoverPromontory), laying Dworkinetics groundwork for a wooden samurai.
  + <a name="fiona">Fiona</a>: The [Hamsterverse](HamsterVerse), studying the local esoterica, and the history of the 17 powers.

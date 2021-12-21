@@ -24,7 +24,7 @@ Tiamat, the first Serpent, lived in this void and knew that her children would s
 The descendants of Tiamat are dragons who prosper in the world that she made and hunt in the Sea she created with her life. But if you fly in the Void, you can still feel her scream of pain and birth.
 
 
-## Promontories - stable places in Sea of Chance
+##  Stable places in the Sea of Chance
 What makes a stable space in the Sea?  One common answer is a kind of plantlike creature dubbed a 'kraken'
 that grows in the Sea of Chance and feed while accumulating 'stuff' on top and becoming a stable place.  Another
 answer is a Serpent that has curled up and accumulates material from the Sea of Chance.  The difficulty is that

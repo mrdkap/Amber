@@ -12,7 +12,7 @@ In the Council of Houses, votes are tallied as follows:
 
 Because of house alliances (or sucking up) it's common for a house to assigns its vote to a later one (eg. "Cara votes with House Pharaban")
 
-## <A NAME="major"</A>>Relative house standings is probably determined by the [Etiquette](EtiquetteGuild) [Guild](ChaosGuilds):
+## <A NAME="major"></A>>Relative house standings is probably determined by the [Etiquette](EtiquetteGuild) [Guild](ChaosGuilds):
 
 The [last recorded](http://web.mit.edu/~dskern/www/amber/log020709.html#sect1) list and order of Chaosian major houses was:
 

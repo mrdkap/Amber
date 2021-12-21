@@ -26,3 +26,36 @@ Tirellian, Dalmas, and Wyndham are sisters, and often are mistaken for triplets,
  + <a name="poisoners"></a>Poisoners Guild - [Bronelle](BronelleOfPoisoners) was Guildmistress, with Dalmas as guild second.
  + <a name="slavers"></a>Slavers Guild - [Mikail](MikailOfOberon) put in a bid to be Guildmaster, perhaps unknowingly. One of the cross-shadow branches was run by [Raven](RavenOfCaine) and [K'rin](KrinOfCaine).
  + <a name="pitdivers"></a>Pit Divers Guild - Traders with the Demon Houses on the walls of the [Abyss](TheAbyss) as well as diving deep into it to get things not common, or not sought after by the Demons House members.  Now that the [Abyss](TheAbyss) is no more, the guild (and their guild-house) are defunct and gone.
+
+---
+<A NAME="moreinfo"></A>More information on certain Guilds:  (More is always welcome.)
+
+## Ambassadors
+{% include_relative AmbassadorsGuild.md %}
+
+## Assassins
+{% include_relative AssassinsGuild.md %}
+
+## Beastmasters
+{% include_relative BeastmastersGuild.md %}
+
+## Dancers
+{% include_relative DancersGuild.md %}
+
+## Etiquette
+{% include_relative EtiquetteGuild.md %}
+
+## Healers
+{% include_relative HealersGuild.md %}
+
+## Mages
+{% include_relative MagesGuild.md %}
+
+## Philosophers
+{% include_relative PhilosophersGuild.md %}
+
+## Psionicists
+{% include_relative PsionicistsGuild.md %}
+
+## Warriors
+{% include_relative WarriorsGuild.md %}

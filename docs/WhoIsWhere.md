@@ -15,6 +15,7 @@ This page is primarily for players to keep track of PC and NPC locations. The pl
  + [Full Cobalt Royal family](CobalteanRoyalFamily)
  + [Other Folks outside of the above](WhoIsWhereOther)
  + [War gaming Group](WhoIsWhereWargamingGroup)
+ + [Firefly Crew](WhoIsWhereFirefly)
  + [Vampire and Werewolf Group](WhoIsWhereVampWolfGroup)
  + [Dead](WhoIsWhereDead)
 
@@ -69,6 +70,13 @@ Not migrated yet
 <details><summary>War Gaming Group</summary>
 
 {% capture my_include %}{% include_relative WhoIsWhereWargamingGroup.md %}{% endcapture %}
+{{ my_include | markdownify }}
+
+</details>
+
+<details><summary>Firefly Crew</summary>
+
+{% capture my_include %}{% include_relative WhoIsWhereFirefly.md %}{% endcapture %}
 {{ my_include | markdownify }}
 
 </details>

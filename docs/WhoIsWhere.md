@@ -17,6 +17,7 @@ This page is primarily for players to keep track of PC and NPC locations. The pl
  + [War gaming Group](WhoIsWhereWargamingGroup)
  + [Firefly Crew](WhoIsWhereFirefly)
  + [Vampire and Werewolf Group](WhoIsWhereVampWolfGroup)
+ + [Mage Group](WhoIsWhereMages)
  + [Dead](WhoIsWhereDead)
 
 ## The included sections:
@@ -30,7 +31,8 @@ This page is primarily for players to keep track of PC and NPC locations. The pl
 
 <details><summary>Chaosians</summary>
 
-Not migrated yet
+{% capture my_include %}{% include_relative WhoIsWhereChaosians.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
 </details>
 
@@ -43,7 +45,8 @@ Not migrated yet
 
 <details><summary>Dragons</summary>
 
-Not migrated yet
+{% capture my_include %}{% include_relative WhoIsWhereDragons.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
 </details>
 
@@ -63,7 +66,8 @@ Not migrated yet
 
 <details><summary>Other folks outside of the above</summary>
 
-Not migrated yet
+{% capture my_include %}{% include_relative WhoIsWhereOther.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
 </details>
 
@@ -82,6 +86,12 @@ Not migrated yet
 </details>
 
 <details><summary>Vampire and Werewolf Group</summary>
+
+Not migrated yet
+
+</details>
+
+<details><summary>Mage Group</summary>
 
 Not migrated yet
 

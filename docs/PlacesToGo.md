@@ -1,6 +1,6 @@
 ## <A NAME="promontories">Promontories</A>
-A promontory is a solid bit in the SeaOfChance.
-* [Kolvir](KolvirPromontory), Now mostly [Greater Arden](GreaterArden) (formerly known as Amber), and what was left of the [Golden Circle Kingdoms](GoldenCircleKingdoms) but also includes [Primal AMber](PrimalAmber) where the [Primal Pattern](Primal Pattern) sits
+A promontory is a solid bit in the [Sea Of Chance](SeaOfChance).
+* [Kolvir](KolvirPromontory), Now mostly [Greater Arden](GreaterArden) (formerly known as Amber), and what was left of the [Golden Circle Kingdoms](GoldenCircleKingdoms) but also includes [Primal Amber](PrimalAmber) where the [Primal Pattern](Primal Pattern) sits
 * [Pearl](CorwinPromontory) - Which might not be reachable through Shadow again
 * [Ygg](YggPromontory) - [Oberon](OberonOfDworkin)'s first and only attempt at farming
 * [Cobalt and the Fractal Realm](CobaltPromontory) - home of [The Spiral](TheSpiral]

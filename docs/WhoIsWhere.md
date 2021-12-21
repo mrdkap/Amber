@@ -93,7 +93,8 @@ Not migrated yet
 
 <details><summary>Mage Group</summary>
 
-Not migrated yet
+{% capture my_include %}{% include_relative WhoIsWhereMages.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
 </details>
 

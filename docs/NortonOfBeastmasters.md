@@ -6,4 +6,4 @@ Favorite Apprentice to [Snarsht](SnarshtOfBeastmasters) who disappeared into [sh
  + Holds and wields a [Greyswandir](PatternBlade)
  + Is currently insane, except when sticking a [Jewel Of Judgement](JewelOfJudgement) into his eye-socket.
 
-His Majordomo, Renfield, is current running the sanitorium that Benjaman, [Cassandra's](CassandraOfCorwin) intended, is enrolled in.
+Norton's majordomo Renfield is currently running the sanitorium that Benjamin, [Cassandra's](CassandraOfCorwin) intended, is enrolled in.

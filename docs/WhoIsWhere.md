@@ -16,7 +16,6 @@ This page is primarily for players to keep track of PC and NPC locations. The pl
  + [Other Folks outside of the above](WhoIsWhereOther)
  + [War gaming Group](WhoIsWhereWargamingGroup)
  + [Vampire and Werewolf Group](WhoIsWhereVampWolfGroup)
- + [Superhero Group](WhoIsWhereSuperheroGroup)
  + [Dead](WhoIsWhereDead)
 
 ## The included sections:
@@ -69,17 +68,12 @@ Not migrated yet
 
 <details><summary>War Gaming Group</summary>
 
-Not migrated yet
+{% capture my_include %}{% include_relative WhoIsWhereWargamingGroup.md %}{% endcapture %}
+{{ my_include | markdownify }}
 
 </details>
 
 <details><summary>Vampire and Werewolf Group</summary>
-
-Not migrated yet
-
-</details>
-
-<details><summary>Superhero Group</summary>
 
 Not migrated yet
 

@@ -14,7 +14,8 @@ Most dead Amberites are not listed on this page, as they are already listed abov
 
 ## <A NAME="deadothers">Other Prominent Dead Locals</A>
  + Prospero, an able assistant to [Malachi](MalachiOfCorwin) and [Zach](ZachariasOfJulian) - presumed killed by EvilBenedict
-##2 <A NAME="deadalternates">Dead Alternate Universe People</A> ##
+
+## <A NAME="deadalternates">Dead Alternate Universe People</A>
  + EvilOberon - killed by HillbillyDworkin
  + HillbillyBrand - decapitated by angsty EvilFlora
  + Stormy, apparently a shadow of an alternate [Dworkin](DworkinOfAmber).  Unmade by TimeLordMelkizedek, but apparently surviving as a staff in [Ilk](IlkandacianOfCara)'s closet.

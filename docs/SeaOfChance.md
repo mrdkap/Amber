@@ -11,3 +11,5 @@ Always.
 Without time, start, end, intent, or intention.
 
 Beyond comprehension.
+
+(See also: [Cosmology])

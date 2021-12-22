@@ -1,4 +1,6 @@
 ## Caelin
+> (And Cailin was involved and things got worse...)
+
 Caelin, son of [Laetatio](LaetatioOfRandom) and Circe of [EarthSea].
 
 Caelin is the head of [House Moonlight](HouseMoonlight), a Chaosian house created in
@@ -12,6 +14,9 @@ the entire magical potential of Shadow he has contained inside him.
 Caelin's beloved is [Natasha of Cobalt](CobalteanRoyalFamily#natasha).
 
 Caelin has secretly acted as [Zorro's](ZorroOfAssassins) apprentice/sidekick.
+
+Caelin is a shapeshifter in that he has one alternate form, a Yeti
+whose primary skill is running extremely quickly away from danger.
 
 Caelin is one of two known player characters with a Warfare rank
 below Human; the other is [Jean](JeanOfFlorimel) but Caelin's "music nerd"

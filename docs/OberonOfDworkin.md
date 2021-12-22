@@ -1,3 +1,6 @@
+
+> "Alas, poor Oberon, I knew him, Ferro."
+
 A complicated man, and everyone disliked him but his ladies. Now deceased.  With Malice Aforethought.
 
 Son of [Dworkin](DworkinOfAmber) and [the Unicorn](UnicornOfAmber), husband to many and dysfunctional father to many more.  King of [Amber](KolvirPromontory) for millenia.  Established the [Golden Circle Kingdoms](GoldenCircleKingdoms).  Ruled long (and some would say well) from his throne.  Established that "No fratricide will ever sit on my throne." which proved, ultimately, to be wrong.  Had a thing against family members being with (much less procreating with) other family members.  While he was on the throne, it was (mostly) observed by those aware of his edict, and/or the parentage of their particular partners.

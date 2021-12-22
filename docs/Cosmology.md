@@ -68,17 +68,17 @@ the gap between, so Shadow stretched all the way across.
 ## Cracks in the Multiverse
 
 One of the overarching plot arcs in the earlier part of the game were
-'cracks' between realities. Many of these cracks went to alternate Ambers,
+'rifts' between realities. Many of these rifts went to alternate Ambers,
 similar but different multiverses.  The popular theories are:
 * Cracks are created by multiple opposing or balancing powers in the
 same multiverse.  If powers can't naturally find their balance/natural
-distance, that creates the 'cracks' between realities.
+distance, that creates the 'rifts' between realities.
 * A flight of related dragons all became Serpents, and the similarity
 between the Serpents created a similarity in the worlds they created.
 
-The evidence for 'cracks' is that when the Patterns were undrawn and
+The evidence for 'rifts' is that when the Patterns were undrawn and
 Shadow was destroyed, many promonotories moved off into the Sea.
 When the new Pattern was drawn, a new Shadow was created and some
 promontories were 'towed' through the sea to the outside of this new
-shadow.  Thus far, no cross-reality cracks have been reported since this
+shadow.  Thus far, no cross-reality rifts have been reported since this
 was done.

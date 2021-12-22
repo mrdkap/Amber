@@ -55,41 +55,41 @@ This is a dot-generated picture (dot -Tsvg LocalAmberFamily.gv -o LocalAmberFami
  + ![Third Generation](3rdgen.svg "Third Generation")MirelleOfOberon: Presumed dead after walking the pattern badly.
  + ![Fourth Generation](4thgen.svg "Fourth Generation")MartinOfRandom: [The Egg Place](EggPromontory) helping with the hatching and the teaching, and keeping Al-NazirOfNazirdin in line.
  + ![Sixth Generation](6thgen.svg "Sixth Generation")GilOfJanus: [Darkover](DarkoverPromontory) doing world-settling logistics.
- + ![Fourth Generation](4thgen.svg "Fourth Generation")LaetatioOfRandom: HouseMoonlight.
+ + ![Fourth Generation](4thgen.svg "Fourth Generation")[Laetatio](LaetatioOfRandom): HouseMoonlight.
  + ![Fourth Generation](4thgen.svg "Fourth Generation")RhiannonOfFiona: Used up by [Clarissa](ClarissaOfDarkover) defending [Darkover](DarkoverPromontory).
  + ![Fourth Generation](4thgen.svg "Fourth Generation")ConnorOfFiona: Was in the garden of [Castle Amber](ShadowKolvir) as a massively time-slowed statue, but went missing sometime during [Evil Benedict's](EvilBenedict) reign as [King](KingOfAmber).
  + ![Fourth Generation](4thgen.svg "Fourth Generation")TabithaOfFlorimel: [Darkover](DarkoverPromontory) at the AngryChildrenTea.
- + ![Fifth Generation](5thgen.svg "Fifth Generation")ArchivistOfLaetatio: HouseMoonlight running the house as house second. 
+ + ![Fifth Generation](5thgen.svg "Fifth Generation")[The Archivist](CaelinOfLaetatio): HouseMoonlight running the house as house second. 
  + ![Fourth Generation](4thgen.svg "Fourth Generation")[Malachai](MalachaiOfCorwin): [Pearl](CorwinPromontory).
- + ![Fifth Generation](5thgen.svg "Fifth Generation")CaelinOfLaetatio: CobaltPromontory dealing with the wearing of the reality there.
+ + ![Fifth Generation](5thgen.svg "Fifth Generation")[Caelin](CaelinOfLaetatio): CobaltPromontory dealing with the wearing of the reality there.
  + ![Fifth Generation](5thgen.svg "Fifth Generation")CaelinOfLaetatio (backup copy): [Grey Sphere](GreySphere) on the desk of [Princess Chandra](PrincessChandraOfAssassins) in the AssassinsGuild.
  + ![Fifth Generation](5thgen.svg "Fifth Generation")(ex-) CaelinOfLaetatio: SeaOfChance and expiated due to a fungo-bat.
- + ![Fourth Generation](4thgen.svg "Fourth Generation")AlisterOfBleys: JewelOfJudgement.
+ + ![Fourth Generation](4thgen.svg "Fourth Generation")AlisterOfBleys: [dead, inside the Jewel of Judgement](JewelOfJudgement)
  + ![Seventh Generation](7thgen.svg "Seventh Generation")AbsalomOfGil: [Darkover](DarkoverPromontory) doing world-settling logistics.
  + ![Fourth Generation](4thgen.svg "Fourth Generation")VelariaOfGerard: Whereabouts Unknown.
  + ![Sixth Generation](6thgen.svg "Sixth Generation")[Al-Nazir](AlNazirOfNazirdin): [Darkover](DarkoverPromontory) doing world-settling logistics.
  + ![Fourth Generation](4thgen.svg "Fourth Generation")TalosOfRandomAdopted: [Darkover](DarkoverPromontory) at the AngryChildrenTea.
  + ![Fourth Generation](4thgen.svg "Fourth Generation")JackieOfFlorimel: [Darkover](DarkoverPromontory) at the AngryChildrenTea.
- + ![Sixth Generation](6thgen.svg "Sixth Generation")DaraOfOfOfBenedict: CourtsOfChaos in the care of the healers guild?
- + ![Fourth Generation](4thgen.svg "Fourth Generation")TheraatOfVale: Whereabouts Unknown. Theraat is originally from an alternate universe; her father Vale is the son of that CaineOfOberon.
- + ![Fourth Generation](4thgen.svg "Fourth Generation")![Fifth Generation](5thgen.svg "Fifth Generation")FaytheOfBrand: FerethynsWays at tea.
+ + ![Sixth Generation](6thgen.svg "Sixth Generation")[Dara](DaraOfOfOfBenedict): [Courts of Chaos](CourtsOfChaos) in the care of the healers guild?
+ + ![Fourth Generation](4thgen.svg "Fourth Generation")TheraatOfVale: Whereabouts Unknown. Theraat is originally from an alternate universe; her father Vale is the son of that universe's [Caine](CaineOfOberon).
+ + ![Fourth Generation](4thgen.svg "Fourth Generation")![Fifth Generation](5thgen.svg "Fifth Generation")[Faythe](FaytheOfCeleste): [Ferethyn's ways](FerethynWays) at tea.
  + ![Fourth Generation](4thgen.svg "Fourth Generation")![Fifth Generation](5thgen.svg "Fifth Generation")FeliceOfBrand: FerethynsWays at tea.
  + ![Third Generation](3rdgen.svg "Third Generation")MikailOfOberon: In a scale, held by [Shiryu](RealmsMasterShiryu) for later study.
  + ![Fourth Generation](4thgen.svg "Fourth Generation")![Fifth Generation](5thgen.svg "Fifth Generation")BrandtOfBrand: CourtsOfChaos outside the door that LlewellaOfOberon is behind.
  + ![Fourth Generation](4thgen.svg "Fourth Generation")![Fifth Generation](5thgen.svg "Fifth Generation")[Brendhyn Hastur](BrendhynOfBrand): Missing, orchestrated by LlewellaOfOberon.
- + ![Fourth Generation](4thgen.svg "Fourth Generation")![Seventh Generation](7thgen.svg "Seventh Generation")MerlinOfCorwin: Blown to bits in the [Spiral Explosion](SpiralExplosion).
- + ![Fourth Generation](4thgen.svg "Fourth Generation")AmaranthOfFlorimel: [Darkover](DarkoverPromontory) Running the [Mages](MagesGuild) [Guild](ChaosGuilds).
- + ![Fourth Generation](4thgen.svg "Fourth Generation")CathrynOfRandom: JewelOfJudgement, after [Gwen](GwenOfDworkin)'s guardian hound was gated into her room in Rebma.
+ + ![Fourth Generation](4thgen.svg "Fourth Generation")![Seventh Generation](7thgen.svg "Seventh Generation")[Merlin](MerlinOfCorwin): Blown to bits in the [Spiral Explosion](SpiralExplosion).
+ + ![Fourth Generation](4thgen.svg "Fourth Generation")[Amaranth](AmaranthOfFlorimel): [Darkover](DarkoverPromontory) Running the [Mages](MagesGuild) [Guild](ChaosGuilds).
+ + ![Fourth Generation](4thgen.svg "Fourth Generation")CathrynOfRandom: [dead in the Jewel](JewelOfJudgement), after [Gwen](GwenOfDworkin)'s guardian hound was gated into her room in Rebma.
  + ![Fifth Generation](5thgen.svg "Fifth Generation")![Sixth Generation](6thgen.svg "Sixth Generation")DesiliraOfBrandt: Used up for [Clarissa](ClarissaOfDarkover) defending [Darkover](Darkover Promontory).
  + ![Fifth Generation](5thgen.svg "Fifth Generation")![Sixth Generation](6thgen.svg "Sixth Generation")ValdynOfFaythe: Used up by [Clarissa](ClarissaOfDarkover) defending [Darkover](DarkoverPromontory).
  + ![Fifth Generation](5thgen.svg "Fifth Generation")![Sixth Generation](6thgen.svg "Sixth Generation")RobertoOfBrendhyn: Used up by [Clarissa](ClarissaOfDarkover) defending [Darkover](DarkoverPromontory).
- + ![Fourth Generation](4thgen.svg "Fourth Generation")![Fourth Generation](4thgen.svg "Fourth Generation")CassandraOfCorwin: [Pearl](CorwinPromontory).
+ + ![Fourth Generation](4thgen.svg "Fourth Generation")![Fourth Generation](4thgen.svg "Fourth Generation")[Cassandra](CassandraOfCorwin): [Pearl](CorwinPromontory).
  + ![Fifth Generation](5thgen.svg "Fifth Generation")![Sixth Generation](6thgen.svg "Sixth Generation")CharynnaOfBrandt: Used up by [Clarissa](ClarissaOfDarkover) defending [Darkover](DarkoverPromontory).
  + ![Fifth Generation](5thgen.svg "Fifth Generation")![Sixth Generation](6thgen.svg "Sixth Generation")AlicynaOfBrendhyn: Used up by [Clarissa](ClarissaOfDarkover) defending [Darkover](DarkoverPromontory).
- + ![Fourth Generation](4thgen.svg "Fourth Generation")JeanOfFlorimel: Everywhere.
+ + ![Fourth Generation](4thgen.svg "Fourth Generation")[Jean](JeanOfFlorimel): Everywhere except Pearl.
  + ![Sixth Generation](6thgen.svg "Sixth Generation")PaulOfFerenc (skatepunk): [Darkover](DarkoverPromontory) doing world-settling logistics.
  + ![Sixth Generation](6thgen.svg "Sixth Generation")![Sixth Generation](6thgen.svg "Sixth Generation")KieronOfCaelin: SerpentsAntechamber being babysat.
- + ![Second Generation](2ndgen.svg "Second Generation")FerroOfDworkin: Died in the Pattern Redraw at the end of the [Shadow Purge](ShaodwPurge). Theoretically in the eye-socket of the [Serpent](SerpentOfChaos), to be reunited with family when the [Eye of the Serpent](JewelOfJudgement) is returned.
+ + ![Second Generation](2ndgen.svg "Second Generation")[Ferro](FerroOfDworkin): Died in the Pattern Redraw at the end of the [Shadow Purge](ShadowPurge). Theoretically in the eye-socket of the [Serpent](SerpentOfChaos), to be reunited with family when the [Eye of the Serpent](JewelOfJudgement) is returned.
  + ![Sixth Generation](6thgen.svg "Sixth Generation")BartOfSamantha: Smear on the floor of the [Assassans](AssassinsGuild) [Guild](ChaosGuilds) thanks to the [Black Council](BlackCouncil).
  + ![Third Generation](3rdgen.svg "Third Generation")WhendyOfFerro: Missing in [Shadow Purge](ShadowPurge).
  + ![Fourth Generation](4thgen.svg "Fourth Generation")DuncanOfGerard: NortonsHead dead, but there anyway.
@@ -99,14 +99,14 @@ This is a dot-generated picture (dot -Tsvg LocalAmberFamily.gv -o LocalAmberFami
 
 ## Currently unknowable age order:
 
- + AuricleOfTir: [Greater Arden](GreaterArden) (or just pulled away into something ... as usual).
- + CountCagliostro: [Darkover](DarkoverPromontory) doing world-settling logistics.
+ + [Auricle](AuricleOfTir): [Greater Arden](GreaterArden) (or just pulled away into something ... as usual).
+ + [Count Alessandro Cagliostro](CountCagliostro): [Darkover](DarkoverPromontory) doing world-settling logistics.
  + [Mistress Janice](JaniceOfCagliostro): [Darkover](DarkoverPromontory) doing world-settling logistics.
 
 ## I don't know the age-order of these ... help?
 
  + ![Second Generation](2ndgen.svg "Second Generation")[Gwen](GwenOfDworkin): In the process of Resurrection Number 6 (Unless [King](KingOfAmber) [Deirdre](DeirdreOfOberon) has a say in the matter. (Somewhere between Brand and Mikail)
- + ![Fourth Generation](4thgen.svg "Fourth Generation")HubertOfCorwin: In the [Jewel of Judgement](JewelOfJudgement) awaiting re-construction by [Norton, Court Necromancer](NortonOfBeastmasters), disassembled at the [Assassans](AssassinsGuild) [Guild](ChaosGuilds) by the [Black Council](BlackCouncil). (While Corwin didn't have his memory on Shadow Earth I believe)
+ + ![Fourth Generation](4thgen.svg "Fourth Generation")HubertOfCorwin: In the [Jewel of Judgement](JewelOfJudgement) awaiting re-construction by [Norton, Court Necromancer](NortonOfBeastmasters), disassembled at the [Assassins](AssassinsGuild) [Guild](ChaosGuilds) by the [Black Council](BlackCouncil). (While Corwin didn't have his memory on Shadow Earth I believe)
  + ![Fourth Generation](4thgen.svg "Fourth Generation")RolandOfCorwin: [Darkover](DarkoverPromontory) doing world-settling logistics. (From another chord, so hard to tell)
  + ![Fifth Generation](5thgen.svg "Fifth Generation")SamanthaOfHubert: [Darkover](DarkoverPromontory) running her city, Terra Port. (Not that far in the past, since she thinks herself not overly old for a human, well within her peers age.)
  + ![Fourth Generation](4thgen.svg "Fourth Generation")FrodrichOfLlewella: Missing in [Shadow Purge](ShadowPurge).

@@ -1,0 +1,29 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DDTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="30em" height="30em">
+  <defs>
+    <marker id="startarrow" markerWidth="10" markerHeight="7" 
+    refX="9" refY="3.5" orient="auto">
+      <polygon points="10 0, 10 7, 0 3.5" />
+    </marker>
+    <marker id="endarrow" markerWidth="10" markerHeight="7" 
+    refX="9" refY="3.5" orient="auto" markerUnits="strokeWidth">
+        <polygon points="0 0, 10 3.5, 0 7" />
+    </marker>
+  </defs>
+  <line x1="110" y1="50" x2="240" y2="50" stroke="#000" stroke-width="2" 
+  marker-end="url(#endarrow)" marker-start="url(#startarrow)" />
+  <line x1="230" y1="65" x2="95" y2="185" stroke="#000" stroke-width="2" 
+  marker-end="url(#endarrow)" marker-start="url(#startarrow)" />
+  <line x1="105" y1="65" x2="240" y2="185" stroke="#000" stroke-width="2" 
+  marker-end="url(#endarrow)" marker-start="url(#startarrow)" />
+  <line x1="110" y1="190" x2="240" y2="190" stroke="#000" stroke-width="2" 
+  marker-end="url(#endarrow)" marker-start="url(#startarrow)" />
+  <line x1="90" y1="70" x2="90" y2="185" stroke="#000" stroke-width="2" 
+  marker-end="url(#endarrow)" marker-start="url(#startarrow)" />
+  <line x1="245" y1="70" x2="245" y2="185" stroke="#000" stroke-width="2" 
+  marker-end="url(#endarrow)" marker-start="url(#startarrow)" />
+  <text font-family="Verdana" x="250" y="55" stroke-width="4">Dream</text>
+  <text font-family="Verdana" x="60" y="55" stroke-width="4">Life</text>
+  <text font-family="Verdana" x="250" y="195" stroke-width="4">Unalive</text>
+  <text font-family="Verdana" x="35" y="195" stroke-width="4">Undeath</text>
+</svg>

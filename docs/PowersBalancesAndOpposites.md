@@ -38,7 +38,7 @@ This is a quick summary of powers as understood by the players, so expect incomp
 | ------------------- |
 | Pattern opposes Logrus |
 | Magic opposes Bibliomancy |
-| Life (Matrix) balances Dream (Faerie) and in fact Life, Dream, Unlife and Undeath are in an unsteady balance |
+| ![Life (Matrix) balances Dream (Faerie) and in fact Life, Dream, Unlife and Undeath are in an unsteady balance](BalancedPowers.svg "Life-Matrix/Dream-Faerie/Unlife/Undeath") |
 | Fringe opposes Blucite |
 
 ---

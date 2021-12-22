@@ -3,7 +3,7 @@
 > Then there was Benedict, tall and dour, thin, thin of body, thin
 of face, wide of mind. He wore orange and yellow and brown and
 reminded me of haystacks and pumpkins and scarecrows and the
-__Legend of Sleepy Hollow__. He had a long strong jaw and hazel
+<u>Legend of Sleepy Hollow</u>. He had a long strong jaw and hazel
 eyes and brown hair that never curled. He stood beside a tan horse
 and leaned upon a lance about which was twined a rope of
 flowers. He seldom laughed. I liked him.

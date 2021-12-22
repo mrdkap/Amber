@@ -36,7 +36,7 @@ This is a quick summary of powers as understood by the players, so expect incomp
 
 | Powers and balances |
 | ------------------- |
-| Pattern opposes Logrus |
+| ![Pattern-Jewel of Judgement vs Logrus-Serpent](patternVlogrus.svg "Pattern-Jewel of Judgement vs Logrus-Serpent") |
 | Magic opposes Bibliomancy |
 | ![Life (Matrix) balances Dream (Faerie) and in fact Life, Dream, Unlife and Undeath are in an unsteady balance](BalancedPowers.svg "Life-Matrix/Dream-Faerie/Unlife/Undeath") |
 | Fringe opposes Blucite |

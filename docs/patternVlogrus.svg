@@ -1,0 +1,15 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DDTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="310" height="220">
+  <circle cx="105" cy="110" r="100" style="fill:pink;stroke:black;stroke-width:3;fill-opacity:.5" />
+  <circle cx="205" cy="110" r="100" style="fill:lightblue;stroke:black;stroke-width:3;fill-opacity:.5" />
+  <ellipse cx="105" cy="110" rx="90" ry="30" style="fill:red;stroke:purple;stroke-width:2;fill-opacity:.5" />
+  <ellipse cx="205" cy="110" rx="90" ry="30" style="fill:blue;stroke:purple;stroke-width:2;fill-opacity:.5" />
+  <text font-family="Verdana" x="50" y="60">Logrus</text>
+  <text font-family="Verdana" x="40" y="115">Serpent</text>
+  <text font-family="Verdana" x="135" y="70">on fire</text>
+  <text font-family="Verdana" x="135" y="115" fill="white">BOOM</text>
+  <text font-family="Verdana" x="220" y="115">Jewel</text>
+  <text font-family="Verdana" x="125" y="155">somehow</text>
+  <text font-family="Verdana" x="140" y="170">fine</text>
+  <text font-family="Verdana" x="210" y="170">Pattern</text>
+</svg>

@@ -1,7 +1,7 @@
 ## Caelin
-> (And Cailin was involved and things got worse...)
+> (And Caelin was involved and things got worse...)
 
-Caelin, son of [Laetatio](LaetatioOfRandom) and Circe of [EarthSea].
+Caelin, son of [Laetatio](LaetatioOfRandom) and Circe of [EarthSea](EarthSea).
 
 Caelin is the head of [House Moonlight](HouseMoonlight), a Chaosian house created in
 a fit of pique by his grandmother Princess Chandra when another

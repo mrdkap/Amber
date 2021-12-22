@@ -1,0 +1,8 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DDTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="290" height="70">
+  <ellipse cx="95" cy="35" rx="90" ry="30" style="fill:yellow;stroke:red;stroke-width:2;fill-opacity:.5" />
+  <ellipse cx="195" cy="35" rx="90" ry="30" style="fill:lightblue;stroke:red;stroke-width:2;fill-opacity:.5" />
+  <text font-family="Verdana" x="50" y="40">Fringe</text>
+  <text font-family="Verdana" x="120" y="40">BOOM</text>
+  <text font-family="Verdana" x="200" y="40">Blucite</text>
+</svg>

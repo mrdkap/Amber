@@ -59,6 +59,9 @@ And of course there are the Faerie Dragons:
 ## Magic
 {% include_relative TheSpiral.md %}
 
+### The Spiral Explosion
+{% include_relative SpiralExplosion.md %}
+
 ## Jewel Of Judgement
 {% include_relative JewelOfJudgement.md %}
 

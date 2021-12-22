@@ -3,7 +3,7 @@
 > Then there was Benedict, tall and dour, thin, thin of body, thin
 of face, wide of mind. He wore orange and yellow and brown and
 reminded me of haystacks and pumpkins and scarecrows and the
-_Legend of Sleepy Hollow_. He had a long strong jaw and hazel
+<u>Legend of Sleepy Hollow</u>. He had a long strong jaw and hazel
 eyes and brown hair that never curled. He stood beside a tan horse
 and leaned upon a lance about which was twined a rope of
 flowers. He seldom laughed. I liked him.
@@ -57,13 +57,11 @@ The master tactician of the family as well as the unmatched master of all martia
 
 Spent some time dealing as head of the [Chaosian](CourtsOfChaos) [Warrior's](WarriorsGuild) [Guild](ChaosGuilds), due to having slain the previous title holder.  This is an excerpt of a conversaton between Benedict and [Malachai](MalachaiOfCorwin):
 
-	Benedict: "Yes. Perhaps soon. I am told that I am considered head
-    of the Warrior's Guild in Chaos, and I would like to take over my
-    post there."
+> Benedict: "Yes. Perhaps soon. I am told that I am considered head of the Warrior's Guild in Chaos, and I would like to take over my post there."
 
-    Malachai: "How did that happen?"
+> Malachai: "How did that happen?"
 
-    Benedict: "I killed the previous head of the guild during the war."
+> Benedict: "I killed the previous head of the guild during the war."
 
 Killed and vivisected by an [alternate Benedict](EvilBenedict) from the [Evil-Verse](EvilAmber), then sealed in blucite, removed and rebuilt, then lost and found once again, and now doing the Family Thing. The [evil alternate Benedict](EvilBenedict) has apparently converted to righeousness, and was helping [Hamster Dworkin](WhoIsWhereHamsterites#dworkin) convert [Julian](JulianOfOberon).
 

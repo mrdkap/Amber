@@ -60,7 +60,7 @@ And of course there are the Faerie Dragons:
 {% include_relative TheSpiral.md %}
 
 ## Jewel Of Judgement
-{% include_relativeJewelOfJudgement.md %}
+{% include_relative JewelOfJudgement.md %}
 
 ## Pit Diving
 {% include_relative TheAbyss.md %}

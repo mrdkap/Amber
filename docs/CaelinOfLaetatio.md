@@ -1,3 +1,4 @@
+## Caelin
 Caelin, son of [Laetatio](LaetatioOfRandom) and Circe of [EarthSea].
 
 Caelin is the head of [House Moonlight](HouseMoonlight), a Chaosian house created in
@@ -15,3 +16,10 @@ Caelin has secretly acted as [Zorro's](ZorroOfAssassins) apprentice/sidekick.
 Caelin is one of two known player characters with a Warfare rank
 below Human; the other is [Jean](JeanOfFlorimel) but Caelin's "music nerd"
 rank is higher than Jean's "five year old" rank.
+
+## The Archivist
+
+An alternate Caelin from another reality is known as "The Archivist".
+The Archivist is a master of Bibliomancy.
+
+The Archivist is House Second of Houe Moonlight.

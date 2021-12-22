@@ -58,7 +58,9 @@ The master tactician of the family as well as the unmatched master of all martia
 Spent some time dealing as head of the [Chaosian](CourtsOfChaos) [Warrior's](WarriorsGuild) [Guild](ChaosGuilds), due to having slain the previous title holder.  This is an excerpt of a conversaton between Benedict and [Malachai](MalachaiOfCorwin):
 
 > Benedict: "Yes. Perhaps soon. I am told that I am considered head of the Warrior's Guild in Chaos, and I would like to take over my post there."
+
 > Malachai: "How did that happen?"
+
 > Benedict: "I killed the previous head of the guild during the war."
 
 Killed and vivisected by an [alternate Benedict](EvilBenedict) from the [Evil-Verse](EvilAmber), then sealed in blucite, removed and rebuilt, then lost and found once again, and now doing the Family Thing. The [evil alternate Benedict](EvilBenedict) has apparently converted to righeousness, and was helping [Hamster Dworkin](WhoIsWhereHamsterites#dworkin) convert [Julian](JulianOfOberon).

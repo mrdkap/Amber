@@ -1,6 +1,6 @@
 The Jewel of Judgement was once the eye of the [Serpent](SerpentOfChaos).  The [Serpent](SerpentOfChaos) only has one eye at large; all Jewels are linked.  (It's all Mathematics, as [Dworkin](DworkinOfAmber) would say.)
 
-The Jewel is apparently the respository for [Amberite](WhoIsWhereAmberites) souls; everyone else's souls go into the support for the promontory. Scales of the Dragon, or food for the Kraken.  There is some speculation that the entire eye-stealing incident may have been motivated by getting a better view after the universe ends.  The Jewel, fortunately or unfortunately, acts as a sort of "soul velcro", making it simple for the [Court Necromancer of Amber](NortonOfBeastmasters) to yank souls out of it and return [Amberites](WhoIsWhereAmberites) to life.
+The Jewel is apparently the repository for [Amberite](WhoIsWhereAmberites) souls; everyone else's souls go into the support for the [promontory](Cosmology). In some places that means those souls enter scales of the local Wyrm, in others they become food for the local Kraken.  There is some speculation that the entire eye-stealing incident may have been motivated by getting a better view after the universe ends.  The Jewel, fortunately or unfortunately, acts as a sort of "soul velcro", making it simple for the [Court Necromancer of Amber](NortonOfBeastmasters) to yank souls out of it and return [Amberites](WhoIsWhereAmberites) to life.
 
 Although there is only one Jewel, there are several [Amberites](WhoIsWhereAmberites) who have it.
 
@@ -10,4 +10,4 @@ Although there is only one Jewel, there are several [Amberites](WhoIsWhereAmberi
  1. Bucephalus, [Malachai's](MalachiOfCorwin) horse, has a Jewel, on his chest harness.
  1. Both [Janus](JanusOfIngold) and [Corwin](CorwinOfOberon) have been known to walk around with (the same set of) half a dozen Jewels.  (Where is this set now?  No one seems to know.)
 
-Despite rumors otherwise, there is no Frog of Judgement, no matter what the lineage of the BobaFrogs, and the Frogelorean armor might claim.
+Despite rumors otherwise, there is no Frog of Judgement, no matter what the lineage of the BobaFrogs, and the Frogdalorean armor might claim.

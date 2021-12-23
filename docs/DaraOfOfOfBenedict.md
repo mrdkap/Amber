@@ -11,7 +11,7 @@ into fathering Merlin
 2. As a Tir ghost, while speaking to Corwin in _Sign of the Unicorn_:
 > "I am the great-granddaughter of Benedict and the hellmaid Lintra, whom he loved and later slew." Benedict winces at this, but She continues. "I never knew her. My mother and my mother's mother were born in a place where time does not run as in Amber. I am the first of my mother's line to bear all the marks of humanity. And you, Lord Corwin, are but a ghost from a long dead past, albeit a dangerous shade. How you came here, I do not know. But it was wrong of you. Return to your grave. Trouble not the living."
 
-Dara is considered to be Benedict's descendant and [Lintra's](LintraOfHendrake) grandchild through [Triumph](TriumphOfBenedict) and Triump's unnamed child. 
+Dara is considered to be Benedict's descendant and [Lintra's](LintraOfHendrake) great-grandchild through [Triumph](TriumphOfBenedict) and Triump's unnamed child. 
 
 ## Dara's History
 

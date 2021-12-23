@@ -1,4 +1,4 @@
-The Jewel of Judgement was once the eye of the [Serpent](SerpentOfChaos).  The [Serpent](SerpentOfChaos) only has one eye at large; all Jewels are linked.  (It's all Mathematics, as [Dworkin](DworkinOfAmber) would say.)
+The Jewel of Judgement was once the eye of the [Serpent](SerpentOfChaos).  The [Serpent](SerpentOfChaos) only has one eye at large; all Jewels are linked.  (It's all [Mathematics](PowersBalancesAndOpposites#mathematics), as [Dworkin](DworkinOfAmber) would say.)
 
 The Jewel is apparently the repository for [Amberite](WhoIsWhereAmberites) souls; everyone else's souls go into the support for the [promontory](Cosmology). In some places that means those souls enter scales of the local Wyrm, in others they become food for the local Kraken.  There is some speculation that the entire eye-stealing incident may have been motivated by getting a better view after the universe ends.  The Jewel, fortunately or unfortunately, acts as a sort of "soul velcro", making it simple for the [Court Necromancer of Amber](NortonOfBeastmasters) to yank souls out of it and return [Amberites](WhoIsWhereAmberites) to life.
 

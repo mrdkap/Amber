@@ -5,6 +5,7 @@
  + [Zorro](ZorroOfAssassins), formerly the apprentice to [Princess Chandra](PrincessChandraOfAssassins), kills [House Swayvill](HouseSwayvill).  [Jean](JeanOfFlorimel) takes over the remnants of the house. [Log](//web.mit.edu/~dskern/www/amber/log990119.html#jeasway)
  + With the support of [Ilk](IlkandacianOfCara) and others, [Neville](NevilleOfEric) of [House Helgram](HouseHelgram) participates in a successful coup in his house, becoming the new House Second and placing an ally as House Head.
  + [Silver Lyra](SilverLyra) is crowned the [King of Chaos](KingOfChaos), replacing the absent (and presumably deceased) [Jance](JanceOfPhilosophers)
+
 ## [Shiryu](RealmsmasterShiryu) Threatens to Reboot Reality
 ### (Killing [Gwen](GwenOfDworkin), take 1)
  + [Realms Master Shiryu](RealmsMasterShiryu) investigates the [Golden Circle Kingdom of Begma](GoldenCircleKingdoms), and wipes it to its foundation.  Angry at the situation with [Gwen](GwenOfDworkin), Shiryu threatens to wipe reality clean and restart it if the problem isn't taken care of. [log](//web.mit.edu/~dskern/www/amber/log990706.html)

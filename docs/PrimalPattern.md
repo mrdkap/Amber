@@ -1,4 +1,4 @@
-The Primal Pattern is still a secret, and not known to most of the multiverse.  The Primal Pattern was originally scribed by [Dworkin](DworkinOfAmber) on the promontory [Kolvir](KolvirPromontory) with the [Jewel of Judgement](JewelOfJudgement).  The creation of the Pattern also created [Shadow](ShadowPlaces).
+The Primal Pattern was still a secret, and it's successor still mostly is, and not known to most of the multiverse.  The Primal Pattern was originally scribed by [Dworkin](DworkinOfAmber) on the promontory [Kolvir](KolvirPromontory) with the [Jewel of Judgement](JewelOfJudgement).  The creation of the Pattern also created [Shadow](ShadowPlaces). 
 
 This is now the [Neville](NevilleOfEric)/[Auricle](AuricleOfTir)/[Ferro](FerroOfDworkin) Pattern. This is due to some interesting circumstanses including:
  + Amberite Blood spilled on it

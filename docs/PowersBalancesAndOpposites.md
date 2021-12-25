@@ -50,11 +50,17 @@ More indepth on various powers:
 And of course there are the Faerie Dragons:
 {% include_relative FaerieDragons.md %}
 
+### Morganti Weapons
+{% include_relative MorgantiWeapon.md %}
+
 ## Fringe
 {% include_relative TheFringe.md %}
 
 ## Logrus
 {% include_relative TheLogrus.md %}
+
+### Logrus Blades
+{% include_relatvie LogrusBlades.md %}
 
 ## Magic
 {% include_relative TheSpiral.md %}
@@ -62,8 +68,37 @@ And of course there are the Faerie Dragons:
 ### The Spiral Explosion
 {% include_relative SpiralExplosion.md %}
 
-## Jewel Of Judgement
+## Pattern
+
+### The Primal Pattern
+{% include_relative PrimalPattern.md %}
+
+### The Pattern in the Castle
+{% include_relative KolvirPattern.md %}
+
+### The Pattern in Rebma
+{% include_relative RebmaPattern %}
+
+### The Pattern it Tir
+{% include_relative TirPattern.md %}
+
+### The New Primal Pattern
+{% include_relative NevilleAurilcePattern.md %}
+
+### Jewel Of Judgement
 {% include_relative JewelOfJudgement.md %}
+
+### An Alternate (and powerful) Pattern
+{% include_relative VariablePattern.md %}
+
+### The (now gone) SuperPattern
+{% include_relative SuperPattern.md %}
+
+### Corwin's Pattern
+(CorwinPattern information seems to be missing.)
+
+### Pattern Blades and Other Artifacts
+{% include_relative PatternBlades.md %}
 
 ## Pit Diving
 {% include_relative TheAbyss.md %}

@@ -77,16 +77,16 @@ And of course there are the Faerie Dragons:
 {% include_relative KolvirPattern.md %}
 
 ### The Pattern in Rebma
- include_relative RebmaPattern.md %}
+{% include_relative RebmaPattern.md %}
 
 ### The Pattern it Tir
- include_relative TirPattern.md %}
+{% include_relative TirPattern.md %}
 
 ### The New Primal Pattern
- include_relative NevilleAurilcePattern.md %}
+{% include_relative NevilleAurilcePattern.md %}
 
 ### Jewel Of Judgement
- include_relative JewelOfJudgement.md %}
+{% include_relative JewelOfJudgement.md %}
 
 ### An Alternate (and powerful) Pattern
  include_relative VariablePattern.md %}

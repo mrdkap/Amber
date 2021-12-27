@@ -45,66 +45,66 @@ This is a quick summary of powers as understood by the players, so expect incomp
 More indepth on various powers:
 
 ## Faerie
-{% include_relative TitaniaOfFaerie.md %}
+ include_relative TitaniaOfFaerie.md %}
 
 And of course there are the Faerie Dragons:
-{% include_relative FaerieDragons.md %}
+ include_relative FaerieDragons.md %}
 
 ### Morganti Weapons
-{% include_relative MorgantiWeapon.md %}
+ include_relative MorgantiWeapon.md %}
 
 ## Fringe
-{% include_relative TheFringe.md %}
+ include_relative TheFringe.md %}
 
 ## Logrus
-{% include_relative TheLogrus.md %}
+ include_relative TheLogrus.md %}
 
 ### Logrus Blades
-{% include_relatvie LogrusBlades.md %}
+ include_relatvie LogrusBlades.md %}
 
 ## Magic
-{% include_relative TheSpiral.md %}
+ include_relative TheSpiral.md %}
 
 ### The Spiral Explosion
-{% include_relative SpiralExplosion.md %}
+ include_relative SpiralExplosion.md %}
 
 ## Pattern
 
 ### The Primal Pattern
-{% include_relative PrimalPattern.md %}
+ include_relative PrimalPattern.md %}
 
 ### The Pattern in the Castle
-{% include_relative KolvirPattern.md %}
+ include_relative KolvirPattern.md %}
 
 ### The Pattern in Rebma
-{% include_relative RebmaPattern %}
+ include_relative RebmaPattern %}
 
 ### The Pattern it Tir
-{% include_relative TirPattern.md %}
+ include_relative TirPattern.md %}
 
 ### The New Primal Pattern
-{% include_relative NevilleAurilcePattern.md %}
+ include_relative NevilleAurilcePattern.md %}
 
 ### Jewel Of Judgement
-{% include_relative JewelOfJudgement.md %}
+ include_relative JewelOfJudgement.md %}
 
 ### An Alternate (and powerful) Pattern
-{% include_relative VariablePattern.md %}
+ include_relative VariablePattern.md %}
 
 ### The (now gone) SuperPattern
-{% include_relative SuperPattern.md %}
+ include_relative SuperPattern.md %}
 
 ### Corwin's Pattern
 (CorwinPattern information seems to be missing.)
 
 ### Pattern Blades and Other Artifacts
-{% include_relative PatternBlades.md %}
+ include_relative PatternBlades.md %}
 
 ## Pit Diving
-{% include_relative TheAbyss.md %}
+ include_relative TheAbyss.md %}
 
 ## Unlife
-{% include_relative UnLife.md %}
+ include_relative UnLife.md %}
 
 ## Void
-{% include_relative TheVoid.md %}
+ include_relative TheVoid.md %}

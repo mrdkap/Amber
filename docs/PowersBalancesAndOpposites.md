@@ -57,7 +57,7 @@ And of course there are the Faerie Dragons:
 {% include_relative TheFringe.md %}
 
 ## Logrus
- include_relative TheLogrus.md %}
+{% include_relative TheLogrus.md %}
 
 ### Logrus Blades
 {% include_relative LogrusBlade.md %}

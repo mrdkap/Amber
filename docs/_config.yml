@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
-title: {{ page.url }}
 logo: serpent-unicorn.jpg
 plugins:
   - jekyll-relative-links

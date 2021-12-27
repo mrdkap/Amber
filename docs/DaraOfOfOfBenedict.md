@@ -1,4 +1,4 @@
-An exerpt from __Guns of Avalon__
+From __Guns of Avalon__
 
 > "Dara," she replied. "My name is Dara, after my grandmother."
 

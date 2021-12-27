@@ -31,28 +31,27 @@ if Oberon had died and Corwin became the next King of Amber.
 ## Dara's canonical hatred of Amber
 From _Guns of Avalon_:
 >  The firefly form seemed to change shape as it moved. For a time, my senses kept rejecting the tiny subliminal glimpses that I knew must be coming through to me. I heard Random gasp beside me, and it seemed to breach my subconscious dam. A horde of impressions flooded my mind.
->
->   It seemed to tower hugely in that always unsubstantial-seeming chamber. Then shrink, die down, almost to nothing. It seemed a slim woman for a moment-possibly Dara, her hair lightened by the glow, streaming, crackling with static electricity. Then it was not hair, but great, curved horns from some wide, uncertain brow, whose crook-legged owner struggled to shuffle hoofs along the blazing way. Then something else . . . An enormous cat . . . A faceless woman . . . A bright-winged thing of indescribable beauty . . . A tower of ashes . . .
->
->   "Dara!" I cried out. "Is that you?"
->
->   My voice echoed back, and that was all. Whoever/ whatever it was struggled now with the Final Veil. My muscles strained forward in unwilling sympathy with the effort.
->
->   Finally, it burst through.
->
->   Yes, it was Dara! Tall and magnificent now. Both beautiful and somehow horrible at the same time. The sight of her tore at the fabric of my mind. Her arms were upraised in exultation and an inhuman laughter flowed from her lips. I wanted to look away, yet I could not move. Had I truely held, caressed, made love to-that? I was mightily repelled and simultaneously attracted as I had never been before. I could not understand this overwhelming ambivalence. Then she looked at me.
->
->   The laughter ceased. Her altered voice rang out. "Lord Corwin, are you liege of Amber now?" 
->
->    From somewhere, I managed a reply. "For all practical purposes," I said. 
->
->    "Good! Then behold your nemesis!" 
->
->    "Who are you? What are you?"
->
->    "You will never know," she said. "It is just exactly too late now."
->
->    "I do not understand. What do you mean?" 
->
->    "Amber," she said, "will be destroyed." And she vanished.
 
+>   It seemed to tower hugely in that always unsubstantial-seeming chamber. Then shrink, die down, almost to nothing. It seemed a slim woman for a moment-possibly Dara, her hair lightened by the glow, streaming, crackling with static electricity. Then it was not hair, but great, curved horns from some wide, uncertain brow, whose crook-legged owner struggled to shuffle hoofs along the blazing way. Then something else . . . An enormous cat . . . A faceless woman . . . A bright-winged thing of indescribable beauty . . . A tower of ashes . . .
+
+>   "Dara!" I cried out. "Is that you?"
+
+>   My voice echoed back, and that was all. Whoever/ whatever it was struggled now with the Final Veil. My muscles strained forward in unwilling sympathy with the effort.
+
+>   Finally, it burst through.
+
+>   Yes, it was Dara! Tall and magnificent now. Both beautiful and somehow horrible at the same time. The sight of her tore at the fabric of my mind. Her arms were upraised in exultation and an inhuman laughter flowed from her lips. I wanted to look away, yet I could not move. Had I truely held, caressed, made love to-that? I was mightily repelled and simultaneously attracted as I had never been before. I could not understand this overwhelming ambivalence. Then she looked at me.
+
+>   The laughter ceased. Her altered voice rang out. "Lord Corwin, are you liege of Amber now?" 
+
+>    From somewhere, I managed a reply. "For all practical purposes," I said. 
+
+>    "Good! Then behold your nemesis!" 
+
+>    "Who are you? What are you?"
+
+>    "You will never know," she said. "It is just exactly too late now."
+
+>    "I do not understand. What do you mean?" 
+
+>    "Amber," she said, "will be destroyed." And she vanished.

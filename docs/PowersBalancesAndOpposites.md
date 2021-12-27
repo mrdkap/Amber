@@ -83,10 +83,10 @@ And of course there are the Faerie Dragons:
 {% include_relative TirPattern.md %}
 
 ### The New Primal Pattern
- include_relative NevilleAurilcePattern.md %}
+{% include_relative NevilleAuriclePattern.md %}
 
 ### Jewel Of Judgement
- include_relative JewelOfJudgement.md %}
+{% include_relative JewelOfJudgement.md %}
 
 ### An Alternate (and powerful) Pattern
  include_relative VariablePattern.md %}

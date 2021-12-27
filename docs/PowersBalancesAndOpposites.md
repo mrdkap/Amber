@@ -45,16 +45,16 @@ This is a quick summary of powers as understood by the players, so expect incomp
 More indepth on various powers:
 
 ## Faerie
- include_relative TitaniaOfFaerie.md %}
+{% include_relative TitaniaOfFaerie.md %}
 
 And of course there are the Faerie Dragons:
- include_relative FaerieDragons.md %}
+{% include_relative FaerieDragons.md %}
 
 ### Morganti Weapons
- include_relative MorgantiWeapon.md %}
+{% include_relative MorgantiWeapon.md %}
 
 ## Fringe
- include_relative TheFringe.md %}
+{% include_relative TheFringe.md %}
 
 ## Logrus
  include_relative TheLogrus.md %}

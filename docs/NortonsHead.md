@@ -1,0 +1,1 @@
+One of the first "Locked Room Parties" taking place in [Norton](NortonOfBeastmasters) actual head, it was a safe space for a while, until [Ilk](IlkandacianOfCara) installed an ejection method.  The birthplace of the [Saucer Jeans](JeanOfFlorimel) as well as other abominations and stories about head people.

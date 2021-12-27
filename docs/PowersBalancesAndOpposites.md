@@ -60,7 +60,7 @@ And of course there are the Faerie Dragons:
  include_relative TheLogrus.md %}
 
 ### Logrus Blades
-{% include_relatvie LogrusBlade.md %}
+{% include_relative LogrusBlade.md %}
 
 ## Magic
 {% include_relative TheSpiral.md %}
@@ -77,7 +77,7 @@ And of course there are the Faerie Dragons:
 {% include_relative KolvirPattern.md %}
 
 ### The Pattern in Rebma
- include_relative RebmaPattern %}
+ include_relative RebmaPattern.md %}
 
 ### The Pattern it Tir
  include_relative TirPattern.md %}

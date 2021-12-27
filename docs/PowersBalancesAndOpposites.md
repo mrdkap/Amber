@@ -98,7 +98,7 @@ And of course there are the Faerie Dragons:
 {% include_relative CorwinPattern.md %}
 
 ### Pattern Blades and Other Artifacts
-{% include_relative PatternBlades.md %}
+{% include_relative PatternBlade.md %}
 
 ## Pit Diving
 {% include_relative TheAbyss.md %}

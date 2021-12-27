@@ -63,10 +63,10 @@ And of course there are the Faerie Dragons:
 {% include_relatvie LogrusBlade.md %}
 
 ## Magic
-{% include_relative TheSpiral.md %}
+ include_relative TheSpiral.md %}
 
 ### The Spiral Explosion
-{% include_relative SpiralExplosion.md %}
+ include_relative SpiralExplosion.md %}
 
 ## Pattern
 

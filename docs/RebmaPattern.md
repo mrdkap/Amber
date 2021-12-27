@@ -1,1 +1,0 @@
-This reflection of the [Primal Pattern](PrimalPattern) was pulled out of Rebma by [Caelin](CaelinOfLaetatio) and used to batter the [Anti-Dragons](AntiDragons) out of existence.  It's removal was a major factor in the destruction of Rebma.

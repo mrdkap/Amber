@@ -1,1 +1,0 @@
-This pattern was pulled from Tir by [Caelin](CaelinOfLaetatio) to help combat the [Anti-Dragons](AntiDragons).  Tir is no longer accessible due to this, but [Jean](JeanOfFlorimel) is still somewhere in Tir.

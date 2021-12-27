@@ -1,1 +1,0 @@
-Pretty much what it says on the lable.  It's a spell that melts [Chaos Demons](ChaosDemons).  Popularized by [Ilk](IlkandacianOfCara) after [Chaos](CourtsOfChaos) was being filled with them.  An alternative to being turned into matresses.

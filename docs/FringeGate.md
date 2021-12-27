@@ -1,3 +1,0 @@
-A circular hoop (sometimes visible, sometimes not) that acts as a connection to the [Fringe](PowersBalancesAndOpposites). Only the rare minority of people (shadow or Real) are "Fringeworthy" and can enter the [Fringe](PowersBalancesAndOpposites) unassisted.  It is rumored that exposure to fringe crystals (which have various utilities on the fringe) can increase one's fringeworthyness (if that's even a word). 
-
-The closest Fringe Gate to [Chaos](CourtsOfChaos) was in the [Abyss](TheAbyss), where [Osric](OsricOfChanicut) found it Pit Diving.  When the [Abyss](TheAbyss) was closed in the [Shadow Purge](ShadowPurge), that gate was presumed lost.

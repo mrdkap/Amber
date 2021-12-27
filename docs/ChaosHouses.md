@@ -26,7 +26,7 @@ The [last recorded](http://web.mit.edu/~dskern/www/amber/log020709.html#sect1) l
 1. <a name="corona"></a>Corona
 1. <a name="ganda"></a>Ganda
 1. <a name="darbin"></a>Darbin
-1. <a name="xartys"></a>Xartys
+1. <a name="xartys"></a>[Xartys](HouseXartys) - Currently somewhat allied with Cara, after their duel.
 1. <a name="helgram"></a>[Helgram](HouseHelgram) - since Helgram was physically moved to Amber, it may no longer be a Chaosian house.  House of the late [Neville, aka King Eric II](NevilleOfEric)
 1. <a name="yigrin"></a>Yigrin
 1. <a name="moonlight"></a>[Moonlight](HouseMoonlight), a house formed by [PrincessChandra](PrincessChandraOfAssassin) and composed of her descendants and others.  It is reluctantly led by [Caelin](CaelinOfLaetatio)
@@ -66,3 +66,6 @@ There are many more minor houses, including [Demon](ChaosDemon) Houses.  There w
 
 ## Swayvill
 {% include_relative HouseSwayvill.md %}
+
+## Xartys
+{% include_relative HouseXartys.md %}

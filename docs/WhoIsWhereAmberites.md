@@ -43,6 +43,8 @@ This is a dot-generated picture (dot -Tsvg LocalAmberFamily.gv -o LocalAmberFami
  + ![Fifth Generation](5thgen.svg "Fifth Generation")JanusOfIngold: [Darkover](DarkoverPromontory) doing world-settling logistics.
  + ![Third Generation](3rdgen.svg "Third Generation")LlewellaOfOberon: Blinded, muted, spayed, cut off from all power sources possible, and awaiting her fate after trying to take over the [Courts](CourtsOfChaos).
  + ![Third Generation](3rdgen.svg "Third Generation")BrandOfOberon: Used up by [Clarissa](ClarissaOfDarkover) defending [Darkover](DarkoverPromontory) , after dying by falling into the [Abyss](TheAbyss), being resurrected by [Celeste](CelesteOfBleys) as possibly the first rescue from the [Jewel](JewelOfJudgement).
+ + ![Fourth Generation](4thgen.svg "Fourth Generation")CaeralethienOfLlewella: Chopped to bits in the Rebma Debacle.
+ + ![Fourth Generation](4thgen.svg "Fourth Generation")[Frodrich](FrodrichOfLlewella): Showed up (reluctantly) for [Deirdre's](DeirdreOfOberon) coronation, and then disappeared back to wherever he was hiding, far away from Family.
  + ![Fourth Generation](4thgen.svg "Fourth Generation")[Neville](NevilleOfEric): (a.k.a. [King](KingOfAmber) Eric II of [Amber](ShadowKolvir) and the Great Savior of the [Golden Circle Kingdoms](GoldenCircleKingdoms)) Died in the Pattern Redraw at the end of the [Shadow Purge](ShaodwPurge). Theoretically in the eye-socket of the [Serpent](SerpentOfChaos), to be reunited with family when the [Eye of the Serpent](JewelOfJudgement) is returned.
  + ![Third Generation](3rdgen.svg "Third Generation")[Florimel](FlorimelOfOberon): (Flora) The [Courts of Chaos](CourtsOfChaos) last seen helping restructure [The Courts](CorutsOfChaos).
  + ![Fifth Generation](5thgen.svg "Fifth Generation")IseultOfAlhaserus: [Darkover](DarkoverPromontory) at the AngryChildrenTea.
@@ -109,8 +111,6 @@ This is a dot-generated picture (dot -Tsvg LocalAmberFamily.gv -o LocalAmberFami
  + ![Fourth Generation](4thgen.svg "Fourth Generation")HubertOfCorwin: In the [Jewel of Judgement](JewelOfJudgement) awaiting re-construction by [Norton, Court Necromancer](NortonOfBeastmasters), disassembled at the [Assassins](AssassinsGuild) [Guild](ChaosGuilds) by the [Black Council](BlackCouncil). (While Corwin didn't have his memory on Shadow Earth I believe)
  + ![Fourth Generation](4thgen.svg "Fourth Generation")RolandOfCorwin: [Darkover](DarkoverPromontory) doing world-settling logistics. (From another chord, so hard to tell)
  + ![Fifth Generation](5thgen.svg "Fifth Generation")SamanthaOfHubert: [Darkover](DarkoverPromontory) running her city, Terra Port. (Not that far in the past, since she thinks herself not overly old for a human, well within her peers age.)
- + ![Fourth Generation](4thgen.svg "Fourth Generation")FrodrichOfLlewella: Missing in [Shadow Purge](ShadowPurge).
- + ![Fourth Generation](4thgen.svg "Fourth Generation")CaeralethienOfLlewella: Missing in [Shadow Purge](ShadowPurge).
  + ![Sixth Generation](6thgen.svg "Sixth Generation")CallaOfJanus: [Darkover](DarkoverPromontory) doing world-settling logistics. (check with the player)
  + ![Fifth Generation](5thgen.svg "Fifth Generation")FerencNadasdyOfRaven (vampire): [Darkover](DarkoverPromontory) doing world-settling logistics. (Have to figure out Norton's timeline, and when Raven might have been fighing with K'rin)
  + ![Fourth Generation](4thgen.svg "Fourth Generation")[Gerard](GerardOfOberon)'s as yet unnamed "evil" son: Missing in the [Shadow Purge](ShadowPurge).

@@ -64,7 +64,7 @@ This is a dot-generated picture (dot -Tsvg LocalAmberFamily.gv -o LocalAmberFami
  + ![Fifth Generation](5thgen.svg "Fifth Generation")[Caelin](CaelinOfLaetatio): CobaltPromontory dealing with the wearing of the reality there.
  + ![Fifth Generation](5thgen.svg "Fifth Generation")CaelinOfLaetatio (backup copy): [Grey Sphere](GreySphere) on the desk of [Princess Chandra](PrincessChandraOfAssassins) in the AssassinsGuild.
  + ![Fifth Generation](5thgen.svg "Fifth Generation")(ex-) CaelinOfLaetatio: SeaOfChance and expiated due to a fungo-bat.
- + ![Fourth Generation](4thgen.svg "Fourth Generation")AlisterOfBleys: [dead, inside the Jewel of Judgement](JewelOfJudgement)
+ + ![Fourth Generation](4thgen.svg "Fourth Generation")[Alistair](AlistairOfBleys): dead, inside the [Jewel of Judgement](JewelOfJudgement) due to saving his [father](BleysOfOberon) from [Mikail](MikailOfOberon).
  + ![Seventh Generation](7thgen.svg "Seventh Generation")AbsalomOfGil: [Darkover](DarkoverPromontory) doing world-settling logistics.
  + ![Fourth Generation](4thgen.svg "Fourth Generation")VelariaOfGerard: Whereabouts Unknown.
  + ![Sixth Generation](6thgen.svg "Sixth Generation")[Al-Nazir](AlNazirOfNazirdin): [Darkover](DarkoverPromontory) doing world-settling logistics.

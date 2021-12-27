@@ -7,4 +7,4 @@ Several folks have managed to walk Corwin's pattern:
  + [Corwin](CorwinOfOberon)
  + [Deirdre](DeirdreOfOberon)
  + [Cassandra](CassandraOfCorwin)
- + [Cassandra](CassandraOfCorwin)'s idiot son known only as "The Rider"
+ + [Cassandra](CassandraOfCorwin)'s idiot son known only as "The Rider/The Head"

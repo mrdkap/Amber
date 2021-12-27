@@ -1,5 +1,7 @@
 Alistair, (bastard) son of [Bleys](BleysOfOberon) and Rezelda a (beautiful blond) Trundy of Tarmac.
 
+| Trait        | Value    |
+| --: | :-- |
 | Height       | 6'2"     |
 | Weight       | 225lbs   |
 | Build        | Athletic |

@@ -58,4 +58,4 @@ Tirellian, Dalmas, and Wyndham are sisters, and often are mistaken for triplets,
 {% include_relative PsionicistsGuild.md %}
 
 ## Warriors
- include_relative WarriorsGuild.md %}
+{% include_relative WarriorsGuild.md %}

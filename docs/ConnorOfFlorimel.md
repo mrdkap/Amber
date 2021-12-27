@@ -1,0 +1,1 @@
+Connor is currently a statue in the Gardens of Amber.  He's not actually a statue, but, in a really slow time-bubble, until someone can figure out how to keep the impending doom that is about to impend from perforating him.  Trumping him has been discovered to be a really bad idea.

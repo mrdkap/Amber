@@ -89,22 +89,22 @@ And of course there are the Faerie Dragons:
 {% include_relative JewelOfJudgement.md %}
 
 ### An Alternate (and powerful) Pattern
- include_relative VariablePattern.md %}
+{% include_relative VariablePattern.md %}
 
 ### The (now gone) SuperPattern
- include_relative SuperPattern.md %}
+{% include_relative SuperPattern.md %}
 
 ### Corwin's Pattern
-(CorwinPattern information seems to be missing.)
+{% include_relative CorwinPattern.md %}
 
 ### Pattern Blades and Other Artifacts
- include_relative PatternBlades.md %}
+{% include_relative PatternBlades.md %}
 
 ## Pit Diving
- include_relative TheAbyss.md %}
+{% include_relative TheAbyss.md %}
 
 ## Unlife
- include_relative UnLife.md %}
+{% include_relative UnLife.md %}
 
 ## Void
- include_relative TheVoid.md %}
+{% include_relative TheVoid.md %}

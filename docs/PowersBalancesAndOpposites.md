@@ -77,10 +77,10 @@ And of course there are the Faerie Dragons:
 {% include_relative KolvirPattern.md %}
 
 ### The Pattern in Rebma
-{% include_relative RebmaPattern %}
+ include_relative RebmaPattern %}
 
 ### The Pattern it Tir
-{% include_relative TirPattern.md %}
+ include_relative TirPattern.md %}
 
 ### The New Primal Pattern
  include_relative NevilleAurilcePattern.md %}

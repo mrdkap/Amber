@@ -60,7 +60,7 @@ And of course there are the Faerie Dragons:
 {$ include_relative TheLogrus.md %}
 
 ### Logrus Blades
-{% include_relatvie LogrusBlades.md %}
+{% include_relatvie LogrusBlade.md %}
 
 ## Magic
 {% include_relative TheSpiral.md %}

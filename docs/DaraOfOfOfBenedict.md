@@ -1,19 +1,18 @@
-# Dara
+An exerpt from __Guns of Avalon__
 
-From _Guns of Avalon_:
 > "Dara," she replied. "My name is Dara, after my grandmother."
 
 Dara is a Chaosian shapeshifter, member of [House Hendrake](HouseHendrake), recurring villain and committed enemy of Amber. She is also [Merlin's mother](MerlinOfCorwin).
 
 Although Dara claims descent from [Benedict](BenedictOfOberon) in two unreliable contexts:
-1. When lying to Corwin to gain access to the Pattern and to trick him
-into fathering Merlin
-2. As a Tir ghost, while speaking to Corwin in _Sign of the Unicorn_:
+1. When lying to Corwin to gain access to the Pattern and to trick him into fathering Merlin
+2. As a Tir ghost, while speaking to Corwin in __Sign of the Unicorn__:
+
 > "I am the great-granddaughter of Benedict and the hellmaid Lintra, whom he loved and later slew." Benedict winces at this, but She continues. "I never knew her. My mother and my mother's mother were born in a place where time does not run as in Amber. I am the first of my mother's line to bear all the marks of humanity. And you, Lord Corwin, are but a ghost from a long dead past, albeit a dangerous shade. How you came here, I do not know. But it was wrong of you. Return to your grave. Trouble not the living."
 
 Dara is considered to be Benedict's descendant and [Lintra's](LintraOfHendrake) great-grandchild through [Triumph](TriumphOfBenedict) and Triump's unnamed child. 
 
-## Dara's History
+### Dara's History
 
 Dara was trained in warfare by [Duke Borel of Chaos](BorelOfHendrake), the former guild
 second of the Warrior's Guild who Corwin slew in the final battle of
@@ -28,8 +27,10 @@ Dara brought Oberon's signet ring to Amber to announce his plans for
 the final battle of PatternFall, and was his choice for Corwin's queen
 if Oberon had died and Corwin became the next King of Amber.
 
-## Dara's canonical hatred of Amber
-From _Guns of Avalon_:
+### Dara's canonical hatred of Amber
+
+From __Guns of Avalon__:
+
 >  The firefly form seemed to change shape as it moved. For a time, my senses kept rejecting the tiny subliminal glimpses that I knew must be coming through to me. I heard Random gasp beside me, and it seemed to breach my subconscious dam. A horde of impressions flooded my mind.
 
 >   It seemed to tower hugely in that always unsubstantial-seeming chamber. Then shrink, die down, almost to nothing. It seemed a slim woman for a moment-possibly Dara, her hair lightened by the glow, streaming, crackling with static electricity. Then it was not hair, but great, curved horns from some wide, uncertain brow, whose crook-legged owner struggled to shuffle hoofs along the blazing way. Then something else . . . An enormous cat . . . A faceless woman . . . A bright-winged thing of indescribable beauty . . . A tower of ashes . . .

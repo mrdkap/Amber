@@ -1,6 +1,6 @@
 # Powers Balances and Opposites
 
-Over the course of two decades of Amber gaming, the players have learned, encountered and even created a wide variety of different major Powers.  These powers can be in opposition (explosives reaction when joined, like Pattern/Logrus) or in balance (no kaboom). Many of these powers are represented by a sigil drawn as a focus for that power, generically known as a Squiggle. Many squiggles have a custodian that is the focus and manager of that power, as Dworkin is to the Pattern and Suhuy to the Logrus.  Some powers can be taken partially, with the intent of representing beginner-level knowledge and with the plan of working up to the full power.  Partial powers are divided and priced on a case-by-case basis.
+Over the course of two decades of Amber gaming, the players have learned, encountered and even created a wide variety of different major Powers.  These powers can be in opposition (explosives reaction when joined, like Pattern/Logrus) or in balance (no kaboom). Many of these powers are represented by a sigil drawn as a focus for that power, generically known as a Squiggle. Many squiggles have a custodian that is the focus and manager of that power, as Dworkin is to the Pattern and Suhuy to the Logrus.  Some powers can be taken partially, with the intent of representing beginner-level knowledge and with the plan of working up to the full power.  Partial powers are divided and priced on a case-by-case basis. [Powers Point Cost Chart](PowersPoints)
 
 This is a quick summary of powers as understood by the players, so expect incomplete information and possibly incorrect theories.
 
@@ -44,6 +44,8 @@ This is a quick summary of powers as understood by the players, so expect incomp
 | ![Magic vs Bibliomancy](magicVbibliomancy.svg "Magic vs Bibliomancy") |
 | ![Life (Matrix) balances Dream (Faerie) and in fact Life, Dream, Unlife and Undeath are in an unsteady balance](BalancedPowers.svg "Life-Matrix/Dream-Faerie/Unlife/Undeath") |
 | ![Fringe vs Blucite](fringeVblucite.svg "Fringe vs Blucite") |
+
+{% include_relative PowersPoints.md %}
 
 ---
 More indepth on various powers:

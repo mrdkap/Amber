@@ -17,3 +17,5 @@ Gwen was defeated multiple times, and recovered from all but the last one:
  + At this last defeat, [Princess Chandra](PrincessChandraOfAssassins) placed Gwen's soul in a [Serpent scale](SerpentOfChaos).
 
 Gwen is currently presumed to be still dead, but to make sure [King](KingOfAmber) [Deirdre](DeirdreOfOberon) is leading an "Anti-Resurrection Hunt" across all known spaces.
+
+![This is the Ruth Thompson art named "On The Wings Of Night" that Gwen is based on](Gwen.gif "This is the Ruth Thompson art named "On The Wings Of Night" that Gwen is based on")

@@ -2,7 +2,7 @@ Rilga, Queen both in terms of inheritance, and of her own right, as proof of her
 
 After [Clarissa](ClarissaOfDarkover) left [Oberon](OberonOfDworkin) for the company of [Dworkin](DworkinOfAmber) he went back to Rilga to soothe his ego. She accepted him back on her terms, managed two more children with him, across the years, and eventually was shunned by [Oberon](OberonOfDworkin), since Rilga was now "too old".
 
-Rilga did have the delight of having her son [Caine](CaineOfOberon) acknowledged as [Oberon](OberonOfAmber) after he proved it by walking the pattern.  It is said that the sea flows through the veins of those of her line, which is why [Julian](JulianOfOberon) is looked upon as somewhat strange in his choice of the forest, instead of the sea.
+Rilga did have the delight of having her son [Caine](CaineOfOberon) acknowledged by [Oberon](OberonOfAmber) after he proved it by walking the pattern.  It is said that the sea flows through the veins of those of her line, which is why [Julian](JulianOfOberon) is looked upon as somewhat strange in his choice of the forest, instead of the sea.
 
 Mother of:
  + [Caine](CaineOfOberon): ([Oberon](OberonOfDworkin) father) Born out of wedlock, but acknowledged, and recognized in both [Tremere](GoldenCircleKingdoms) and [Amber](KolvirPromontory)

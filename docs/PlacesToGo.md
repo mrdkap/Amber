@@ -18,12 +18,13 @@ A promontory is a solid bit in the [Sea Of Chance](SeaOfChance) - think of it as
 * [Earthsea](EarthSea), home of [Caelin](CaelinOfLaetatio)'s mother Circe
 * The [Egg Place](EggPromontory)
 * The cave where the [Dragon Council](DragonCouncil) meets - actually if you are not a dragon, probably not wise to go there, and if you are, probably only with an invitation.
-* [Vanir's Wrath](VanirsWrath) - the home (or at least birthplace) of Bibliomancy and the [Archivist](TheArchivist)
 * [Evil Amber](EvilAmber), a more powerful alternate Amberverse (presumed destroyed)
 * the [Hamster-verse](HamsterVerse) - Warning, Sane Dworkin lives here.
+* [Hell](HellPromontory) - A terrible place, which blocks most major powers
 * [Hillbilly Amber](HillbillyAmber) - Those familiar with the Hillbilly reality optimistically hope it has been destroyed.
 * [Pride's Folly](PridesFolly) - home to [Gwen's](GwenOfDworkin) laboratory, named something else before her fall (20020319-Log_Notes.txt)
 * The [Uberverse](UberVerse), a stupidly powerful alternate Amberverse
+* [Vanir's Wrath](VanirsWrath) - the home (or at least birthplace) of Bibliomancy and the [Archivist](TheArchivist)
 
 ## <A NAME="Primal">Primal Areas</A>
 * [The Sea of Chance](SeaOfChance) - If you have to ask, you probably don't want to go there.

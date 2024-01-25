@@ -38,3 +38,7 @@ A promontory is a solid bit in the [Sea Of Chance](SeaOfChance) - think of it as
 * [Sea of Thought](SeaOfThought) - Seat of the head of the Philosophers Guild.
 * [Norton's Head](NortonsHead) - Most people are dying to get in.
 * [Jean-Whale](JeanOfFlorimel) - Mostly transport to places, rather than a destination in and of itself, but some people like it there.
+
+## <A NAME="other">Other Places of Note</A>
+* [Inzalo](InzaloShadowEarth) - The beginning of an adventure
+  somewhere ... off in shadow.

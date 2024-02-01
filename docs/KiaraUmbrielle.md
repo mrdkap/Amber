@@ -1,6 +1,6 @@
 ## Kiara Umbrielle
 
-Part of the Inzalo run.
+Part of the [Inzalo](InzaloShadowEarth) run.
 
 Collector of Books (and occasional artifacts) from exotic places, and
 often brings them to, or gets them from auction.  Travels the world.

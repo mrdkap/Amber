@@ -1,6 +1,6 @@
 ## The Wisp
 
-Part of the Inzalo run.
+Part of the [Inzalo](InzaloShadowEarth) run.
 
 Contractor, free-lance, expensive, and designer.  Has the reputation
 of making it clean, look accidental, or incidental.  Does not "Send

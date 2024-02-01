@@ -1,10 +1,12 @@
-Mostly indisginguishable from current, modern shadow earth, even
+## Inzalo - Shadow Earth
+
+Mostly indistinguishable from current, modern shadow earth, even
 including the MCU (important plot point) and other modern references
 to culture and the like available.
 
 Basis for a start-point campaign.
 
-Africa map exploration - due to satelite anomoly, is the opening of
+Africa map exploration - due to satellite anomaly, is the opening of
 this environment.
 
 Everyone is starting with human stats, and 25 points beyond.
@@ -45,6 +47,14 @@ Yes that means that most of the large powers are beyond reach, but ... this is (
 
 </details>
 
+&nbsp;
+
+## Rogues Gallery (Alphabetical order)
+ + [Amelia Johnson](AmeliaJohnson)
+ + [Kiara Umbrielle](KiaraUmbrielle)
+ + [Ryan](RyanTheSpook)
+ + [The Wisp](TheWisp)
+  
 ## FAQ
 
 Q: Are the characters meant to be completely unaware of Amber, the pattern, and the existence of other shadow realms?
@@ -73,9 +83,9 @@ Q: What guidance would you offer in character creation?
 
 A: A character should be someone who would have the time, resources, energy  and curiosity to try and unravel something that might just prove to be a nut-job conspiracy theory.  This is a mystery, discovery, and exploration-based campaign.  There might be science fiction, fantasy, horror, comedy, or other elements woven in.
 
-If you want your character to have some of the domain knowledge you have, pick a reason that your character would have had that background. Like for example, if your character knows how to use a sword, is it because they fight heavy list?  Do Kendo?  Have been part of a live-steel tournament?  Is part of the StormTrooper 501st legion, and you practice with light sabers on a regular basis? Did fencing in University, and preferred saber to foil?
+If you want your character to have some of the domain knowledge you have, pick a reason that your character would have had that background. Like for example, if your character knows how to use a sword, is it because they fight heavy list?  Do Kendo?  Have been part of a live-steel tournament?  Is part of the Storm Trooper 501st legion, and you practice with light sabers on a regular basis? Did fencing in University, and preferred saber to foil?
 
-Same with any other skill.  If you want to have it, give me a reason that it is in your skill set, and that will probably suffice.  If you are ranked in a stat, we can figure out which world records that stat might have helped you create, or why you didn’t let your superiority shown (ranked in warefare gives you the wiles to play down your superiority).
+Same with any other skill.  If you want to have it, give me a reason that it is in your skill set, and that will probably suffice.  If you are ranked in a stat, we can figure out which world records that stat might have helped you create, or why you didn’t let your superiority shown (ranked in warfare gives you the wiles to play down your superiority).
 
 ----
 
@@ -91,9 +101,9 @@ Q: The quick guide makes Amber seem like a fantasy world, but then you mention e
 
 A: We’re starting in present day earth.  The overall setting for the system includes earth as one of many ‘shadow realms’ that exist between the opposing worlds of Amber and Chaos. 
 
-Most if not all of the path that I forsee does, indeed, sit on earth, or a close earth analogue.  In fact one of the folks asked if they could play a self-based character, and that is entirely possible. The end of the scenario might, for those interested, gateway into the greater amberverse.
+Most if not all of the path that I foresee does, indeed, sit on earth, or a close earth analogue.  In fact one of the folks asked if they could play a self-based character, and that is entirely possible. The end of the scenario might, for those interested, gateway into the greater amberverse.
 
 ----
 
-Other head-cannons avaialable for discussion.
+Other head-cannons available for discussion.
 

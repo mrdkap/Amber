@@ -9,4 +9,4 @@ Head-cannons avaialable for discussion.
 Africa map exploration - due to satelite anomoly, is the opening of
 this environment.
 
-[Auction Rules](InzaloAuctionRules.md)
+[Auction Rules](InzaloAuctionRules)

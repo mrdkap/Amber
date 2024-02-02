@@ -52,20 +52,21 @@ Yes that means that most of the large powers are beyond reach, but ... this is (
 ## Rogues Gallery (Alphabetical order)
  + [Amelia Johnson](AmeliaJohnson)
  + [Kiara Umbrielle](KiaraUmbrielle)
+ + [Piper Holly](PiperHolly)
  + [Ryan](RyanTheSpook)
  + [The Wisp](TheWisp)
   
 ## FAQ
 
-Q: Are the characters meant to be completely unaware of Amber, the pattern, and the existence of other shadow realms?
+**Q:** Are the characters meant to be completely unaware of Amber, the pattern, and the existence of other shadow realms?
 
-A: Well. Basically, except they exist in myths.  Zelazny and Stross both wrote their books.  You can elect for your character to have read them, or not, at your choosing.
+**A:** Well. Basically, except they exist in myths.  Zelazny and Stross both wrote their books.  You can elect for your character to have read them, or not, at your choosing.
 
 ----
 
-Q: So, for example, a character could have sorcery, but their understanding of it would be limited to the fantasy or comic stories they know.  Is that about right?
+**Q:** So, for example, a character could have sorcery, but their understanding of it would be limited to the fantasy or comic stories they know.  Is that about right?
 
-A: They could have the potential for sorcery, and be completely untrained, and it would often manifest to them as luck (either good or bad, dependent) or just like the universe favors them, in certain ways, since in this here and now, there is no objective, repeatable sorcery that people know about.
+**A:** They could have the potential for sorcery, and be completely untrained, and it would often manifest to them as luck (either good or bad, dependent) or just like the universe favors them, in certain ways, since in this here and now, there is no objective, repeatable sorcery that people know about.
 
 And over the course of the run, there is a high likelihood that they could end up in the company of someone who might be willing to train them.
 
@@ -79,9 +80,9 @@ Also, you should give thought to the shape that your character will understand t
 
 ----
 
-Q: What guidance would you offer in character creation?
+**Q:** What guidance would you offer in character creation?
 
-A: A character should be someone who would have the time, resources, energy  and curiosity to try and unravel something that might just prove to be a nut-job conspiracy theory.  This is a mystery, discovery, and exploration-based campaign.  There might be science fiction, fantasy, horror, comedy, or other elements woven in.
+**A:** A character should be someone who would have the time, resources, energy  and curiosity to try and unravel something that might just prove to be a nut-job conspiracy theory.  This is a mystery, discovery, and exploration-based campaign.  There might be science fiction, fantasy, horror, comedy, or other elements woven in.
 
 If you want your character to have some of the domain knowledge you have, pick a reason that your character would have had that background. Like for example, if your character knows how to use a sword, is it because they fight heavy list?  Do Kendo?  Have been part of a live-steel tournament?  Is part of the Storm Trooper 501st legion, and you practice with light sabers on a regular basis? Did fencing in University, and preferred saber to foil?
 
@@ -89,21 +90,20 @@ Same with any other skill.  If you want to have it, give me a reason that it is 
 
 ----
 
-Q: Should the characters already know each other?
+**Q:** Should the characters already know each other?
 
-A: It is possible, and some might know of the others as well, depending on backgrounds, and circles folks move through.  So being open about character concepts and possible directions might help things gel and mesh more.  I mean, if someone picks a vlogger or “influencer” as their character, others might have seen them.  If one is an expert in their field, others might have read their published papers, or have been to a lecture, etc.
+**A:** It is possible, and some might know of the others as well, depending on backgrounds, and circles folks move through.  So being open about character concepts and possible directions might help things gel and mesh more.  I mean, if someone picks a vlogger or “influencer” as their character, others might have seen them.  If one is an expert in their field, others might have read their published papers, or have been to a lecture, etc.
 
 Also, in case it wasn’t clear, from the above, any or all of you are highly encouraged to collaborate with your backstories, regardless of their having met or not, because sometimes complimentary paths of thought can help build characters that will mesh well, once play commences.
 
 ----
 
-Q: The quick guide makes Amber seem like a fantasy world, but then you mention elevators and other modern niceties.  I guess what I should be asking is what will the setting be? 
+**Q:** The quick guide makes Amber seem like a fantasy world, but then you mention elevators and other modern niceties.  I guess what I should be asking is what will the setting be? 
 
-A: We’re starting in present day earth.  The overall setting for the system includes earth as one of many ‘shadow realms’ that exist between the opposing worlds of Amber and Chaos. 
+**A:** We’re starting in present day earth.  The overall setting for the system includes earth as one of many ‘shadow realms’ that exist between the opposing worlds of Amber and Chaos. 
 
 Most if not all of the path that I foresee does, indeed, sit on earth, or a close earth analogue.  In fact one of the folks asked if they could play a self-based character, and that is entirely possible. The end of the scenario might, for those interested, gateway into the greater amberverse.
 
 ----
 
 Other head-cannons available for discussion.
-

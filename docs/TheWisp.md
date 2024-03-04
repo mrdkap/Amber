@@ -2,13 +2,20 @@
 
 Part of the [Inzalo](InzaloShadowEarth) run.
 
-Contractor, free-lance, expensive, and designer.  Has the reputation
-of making it clean, look accidental, or incidental.  Does not "Send
-messages" unless the message is that it is not healthy to get in the
-way of whomever might be hiring The Wisp.  No one knows what The Wisp
-looks like, and some, who have negotiated for The Wisp's services
-might or might not have been talking to a secondary, a plant, or
-someone who just had an ear-bud/mic combination on relay.
+A shrouded figure operating in the world of shadows, tackles unique
+and ethically intricate issues beyond the reach of conventional
+means. Discreet intelligence gathering, meticulous surveillance, and
+the uncanny ability to unearth veiled truths are her weapons of
+choice. This shadowy contractor employs advanced technology, a network
+of informants, and her own unparalleled resourcefulness to navigate
+complex situations with precision. However, the high cost of her
+services and the questionable nature of her clientele raise critical
+questions about the legality and ethical implications of her
+operations. Those seeking The Wisp's assistance encounter layers of
+anonymity, unsure if they're communicating directly with the enigmatic
+figure or merely a carefully placed intermediary. One thing is
+certain: attempting to interfere with The Wisp's business can prove
+hazardous to one's health.
 
 Price is high, but once agreed, delivery happens.
 

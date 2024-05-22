@@ -58,7 +58,14 @@ Yes that means that most of the large powers are beyond reach, but ... this is (
  + [Piper Holly](PiperHolly)
  + [Ryan](RyanTheSpook)
  + [The Wisp](TheWisp)
-  
+
+## Logs (So Far):
+ + [2024-02-07 Background Amelia and Chumley](https://plan-b.org/~dkap/Amber/logs/20240207-Background_Amelia_Chumley.html)
+ + [2024-02-29 Background Chumley and Drae](https://plan-b.org/~dkap/Amber/logs/20240229-Background_Chumley_Drae.html)
+ + [2024-03-05 Background Amelia and Kiara](https://plan-b.org/~dkap/Amber/logs/20240305-Background_Amelia_Kiara.html)
+ + [2024-03-17 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20240317-Inzalo_Run_Log.html)
+ + [2024-04-20 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20240420-Inzalo_Run_Log.html)
+
 ## FAQ
 
 **Q:** Are the characters meant to be completely unaware of Amber, the pattern, and the existence of other shadow realms?

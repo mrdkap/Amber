@@ -66,6 +66,12 @@ Yes that means that most of the large powers are beyond reach, but ... this is (
  + [2024-03-17 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20240317-Inzalo_Run_Log.html)
  + [2024-04-20 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20240420-Inzalo_Run_Log.html)
  + [2024-06-22 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20240622-Inzalo_Run_Log.html)
+ + [2024-07-13 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20240713-Inzalo_Run_Log.html)
+
+## Game Quotes
+
+**20240713**
+ + Amelia: I never thought I'd have to teach opsec to my computer.
 
 ## FAQ
 

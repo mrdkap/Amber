@@ -51,8 +51,10 @@ Yes that means that most of the large powers are beyond reach, but ... this is (
 
 ## Rogues Gallery (Alphabetical order)
  + [Amelia Johnson](AmeliaJohnson)
+ + Cedrick Greene
  + [Chumley Metrodora](ChumleyMetrodora)
  + [Drashir Blitzen](DrashirBlitzen)
+ + [Helen Wait](HelenWait)
  + [Kiara Umbrielle](KiaraUmbrielle)
  + [Killian Gribbs](KillianGribbs)
  + [Piper Holly](PiperHolly)

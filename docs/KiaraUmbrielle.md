@@ -2,7 +2,7 @@
 
 Part of the [Inzalo](InzaloShadowEarth) run.
 
-Kiara, a vivacious woman standing tall at 5'6" with sun-kissed pale
+Kiara, a vivacious woman standing tall at 5'9" with sun-kissed pale
 skin and an attitude that captures your attention, is a walking
 paradox. Her silvery blonde hair, streaked with vibrant hues like
 amethyst and sapphire, reflects a rebellious spirit, while her caramel
@@ -23,3 +23,9 @@ military family's resilience, she thrives on finding unconventional
 solutions, driven by a desire to conquer any challenge with a
 mischievous grin and a mind brimming with creative solutions.
 
+Daughter of [Nova](NovaUmbrielle) and [Marcus](MarcusUmbrielle) and
+either niece or student of [Chumley](ChumleyMetrodora) depending on
+who you ask.
+
+Lived on several different US military bases growing up, including the
+Okinawa base.

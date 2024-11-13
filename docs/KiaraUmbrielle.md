@@ -23,9 +23,10 @@ military family's resilience, she thrives on finding unconventional
 solutions, driven by a desire to conquer any challenge with a
 mischievous grin and a mind brimming with creative solutions.
 
-Daughter of [Nova](NovaUmbrielle) and [Marcus](MarcusUmbrielle) and
-either niece or student of [Chumley](ChumleyMetrodora) depending on
-who you ask.
+Born in 1990, she is the daughter of [Nova](NovaUmbrielle) and
+[Marcus](MarcusUmbrielle), sister of Elrond, who is 4 years younger
+than her, and either niece or student of [Chumley](ChumleyMetrodora)
+depending on who you ask.
 
 Lived on several different US military bases growing up, including the
 Okinawa base.

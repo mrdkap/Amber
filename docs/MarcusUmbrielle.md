@@ -2,10 +2,12 @@
 
 Part of the [Inzalo](InzaloShadowEarth) run.
 
-Deceased.  Survived by wife [Nova](NovaUmbrielle) and children
-[Kiara](KiaraUmbrielle) and Elrond.
+Born in 1968. Deceased at age 42 in 2010.  Survived by wife
+[Nova](NovaUmbrielle) who he married in 1988 and children
+[Kiara](KiaraUmbrielle) born in 1990 and Elrond born in 1994.
 
-Decorated Marine sniper.  Two Purple Hearts (the second awarded
+Decorated Marine sniper.  Enlisted in 1986, after the West Berlin
+discotheque bombing. Two Purple Hearts (the second awarded
 posthumously), Navy Distinguished Service Cross, Joint Service
 Commendation, Bronze Star, among others.
 

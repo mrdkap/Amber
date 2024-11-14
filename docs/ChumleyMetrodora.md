@@ -24,8 +24,9 @@ He is very proud of his adopted niece [Kiara](KiaraUmbrielle), and has
 been known to visit his dear friend [Nova](NovaUmbrielle) once a year,
 on her birthday, regardless of her comfort in his visits.
 
-Son of [Phil](PhillipMetrodora) and Elaine, and eldest brother of his
-brother and sister (to be named later.) 
+Born July 12, 1974, he is the son of [Phil](PhillipMetrodora) and
+Elaine, and eldest brother of his brother and sister (to be named
+later.)
 
 Elaine has passed on due to cancer.  He often visits her grave yearly
 on her birthday when he is not otherwise deployed, joining his father

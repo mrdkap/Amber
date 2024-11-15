@@ -1,6 +1,6 @@
 ## Drashir "Drae" Blitzen
 
-Part of the [Inzalo](InzaloShadowEarth] run.
+Part of the [Inzalo](InzaloShadowEarth) run.
 
 A gentleman of a medium build walking slowly into his middle years,
 Drae has a calming demeanor as if a bamboo reed studied to be a
@@ -17,4 +17,13 @@ to talk, about tactics, resources, options, and victory.
 
 He is the owner and operator of a high-end "gym" in downtown Manhattan. 
 Climbing walls, dojo, and Circus Arts.  Strong personality.  Skillful
-teacher.  Good judge of character.
+teacher.  Good judge of character. [Helen](HelenWait) is the main
+receptionist there.
+
+He is the secret owner and operator, through several LLCs of a
+high-end "escape room" facility, in one of the warehouse buildings in
+Manhattan. There are a number of actual secure rooms and interview
+rooms and the like hidden amongst the puzzle rooms.
+
+He has several [Teams](DrashirStrikeTeams) working for him.  As well
+as some free-lance consultants.

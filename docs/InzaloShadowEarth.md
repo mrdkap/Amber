@@ -51,13 +51,19 @@ Yes that means that most of the large powers are beyond reach, but ... this is (
 
 ## Rogues Gallery (Alphabetical order)
  + [Amelia Johnson](AmeliaJohnson)
- + Cedrick Greene
+ + [Cedrick Greene](CedrickGreene)
  + [Chumley Metrodora](ChumleyMetrodora)
  + [Drashir Blitzen](DrashirBlitzen)
+ + [Strike Teams](DrashirStrikeTeams)
  + [Helen Wait](HelenWait)
+ + [Jenny](JennyJohnson)
  + [Kiara Umbrielle](KiaraUmbrielle)
  + [Killian Gribbs](KillianGribbs)
+ + [Marcus Umbrielle](MarcusUmbrielle)
+ + [Nova Umbrielle](NovaUmbrielle)
+ + [Phillip Metrodora](PhillipMetrodora)
  + [Piper Holly](PiperHolly)
+ + [Eir](RavenEir)
  + [Ryan](RyanTheSpook)
  + [The Wisp](TheWisp)
 
@@ -69,6 +75,10 @@ Yes that means that most of the large powers are beyond reach, but ... this is (
  + [2024-04-20 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20240420-Inzalo_Run_Log.html)
  + [2024-06-22 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20240622-Inzalo_Run_Log.html)
  + [2024-07-13 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20240713-Inzalo_Run_Log.html)
+ + [2024-08-02 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20240802-Inzalo_Run_Log.html)
+ + [2024-09-08 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20240908-Inzalo_Run_Log.html)
+ + [2024-10-20 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20241020-Inzalo_Run_Log.html)
+ + [2024-11-10 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20241110-Inzalo_Run_Log.html)
 
 ## Game Quotes
 

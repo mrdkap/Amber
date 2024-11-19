@@ -90,7 +90,8 @@ Activity credits:
    - Delta is on delivery of the guests to the site.
  + [2024-11-10 Run](https://plan-b.org/~dkap/Amber/logs/20241110-Inzalo_Run_Log.html)
    - Alpha is traveling to Albania
-   - Bravo is traveling to Albania
+   - Bravo set up the 4th floor as a command center, around Jenny and
+     Amelia's needs - also is traveling to Albania
    - Charley is securing the prisoners
-   - Delta is working on extraction plans
+   - Delta is working on extraction plans, just in case
    - Kringle is on Jenny-Guard, and supply lines for Albania

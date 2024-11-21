@@ -32,3 +32,21 @@ Elaine has passed on due to cancer.  He often visits her grave yearly
 on her birthday when he is not otherwise deployed, joining his father
 and those of his siblings who can make it. They picnic by her grave,
 and catch her up with what they did across the year.
+
+Military record: JROTC in high school ('90-'92), enlisted in the
+Marines, and joined their War College at Quantico by invitation into
+their fourth class. Promoted a number of times, often at the
+insistence and with glowing reports from not only his superiors but
+his peers as well. Amongst them are the United Nations Medal, due to
+his work with UNMIK in Kosovo, a Bronze star for the incident with
+[Marcus](MarcusUmbrielle), where he helping with the evacuation under
+fire, in Iraq, as well as the Joint Meritorious Unit Award for other
+actions in Iraq, and a Good Conduct Medal, for actions in Japan. There
+is also a National Defense Service Medal, and a Joint Service
+Commendation Medal from the US and the Dorder of the Rising Sun
+(second class) from Japan, for undisclosed actions while working with
+the State Department in an undisclosed matter.  He retired with a full
+bird Colonel in 2012.
+
+Post military, he works for Kodak labs, and volunteers for the local
+EMT group.

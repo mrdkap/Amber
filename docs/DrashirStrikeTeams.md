@@ -16,7 +16,7 @@ mission-specific freelancers who are not always part of the personal
 brigade.
 
 Team makeup:
-  * Alpha
+  + Alpha
     The most cohesive unit. Its goal is to be ready for everything. As
     [Drae](DrashirBlitzen) sometimes has to plan on the fly, they are
     trained to trust those on the fly decisions even when fear would
@@ -30,7 +30,7 @@ Team makeup:
     - Breach expert/door kicker (and really loves her job.)
     -
     -
-  * Bravo
+  + Bravo
     Their specialization is slightly strange, but it is based on
     [Drae](DrashirBlitzen)'s trust in their leader. They are designed
     to function completely autonomously without any support from the
@@ -44,7 +44,7 @@ Team makeup:
     -
     -
     -
-  * Charlie
+  + Charlie
     They are all about distractions. The specialists there handle
     practical gear as well as hacking into enemy communications when
     capable of causing as much misdirection in the enemy as
@@ -57,7 +57,7 @@ Team makeup:
     -
     -
     -
-  * Delta
+  + Delta
     Delta. Is. Loud. One of the most aggressive teams under
     [Drae](DrashirBlitzen)'s command. Delta team is heavy weapons,
     fortified breaches, overpowering shows of force, and a damn good
@@ -70,7 +70,7 @@ Team makeup:
     - Gifter of the blow gun
     -
     -
-  * Epsilon
+  + Epsilon
     Officially, Epsilon's specialty is "counterattack"; a unit
     designed to pay attention in longer excursions and pivot to strike
     back at the current pain points. In actuality, Epsilon's focus is
@@ -86,25 +86,25 @@ Team makeup:
 	-
 	-
 	-
-  * Foxtrot
+  + Foxtrot
     + Lead missing (James Earlson proposed.)
 	-
 	-
 	-
 	-
-  * Kringle
+  + Kringle
     +
     -
     -
     -
     -
-  * Mavin
+  + Mavin
     +
 	-
 	-
 	-
 	-
-  * Specter
+  + Specter
     +
 	-
 	-

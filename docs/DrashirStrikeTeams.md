@@ -16,100 +16,100 @@ mission-specific freelancers who are not always part of the personal
 brigade.
 
 Team makeup:
-  + Alpha
-    The most cohesive unit. Its goal is to be ready for everything. As
-    [Drae](DrashirBlitzen) sometimes has to plan on the fly, they are
-    trained to trust those on the fly decisions even when fear would
-    have them act otherwise. Alpha is usually 6 because
-    [Drae](DrashirBlitzen) is with them. Also, they can expand to 7 if
-    they are training a replacement. (As they did with the current
-    lead.) He needed to gel with who and what Alpha already was before
-    [Millie](MaximillianMastersonIII) could go to Beta.
-    + [Horrorshow](HoratioDorinto)
-    -
-    - Breach expert/door kicker (and really loves her job.)
-    -
-    -
-  + Bravo
-    Their specialization is slightly strange, but it is based on
-    [Drae](DrashirBlitzen)'s trust in their leader. They are designed
-    to function completely autonomously without any support from the
-    rest of the teams, if necessary. When [Drae](DrashirBlitzen) needs
-    an ace in the hole to be in play and not be seen on the board
-    until the endgame, he'll give Bravo the mission and know they will
-    be there and ready when the time comes. The team has experts in
-    survival and resource acquisition.
-    + [Millie](MaximillianMastersonIII)
-    -
-    -
-    -
-    -
-  + Charlie
-    They are all about distractions. The specialists there handle
-    practical gear as well as hacking into enemy communications when
-    capable of causing as much misdirection in the enemy as
-    possible. Be it a multi-satellite hack, a "poorly timed" accident
-    in an unsuspecting convoy, or just a well-placed smoke
-    bomb. Charlie keeps the deck shuffled so no one but
-    [Drae](DrashirBlitzen) knows where the aces are.
-    + [Copperfield](CrissandraMinx)
-    -
-    -
-    -
-    -
-  + Delta
-    Delta. Is. Loud. One of the most aggressive teams under
-    [Drae](DrashirBlitzen)'s command. Delta team is heavy weapons,
-    fortified breaches, overpowering shows of force, and a damn good
-    time. It's occasionally hysterical how freakishly quiet Delta can
-    be before the storm. It is an obvious sign that
-    [Horrorshow](HoratioDorinto) was second in command there before he
-    was transferred to Alpha.
-    + [Fuse](GlibertLincoln)
-    -
-    - Gifter of the blow gun
-    -
-    -
-  + Epsilon
-    Officially, Epsilon's specialty is "counterattack"; a unit
-    designed to pay attention in longer excursions and pivot to strike
-    back at the current pain points. In actuality, Epsilon's focus is
-    "vengeance". The team is most upset when someone is being taken
-    advantage of, or hurt. Epsilon excels at tracking, incapacitating,
-    and extracting retribution from targets that deserve their
-    attention. Leaving them in a town where the innocent are being
-    held hostage is the equivalent of setting off a biblical culling
-    of the firstborn. And they leave mercy to [Drae](DrashirBlitzen),
-    for that is not their calling.
-	+ [Karma](ArialLi)
-	-
-	-
-	-
-	-
-  + Foxtrot
-    + Lead missing (James Earlson proposed.)
-	-
-	-
-	-
-	-
-  + Kringle
-    +
-    -
-    -
-    -
-    -
-  + Mavin
-    +
-	-
-	-
-	-
-	-
-  + Specter
-    +
-	-
-	-
-	-
-	-
+ + Alpha
+   The most cohesive unit. Its goal is to be ready for everything. As
+   [Drae](DrashirBlitzen) sometimes has to plan on the fly, they are
+   trained to trust those on the fly decisions even when fear would
+   have them act otherwise. Alpha is usually 6 because
+   [Drae](DrashirBlitzen) is with them. Also, they can expand to 7 if
+   they are training a replacement. (As they did with the current
+   lead.) He needed to gel with who and what Alpha already was before
+   [Millie](MaximillianMastersonIII) could go to Beta.
+   - [Horrorshow](HoratioDorinto)
+   -
+   - Breach expert/door kicker (and really loves her job.)
+   -
+   -
+ + Bravo
+   Their specialization is slightly strange, but it is based on
+   [Drae](DrashirBlitzen)'s trust in their leader. They are designed
+   to function completely autonomously without any support from the
+   rest of the teams, if necessary. When [Drae](DrashirBlitzen) needs
+   an ace in the hole to be in play and not be seen on the board
+   until the endgame, he'll give Bravo the mission and know they will
+   be there and ready when the time comes. The team has experts in
+   survival and resource acquisition.
+   - [Millie](MaximillianMastersonIII)
+   -
+   -
+   -
+   -
+ + Charlie
+   They are all about distractions. The specialists there handle
+   practical gear as well as hacking into enemy communications when
+   capable of causing as much misdirection in the enemy as
+   possible. Be it a multi-satellite hack, a "poorly timed" accident
+   in an unsuspecting convoy, or just a well-placed smoke
+   bomb. Charlie keeps the deck shuffled so no one but
+   [Drae](DrashirBlitzen) knows where the aces are.
+   - [Copperfield](CrissandraMinx)
+   -
+   -
+   -
+   -
+ + Delta
+   Delta. Is. Loud. One of the most aggressive teams under
+   [Drae](DrashirBlitzen)'s command. Delta team is heavy weapons,
+   fortified breaches, overpowering shows of force, and a damn good
+   time. It's occasionally hysterical how freakishly quiet Delta can
+   be before the storm. It is an obvious sign that
+   [Horrorshow](HoratioDorinto) was second in command there before he
+   was transferred to Alpha.
+   - [Fuse](GlibertLincoln)
+   -
+   - Gifter of the blow gun
+   -
+   -
+ + Epsilon
+   Officially, Epsilon's specialty is "counterattack"; a unit
+   designed to pay attention in longer excursions and pivot to strike
+   back at the current pain points. In actuality, Epsilon's focus is
+   "vengeance". The team is most upset when someone is being taken
+   advantage of, or hurt. Epsilon excels at tracking, incapacitating,
+   and extracting retribution from targets that deserve their
+   attention. Leaving them in a town where the innocent are being
+   held hostage is the equivalent of setting off a biblical culling
+   of the firstborn. And they leave mercy to [Drae](DrashirBlitzen),
+   for that is not their calling.
+   - [Karma](ArialLi)
+   -
+   -
+   -
+   -
+ + Foxtrot
+   - Lead missing (James Earlson proposed.)
+   -
+   -
+   -
+   -
+ + Kringle
+   - Lead
+   -
+   -
+   -
+   -
+ + Mavin
+   - Lead
+   -
+   -
+   -
+   -
+ + Specter
+   - Lead
+   -
+   -
+   -
+   -
 	
 Activity credits:
  + [Pre-run in Albania](https://plan-b.org/~dkap/Amber/logs/20240908-Background_Drae_Cedrick.html)

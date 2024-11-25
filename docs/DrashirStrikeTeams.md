@@ -26,10 +26,10 @@ Team makeup:
    lead.) He needed to gel with who and what Alpha already was before
    [Millie](MaximillianMastersonIII) could go to Beta.
    + [Horrorshow](HoratioDorinto)
-   - Second
+   - 
    - Third: Breach expert/door kicker (and really loves her job.)
-   - Forth
-   - Fifth
+   - 
+   - 
  * Bravo
    Their specialization is slightly strange, but it is based on
    [Drae](DrashirBlitzen)'s trust in their leader. They are designed
@@ -40,11 +40,11 @@ Team makeup:
    be there and ready when the time comes. The team has experts in
    survival and resource acquisition.
    + [Millie](MaximillianMastersonIII)
-   - Second
-   - Third
-   - Fourth
-   - Fifth
- + Charlie
+   - 
+   - 
+   - 
+   - 
+ * Charlie
    They are all about distractions. The specialists there handle
    practical gear as well as hacking into enemy communications when
    capable of causing as much misdirection in the enemy as
@@ -52,12 +52,12 @@ Team makeup:
    in an unsuspecting convoy, or just a well-placed smoke
    bomb. Charlie keeps the deck shuffled so no one but
    [Drae](DrashirBlitzen) knows where the aces are.
-   - [Copperfield](CrissandraMinx)
+   + [Copperfield](CrissandraMinx)
    - 
    - 
    - 
    - 
- + Delta
+ * Delta
    Delta. Is. Loud. One of the most aggressive teams under
    [Drae](DrashirBlitzen)'s command. Delta team is heavy weapons,
    fortified breaches, overpowering shows of force, and a damn good
@@ -65,12 +65,12 @@ Team makeup:
    be before the storm. It is an obvious sign that
    [Horrorshow](HoratioDorinto) was second in command there before he
    was transferred to Alpha.
-   - [Fuse](GlibertLincoln)
-   - Second
+   + [Fuse](GilbertLincoln)
+   - 
    - Third: Gifter of the blow gun
-   - Fourth
-   - Fifth
- + Epsilon
+   - 
+   - 
+ * Epsilon
    Officially, Epsilon's specialty is "counterattack"; a unit
    designed to pay attention in longer excursions and pivot to strike
    back at the current pain points. In actuality, Epsilon's focus is
@@ -82,19 +82,19 @@ Team makeup:
    of the firstborn. And they leave mercy to [Drae](DrashirBlitzen),
    for that is not their calling.
    - [Karma](ArialLi)
-   - Second
-   - Third
-   - Fourth
-   - Fifth
- + Foxtrot
+   - 
+   - 
+   - 
+   - 
+ * Foxtrot
    - Lead missing (James Earlson proposed.)
-   - Second
-   - Third
-   - Forth
-   - Fifth
- + Kringle
- + Mavin
- + Specter
+   - 
+   - 
+   - 
+   - 
+ * Kringle
+ * Mavin
+ * Specter
 	
 Activity credits:
  + [Pre-run in Albania](https://plan-b.org/~dkap/Amber/logs/20240908-Background_Drae_Cedrick.html)

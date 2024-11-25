@@ -11,4 +11,4 @@ intense gunfire, Horatio can keep a peaceful and focused demeanor ...
 until the time for calm ends. Then Horrorshow is at the front of the
 pack, guns blazing, using whatever he can to defeat the enemy. One of
 the most impressive things he can do is pause that rage at a second's
-notice at Drae's command.
+notice at [Drae](DrashirBlitzen)'s command.

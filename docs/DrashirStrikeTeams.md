@@ -97,7 +97,7 @@ Team makeup:
  * Specter
 	
 Activity credits:
- + [Pre-run in Albania](https://plan-b.org/~dkap/Amber/logs/20240908-Background_Drae_Cedrick.html)
+ + [Pre-run in Albania](https://plan-b.org/~dkap/Amber/logs/20240903-Background_Cedrick_Drae.html)
    - Alpha on penetration, Alpha 3 (being female) uses that to calm
      the rescued.
    - Bravo on close oversight, to guard exfiltration

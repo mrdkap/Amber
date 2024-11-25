@@ -1,4 +1,4 @@
-## Maximillia "Millie" Masterson III
+## Maximillian "Millie" Masterson III
 
 Part of the [Inzalo](InzaloShadowEarth) run.
 

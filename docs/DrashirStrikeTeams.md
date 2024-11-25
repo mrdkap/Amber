@@ -16,7 +16,7 @@ mission-specific freelancers who are not always part of the personal
 brigade.
 
 Team makeup:
- + Alpha
+ * Alpha
    The most cohesive unit. Its goal is to be ready for everything. As
    [Drae](DrashirBlitzen) sometimes has to plan on the fly, they are
    trained to trust those on the fly decisions even when fear would
@@ -25,12 +25,12 @@ Team makeup:
    they are training a replacement. (As they did with the current
    lead.) He needed to gel with who and what Alpha already was before
    [Millie](MaximillianMastersonIII) could go to Beta.
-   - [Horrorshow](HoratioDorinto)
+   + [Horrorshow](HoratioDorinto)
    - Second
    - Third: Breach expert/door kicker (and really loves her job.)
    - Forth
    - Fifth
- + Bravo
+ * Bravo
    Their specialization is slightly strange, but it is based on
    [Drae](DrashirBlitzen)'s trust in their leader. They are designed
    to function completely autonomously without any support from the
@@ -39,7 +39,7 @@ Team makeup:
    until the endgame, he'll give Bravo the mission and know they will
    be there and ready when the time comes. The team has experts in
    survival and resource acquisition.
-   - [Millie](MaximillianMastersonIII)
+   + [Millie](MaximillianMastersonIII)
    - Second
    - Third
    - Fourth
@@ -53,10 +53,10 @@ Team makeup:
    bomb. Charlie keeps the deck shuffled so no one but
    [Drae](DrashirBlitzen) knows where the aces are.
    - [Copperfield](CrissandraMinx)
-   - Second
-   - Third
-   - Fourth
-   - Fifth
+   - 
+   - 
+   - 
+   - 
  + Delta
    Delta. Is. Loud. One of the most aggressive teams under
    [Drae](DrashirBlitzen)'s command. Delta team is heavy weapons,

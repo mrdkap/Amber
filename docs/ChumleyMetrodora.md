@@ -33,6 +33,8 @@ on her birthday when he is not otherwise deployed, joining his father
 and those of his siblings who can make it. They picnic by her grave,
 and catch her up with what they did across the year.
 
+He has a number of cousins, one of which is [Sally](SallyMetrodora).
+
 Military record: JROTC in high school ('90-'92), enlisted in the
 Marines, and joined their War College at Quantico by invitation into
 their fourth class. Promoted a number of times, often at the

@@ -5,7 +5,7 @@ Part of the [Inzalo](InzaloShadowEarth) run.
 Daughter of Alexander (Alex) and Broomhilde (Hilda) Metrodora, and
 sister to Annette.
 
-Born ?? she is a dark-haired, dark-eyed 5'2" muscular young lady with
+Born 1985 she is a dark-haired, dark-eyed 5'2" muscular young lady with
 an intensity that sets some people off.  Introvert and tomboy, was
 never good at making friends. Was more often found with her nose in a
 book, or her hands in the innards of some piece of equipment, than

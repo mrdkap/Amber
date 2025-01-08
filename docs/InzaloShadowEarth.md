@@ -51,26 +51,33 @@ Yes that means that most of the large powers are beyond reach, but ... this is (
 
 ## Rogues Gallery (Alphabetical order)
  + [Amelia Johnson](AmeliaJohnson)
+ + [Arial Li](ArialLi)
  + [Cedrick Greene](CedrickGreene)
  + [Chumley Metrodora](ChumleyMetrodora)
+ + [Crissandra Minx](CrissandraMinx)
  + [Drashir Blitzen](DrashirBlitzen)
  + [Strike Teams](DrashirStrikeTeams)
+ + [Gilbert Lincoln](GilbertLincoln)
  + [Helen Wait](HelenWait)
+ + [Horatio Dorinto](HoratioDorinto)
  + [Jenny](JennyJohnson)
  + [Kiara Umbrielle](KiaraUmbrielle)
  + [Killian Gribbs](KillianGribbs)
  + [Marcus Umbrielle](MarcusUmbrielle)
+ + [Maximillian Masterson III](MaximillianMastersonIII)
  + [Nova Umbrielle](NovaUmbrielle)
  + [Phillip Metrodora](PhillipMetrodora)
  + [Piper Holly](PiperHolly)
  + [Eir](RavenEir)
  + [Ryan](RyanTheSpook)
+ + [Sally Metrodora](SallyMetrodora)
  + [The Wisp](TheWisp)
 
 ## Logs (So Far):
  + [2024-02-07 Background Amelia and Chumley](https://plan-b.org/~dkap/Amber/logs/20240207-Background_Amelia_Chumley.html)
  + [2024-02-29 Background Chumley and Drae](https://plan-b.org/~dkap/Amber/logs/20240229-Background_Chumley_Drae.html)
  + [2024-03-05 Background Amelia and Kiara](https://plan-b.org/~dkap/Amber/logs/20240305-Background_Amelia_Kiara.html)
+ + [2024-09-03 Background Cedrick Drae](https://plan-b.org/~dkap/Amber/logs/20240903-Background_Cedrick_Drae.html)
  + [2024-03-17 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20240317-Inzalo_Run_Log.html)
  + [2024-04-20 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20240420-Inzalo_Run_Log.html)
  + [2024-06-22 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20240622-Inzalo_Run_Log.html)
@@ -79,6 +86,7 @@ Yes that means that most of the large powers are beyond reach, but ... this is (
  + [2024-09-08 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20240908-Inzalo_Run_Log.html)
  + [2024-10-20 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20241020-Inzalo_Run_Log.html)
  + [2024-11-10 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20241110-Inzalo_Run_Log.html)
+ + [2024-12-15 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20241215-Inzalo_Run_Log.html)
 
 ## Game Quotes
 

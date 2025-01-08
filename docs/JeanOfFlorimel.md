@@ -2,7 +2,7 @@ Son of [Flora](FlorimelOfOberon) and [Rainbow](RainbowOfDancers). Half-brother t
 
 Multi-homed eternally five-year-old master of [Un-Life](UnLife).  The Prophet of (Auntie) [Verra](DemonGoddessVerra) and the [Unicorn](UnicornOfAmber).  Steward of [Amber](KolvirPromontory). Head of [House Swayvill](HouseSwayvill).  Apprentice to [Dworkin](DworkinOfAmber) (in the Jester's Guild of Amber.)  Former [Realms Lord](RealmsLords).
 
-Jean was born approximately ten (fifteen?) years ago by the Amber clock, but walked the [Primal Pattern](PrimalPattern) when he was five.  His thought processes have evolved since then, but he cannot be said to have "grown up". A shadow of his old coloring book can be found [[here|Jeans Coloring Book]].
+Jean was born approximately ten (fifteen?) years ago by the Amber clock, but walked the [Primal Pattern](PrimalPattern) when he was five.  His thought processes have evolved since then, but he cannot be said to have "grown up". A shadow of his old coloring book can be found [here](Jeans-Coloring-Book).
 
 Prominent Jeans:
  + Primal Jeans - Jean's original body, and a second body reshaped by the [Pattern](PrimalPattern) and [Dworkin](DworkinOfAmber) to be the same as the original.  The second body was once a [Logrus](TheLogrus) master, but this hardly matters except when Jean is stoned.

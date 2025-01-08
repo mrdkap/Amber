@@ -1,4 +1,4 @@
-A coloring book created by [[JeanOfFlorimel|Jean]] soon after he walked the Pattern.
+A coloring book created by [Jean](JeanOfFlorimel) soon after he walked the Pattern.
 
 ###  Corwin goes Bye-Bye
 ![](https://github.com/mrdkap/Amber/blob/master/logs/jean/coloring_book/jean1.jpg?raw=true)

@@ -84,7 +84,8 @@ Team makeup:
    - [Karma](ArialLi)
    - 
    - 
-   - 
+   - Wolfe (female): Quiet all the time. Quick when necessary. Very
+     much gives back threefold.
    - 
  * Foxtrot
    - Lead missing (James Earlson proposed.)

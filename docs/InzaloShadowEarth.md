@@ -90,6 +90,7 @@ Yes that means that most of the large powers are beyond reach, but ... this is (
  + [2025-01-19 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20250119-Inzalo_Run_Log.html)
  + [2025-03-23 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20250323-Inzalo_Run_Log.html)
  + [2025-04-20 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20250420-Inzalo_Run_Log.html)
+ + [2025-09-28 Inzalo Run Log](https://plan-b.org/~dkap/Amber/logs/20250928-Inzalo_Run_Log.html)
 
 ## Game Quotes
 
